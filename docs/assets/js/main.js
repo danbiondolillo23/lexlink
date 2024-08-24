@@ -89,7 +89,7 @@ function startNewGame() {
 
 async function getRandomCategories(callback) {
   try {
-      const response = await fetch('../public/connections.json');
+      const response = await fetch('../docs/connections.json');
       const data = await response.json();
 
       const randomIndex = Math.floor(Math.random() * data.length);
