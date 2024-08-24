@@ -1,0 +1,43 @@
+$fonts: (
+  cheltenham: (
+    normal: 300 500,
+  ),
+  franklin: (
+    normal: 300 400 500 600 700 800,
+    italic: 500,
+  ),
+  franklin-cw: (
+    normal: 400 500,
+  ),
+  karnak: (
+    normal: 400 500 600 700,
+  ),
+  karnakcondensed: (
+    normal: 700,
+  ),
+  stymie: (
+    normal: 500 700 800,
+  ),
+);
+
+$franklin-md: nyt-franklin, Arial;
+$franklin: nyt-franklin, Arial;
+$franklin-hd: nyt-franklin, Arial;
+$franklin-cw: nyt-franklin-cw, Arial;
+$stymie: nyt-stymie, Georgia;
+$stymie-md: nyt-stymie, Georgia;
+$cheltenham: nyt-cheltenham, Georgia;
+$karnak: nyt-karnak, Georgia;
+$karnak-condensed: nyt-karnakcondensed, Georgia;
+
+$weight-extra-light: 200;
+$weight-light: 300;
+$weight-book: 400;
+$weight-medium: 500;
+$weight-medium-bold: 600;
+$weight-bold: 700;
+$weight-extra-bold: 800;
+$weight-headline: 900;
+
+$font-serif-base: georgia, 'times new roman', times, serif;
+$font-sans-base: arial, helvetica, sans-serif;

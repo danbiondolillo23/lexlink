@@ -1,0 +1,60 @@
+$device-types: mobile desktop;
+
+$grid-breakpoints: (
+  xs: 0,
+  midsm: 376px,
+  sm: 444px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+);
+
+$se-height: 668px;
+$se-width: 375px;
+
+$ipad-mini-height: 1024px;
+$ipad-mini-width: 768px;
+
+$galaxy-fold-height: 882px;
+$galaxy-fold-width: 344px;
+
+$galaxy-fold-height_unfolded: 960px;
+$galaxy-fold-width_unfolded: 769px;
+
+$galaxy-tab-A9-height: 1480px;
+$galaxy-tab-A9-width: 720px;
+
+$row-max-width-desktop: 1280px;
+$row-max-width-mobile: 460px;
+
+$gutter-col: 24px;
+$gutter-page-desktop: 36px;
+$gutter-page-mobile: 12px;
+
+$nav-height-desktop: 56px;
+$nav-height-mobile: 48px;
+$messaging-banner-height: 44px;
+
+$z-index-nav: 100;
+
+$phone-keyboard-height: 120px;
+$tablet-keyboard-height: 256px;
+$mobile-clue-bar-height: 48px;
+$desktop-clue-bar-height: 60px;
+
+$puzzle-header-max-width: 1132px;
+$puzzle-body-max-width: 1132px;
+$puzzle-toolbar-max-width: 1605px;
+$note-content-max-width: 580px;
+$print-button-max-width: 264px;
+
+$mobile-header-height: 45px;
+$desktop-header-height: 65px;
+$free-preview-bannerheight: 44px;
+$free-preview-bannermobile: 68px;
+$free-preview-bannermobile-landscape: 33px;
+
+$tablet-keyboard-height-landscape: 250px;
+$tablet-keyboard-height-portrait: 300px;
+
+$breathing-room: 10px;
