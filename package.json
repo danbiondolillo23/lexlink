@@ -2,7 +2,7 @@
   "name": "lexlink",
   "version": "1.0.0",
   "scripts": {
-    "build-css": "sass public/assets/scss/main.scss:public/assets/css/main.css"
+    "build-css": "sass docs/assets/scss/main.scss:docs/assets/css/main.css"
   },
   "dependencies": {
     "sass": "^1.77.8"
