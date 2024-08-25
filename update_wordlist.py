@@ -2,7 +2,7 @@ import json
 from datetime import datetime    
 import requests
 
-file = open('connections.json')
+file = open('docs/connections.json')
 connections = json.load(file)
 file.close()
 
