@@ -1,0 +1,334 @@
+@use 'sass:math';
+
+@import './variables';
+
+@function breakpoint-next(
+  $name,
+  $breakpoints: $grid-breakpoints,
+  $breakpoint-names: map-keys($breakpoints)
+) {
+  $n: index($breakpoint-names, $name);
+  @return if(
+    $n < length($breakpoint-names),
+    nth($breakpoint-names, $n + 1),
+    null
+  );
+}
+
+@function breakpoint-min($name, $breakpoints: $grid-breakpoints) {
+  $min: map-get($breakpoints, $name);
+  @return if($min != 0, $min, null);
+}
+
+@function breakpoint-infix($name, $breakpoints: $grid-breakpoints) {
+  @return if(
+    breakpoint-min($name, $breakpoints) == null,
+    '',
+    '-#{$name}'
+  );
+}
+
+@function breakpoint-max($name, $breakpoints: $grid-breakpoints) {
+  $next: breakpoint-next($name, $breakpoints);
+  @return if(
+    $next,
+    breakpoint-min($next, $breakpoints) - 0.02px,
+    null
+  );
+}
+
+@mixin view-width-min($name, $breakpoints: $grid-breakpoints) {
+  $min: breakpoint-min($name, $breakpoints);
+  @if $min {
+    @media (min-width: $min) {
+      @content;
+    }
+  } @else {
+    @content;
+  }
+}
+
+@mixin view-width-max($name, $breakpoints: $grid-breakpoints) {
+  $max: breakpoint-max($name, $breakpoints);
+  @if $max {
+    @media (max-width: $max) {
+      @content;
+    }
+  } @else {
+    @content;
+  }
+}
+
+@mixin view-width-between(
+  $lower,
+  $upper,
+  $breakpoints: $grid-breakpoints
+) {
+  $min: breakpoint-min($lower, $breakpoints);
+  $max: breakpoint-max($upper, $breakpoints);
+
+  @if $min != null and $max != null {
+    @media (min-width: $min) and (max-width: $max) {
+      @content;
+    }
+  } @else if $max == null {
+    @include view-width-min($lower, $breakpoints) {
+      @content;
+    }
+  } @else if $min == null {
+    @include viw-width-max($upper, $breakpoints) {
+      @content;
+    }
+  }
+}
+
+@mixin view-width-only($name, $breakpoints: $grid-breakpoints) {
+  $min: breakpoint-min($name, $breakpoints);
+  $max: breakpoint-max($name, $breakpoints);
+
+  @if $min != null and $max != null {
+    @media (min-width: $min) and (max-width: $max) {
+      @content;
+    }
+  } @else if $max == null {
+    @include view-width-min($name, $breakpoints) {
+      @content;
+    }
+  } @else if $min == null {
+    @include view-width-max($name, $breakpoints) {
+      @content;
+    }
+  }
+}
+
+@mixin view-ratio($orientation) {
+  @media (orientation: $orientation) {
+    @content;
+  }
+}
+
+@mixin view-device($device) {
+  @if index($device-types, $device) {
+    .pz-#{$device} {
+      @content;
+    }
+  } @else {
+    @error "bad device value";
+  }
+}
+
+@mixin tracking($sketchUnits) {
+  letter-spacing: $sketchUnits + 0px;
+}
+
+@mixin flexbox(
+  $direction: row,
+  $align: center,
+  $justify: center,
+  $wrap: nowrap,
+  $display: flex
+) {
+  display: $display;
+  flex-direction: $direction;
+  align-items: $align;
+  justify-content: $justify;
+  flex-wrap: $wrap;
+}
+
+@function strip-unit($number) {
+  @if type-of($number) == 'number' and not unitless($number) {
+    @return math.div($number, $number * 0 + 1);
+  }
+
+  @return $number;
+}
+
+@mixin font-size($sizeRaw) {
+  $size: strip-unit($sizeRaw);
+
+  font-size: $size + px;
+  font-size: $size * 0.0625 + rem;
+  line-height: ($size * 1.3) + px;
+  line-height: ($size * 1.3) * 0.0625 + rem;
+}
+
+$browser-context: 16;
+
+@function rem($pixels, $context: $browser-context) {
+  @return #{$pixels/$context}rem;
+}
+
+@mixin font-size-clamp($sizeRelative, $maxSizePixels) {
+  font-size: $sizeRelative;
+  font-size: calc(min(#{$sizeRelative}, #{$maxSizePixels}));
+}
+
+@function strip-unit($number) {
+  @if type-of($number) == 'number' and not unitless($number) {
+    @return math.div($number, $number * 0 + 1);
+  }
+
+  @return $number;
+}
+
+@mixin evenPaddingFranklin($fontSizeRaw, $lineHeightRaw) {
+  $fontSize: strip-unit($fontSizeRaw);
+  $lineHeight: strip-unit($lineHeightRaw);
+  $franklinBottomDescrepancy: 0.23;
+  $bottomSpace: $fontSize * $franklinBottomDescrepancy;
+
+  font-size: $fontSize + px;
+  padding-top: $bottomSpace + px;
+  padding-bottom: 0;
+  line-height: ($lineHeight - $bottomSpace) + px;
+  @include ie11-only {
+    $ieTop: 0.23;
+    $paddingBottom: $fontSize * $ieTop;
+
+    padding-bottom: $paddingBottom + px;
+    padding-top: 0;
+    line-height: ($lineHeight - $paddingBottom) + px;
+  }
+
+  @include edge-only {
+    $edgeTop: 0.21;
+    $paddingBottom: ($fontSize * $edgeTop);
+
+    padding-bottom: $paddingBottom + px;
+    padding-top: 0;
+    line-height: ($lineHeight - $paddingBottom) + px;
+  }
+}
+
+@mixin firefox-only {
+  @at-root {
+    @-moz-document url-prefix() {
+      & {
+        @content;
+      }
+    }
+  }
+}
+
+@mixin ie11-only {
+  @media all and (-ms-high-contrast: none),
+    (-ms-high-contrast: active) {
+    @content;
+  }
+}
+
+@mixin edge-only {
+  @supports (-ms-ime-align: auto) {
+    @content;
+  }
+}
+
+@mixin tiny-phone {
+  @media (max-width: 365px) {
+    @content;
+  }
+}
+
+@mixin se-only {
+  @media (max-height: $se-height) and (max-width: $se-width) {
+    @content;
+  }
+}
+
+@mixin ipad-mini-only {
+  @media (max-height: $ipad-mini-height) and (min-width: calc(#{$ipad-mini-width} - 1px)) and (max-width: $ipad-mini-width) {
+    @content;
+  }
+}
+
+@mixin galaxy-fold-only {
+  @media (max-height: $galaxy-fold-height) and (max-width: $galaxy-fold-width) {
+    @content;
+  }
+}
+
+@mixin galaxy-fold-unfolded-only {
+  @media (max-height: $galaxy-fold-height_unfolded) and (min-width: calc(#{$galaxy-fold-width_unfolded} - 1px)) and (max-width: $galaxy-fold-width_unfolded) {
+    @content;
+  }
+}
+
+@mixin galaxy-tab-A9-only {
+  @media (max-height: $galaxy-tab-A9-height) and (min-width: calc(#{$galaxy-tab-A9-width} - 1px)) and (max-width: $galaxy-tab-A9-width) {
+    @content;
+  }
+}
+@mixin phone {
+  @media (max-width: 499px) {
+    @content;
+  }
+}
+
+@mixin phone-and-tablet {
+  @media (max-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin small-device {
+  @media (max-width: 800px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: 500px) and (max-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin tablet-and-desktop {
+  @media (min-width: 500px) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: 1025px) {
+    @content;
+  }
+}
+
+$breakpoints: (
+  xs-max: 575px,
+  sm-min: 576px,
+  sm-max: 767px,
+  md-min: 768px,
+  md-max: 991px,
+  lg-min: 992px,
+  lg-max: 1279px,
+  xl-min: 1280px,
+  xl-max: 1399px,
+  xxl-min: 1400px,
+);
+
+@mixin stretch {
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+@mixin nav {
+  .pz-hybrid {
+    .pz-nav {
+      opacity: 0;
+      visibility: hidden;
+    }
+    .pz-nav.show-mobile-toolbar {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+
+  .pz-nav.show-mobile-toolbar {
+    .pz-nav__title {
+      width: 0;
+    }
+  }
+}

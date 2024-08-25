@@ -1,0 +1,68 @@
+@use './scss-helpers/fonts';
+@import './scss-helpers/mixins';
+@import './scss-helpers/accessibility';
+@import './variables';
+
+.cardsContainer {
+  display: grid;
+  gap: #{$card-gap};
+  position: absolute;
+  width: calc(3 * #{$card-gap} + 4 * #{$card-width-large});
+  bottom: 0;
+  grid-template-columns: repeat(4, 1fr);
+  min-height: 0;
+  min-width: 0;
+}
+
+.cardsContainer4 {
+  grid-template-rows: repeat(4, 1fr);
+  height: calc(3 * #{$card-gap} + 4 * #{$card-height-large});
+}
+
+.cardsContainer3 {
+  grid-template-rows: repeat(3, 1fr);
+  height: calc(2 * #{$card-gap} + 3 * #{$card-height-large});
+}
+
+.cardsContainer2 {
+  grid-template-rows: repeat(2, 1fr);
+  height: calc(#{$card-gap} + 2 * #{$card-height-large});
+}
+
+.cardsContainer1 {
+  grid-template-rows: 1fr;
+  height: #{$card-height-large};
+}
+
+@media (max-width: $narrow-design-width) {
+  .cardsContainer {
+    margin: 0 auto;
+    width: calc(3 * #{$card-gap} + 4 * #{$card-height-width-small});
+  }
+
+  .cardsContainer4 {
+    grid-template-rows: repeat(4, 1fr);
+    height: calc(3 * #{$card-gap} + 4 * #{$card-height-width-small});
+  }
+
+  .cardsContainer3 {
+    grid-template-rows: repeat(3, 1fr);
+    height: calc(2 * #{$card-gap} + 3 * #{$card-height-width-small});
+  }
+
+  .cardsContainer2 {
+    grid-template-rows: repeat(2, 1fr);
+    height: calc(#{$card-gap} + 2 * #{$card-height-width-small});
+  }
+
+  .cardsContainer1 {
+    grid-template-rows: 1fr;
+    height: #{$card-height-width-small};
+  }
+}
+
+@media (max-width: 300px) {
+  .cardsContainer {
+    gap: #{$card-gap} #{$card-gap-narrow-screen};
+  }
+}

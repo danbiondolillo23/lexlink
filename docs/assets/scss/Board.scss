@@ -1,0 +1,61 @@
+@use './scss-helpers/fonts';
+@import './scss-helpers/mixins';
+@import './scss-helpers/accessibility';
+@import './scss-helpers/variables';
+@import './variables';
+
+.boardDimensionsDesktop {
+  width: calc(3 * #{$card-gap} + 4 * #{$card-width-large});
+  height: calc(3 * #{$card-gap} + 4 * #{$card-height-large});
+}
+
+.board {
+  margin: #{$board-section-gap} auto;
+}
+
+.form {
+  text-align: center;
+  font-size: 18px;
+  font-family: fonts.$franklin;
+}
+
+.boardContainer {
+  @extend .boardDimensionsDesktop;
+  position: relative;
+  margin: #{$board-section-gap} auto;
+}
+
+.boardComponentsContainer {
+  @extend .boardDimensionsDesktop;
+  display: grid;
+  gap: #{$card-gap};
+  grid-template-rows: repeat(4, 1fr);
+  position: absolute;
+}
+
+.boardActionGroup {
+  display: flex;
+  justify-content: center;
+  gap: #{$breathing-room};
+  margin-left: 0;
+  margin-right: 0;
+}
+
+@media (max-width: $narrow-design-width) {
+  .boardContainer {
+    margin: 20px auto;
+    width: calc(3 * #{$card-gap} + 4 * #{$card-height-width-small});
+    height: calc(3 * #{$card-gap} + 4 * #{$card-height-width-small});
+    gap: #{$card-gap};
+  }
+}
+
+@media (max-width: 300px) {
+  .board {
+    margin: #{$board-section-gap} 0;
+  }
+
+  .boardActionGroup {
+    gap: 6px;
+  }
+}

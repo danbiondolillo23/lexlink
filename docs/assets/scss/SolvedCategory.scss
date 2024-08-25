@@ -1,0 +1,95 @@
+@use './scss-helpers/fonts';
+@import './scss-helpers/mixins';
+@import './scss-helpers/colors';
+@import './scss-helpers/accessibility';
+
+@keyframes lightTextFadeIn {
+  0% {
+    color: $black;
+  }
+  0% {
+    color: transparent;
+  }
+  100% {
+    color: $black;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scaleY(1) scaleX(1);
+    z-index: 4;
+  }
+  40% {
+    transform: scaleY(1.2) scaleX(1.2);
+  }
+  70% {
+    transform: scaleY(1.2) scaleX(1.2);
+  }
+  100% {
+    transform: scaleY(1) scaleX(1);
+    z-index: 4;
+  }
+}
+
+.solvedCategory {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  font-family: fonts.$franklin;
+  font-size: 20px;
+  line-height: 25px;
+  z-index: 1;
+  animation-fill-mode: forwards;
+  overflow: hidden;
+  min-width: 0;
+  color: #000;
+
+  &[data-level='0'] {
+    background-color: #f9df6d;
+  }
+  &[data-level='1'] {
+    background-color: #a0c35a;
+  }
+  &[data-level='2'] {
+    background-color: #b0c4ef;
+  }
+  &[data-level='3'] {
+    background-color: #ba81c5;
+  }
+}
+
+.pulse {
+  animation: pulse linear 0.3s 1;
+}
+
+.textFadeInThemeLight {
+  animation: lightTextFadeIn 0.5s, fadeout 0.5s 2s forwards;
+}
+
+.categoryTitle {
+  font-weight: fonts.$weight-bold;
+}
+
+.cardListItem {
+  display: inline;
+}
+
+.cardListItem::after {
+  content: ', ';
+}
+
+.cardListItem:last-child::after {
+  content: '';
+}
+
+@include phone {
+  .solvedCategory {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
