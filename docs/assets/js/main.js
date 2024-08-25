@@ -43,7 +43,6 @@ function playAgain() {
   gameState.clickedWords = [];
   startNewGame();
   populateNewDisplay();
-  toggleGameControlButtons(true);
 }
 
 function toggleGameControlButtons(enable) {
@@ -55,7 +54,6 @@ function checkWinCondition() {
   if (gameState.correctGuesses === 4 && gameState.gameBoardWords.length === 0) {
     displayModal('winModal');
     saveGameState();
-    toggleGameControlButtons(false);
   }
 }
 
@@ -63,7 +61,6 @@ function checkLossCondition() {
   if (gameState.guessesRemaining === 0) {
     displayModal('lossModal');
     saveGameState();
-    toggleGameControlButtons(false);
   }
 }
 
@@ -136,7 +133,8 @@ function shuffleGameBoard() {
   gameState.gameBoardWords = shuffle(gameState.gameBoardWords);
   gameState.clickedWords = [];
   showGameBoard();
-  toggleDeselectButton();
+  toggleDeselectButton(false);
+  toggleSubmitButton(false)
 }
 
 function toggleSubmitButton(enable) {
