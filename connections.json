@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-08-26",
+        "date": "2024-08-27",
         "answers": [
             {
                 "level": 0,
-                "group": "OFFICIAL SANCTIONING",
+                "group": "EXPLOSIVE SOUND",
                 "members": [
-                    "APPROVAL",
-                    "BLESSING",
-                    "CONSENT",
-                    "SUPPORT"
+                    "BOOM",
+                    "CRASH",
+                    "ROAR",
+                    "THUNDER"
                 ]
             },
             {
                 "level": 1,
-                "group": "TORUS-SHAPED THINGS",
+                "group": "CHILI PEPPER QUALITY",
                 "members": [
-                    "BAGEL",
-                    "LIFESAVER",
-                    "TIRE",
-                    "WREATH"
+                    "FIRE",
+                    "HEAT",
+                    "KICK",
+                    "SPICE"
                 ]
             },
             {
                 "level": 2,
-                "group": "BAD GOLF SHOTS",
+                "group": "CLASSIC BARBERSHOP SUPPLIES",
                 "members": [
-                    "HOOK",
-                    "SHANK",
-                    "SLICE",
-                    "WHIFF"
+                    "BRUSH",
+                    "CAPE",
+                    "CLIPPERS",
+                    "GEL"
                 ]
             },
             {
                 "level": 3,
-                "group": "FOOTWEAR MINUS \u201cER\u201d SOUND",
+                "group": "KINDS OF CARDS",
                 "members": [
-                    "LOAF",
-                    "SLIP",
-                    "SNEAK",
-                    "WADE"
+                    "BASEBALL",
+                    "MAGIC",
+                    "SET",
+                    "TAROT"
                 ]
             }
         ]
