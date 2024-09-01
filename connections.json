@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-08-31",
+        "date": "2024-09-01",
         "answers": [
             {
                 "level": 0,
-                "group": "NEWSPAPER SECTIONS",
+                "group": "COOK IN A PAN",
                 "members": [
-                    "ARTS",
-                    "BUSINESS",
-                    "COMICS",
-                    "SPORTS"
+                    "BROWN",
+                    "CHAR",
+                    "GRILL",
+                    "SEAR"
                 ]
             },
             {
                 "level": 1,
-                "group": "TREE FEATURES",
+                "group": "PARTS OF THE EAR",
                 "members": [
-                    "BARK",
-                    "CROWN",
-                    "RINGS",
-                    "ROOTS"
+                    "ANVIL",
+                    "CANAL",
+                    "DRUM",
+                    "HAMMER"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF SALAD",
+                "group": "SHADES OF BLACK",
                 "members": [
-                    "CHEF",
-                    "GARDEN",
-                    "GREEK",
-                    "WEDGE"
+                    "CHARCOAL",
+                    "JET",
+                    "RAVEN",
+                    "SABLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "SEEN ON BACKS OF U.S. COINS",
+                "group": "WHERE YOU MIGHT FIND \u201cA DRIVER\u201d",
                 "members": [
-                    "EAGLE",
-                    "MONTICELLO",
-                    "SHIELD",
-                    "TORCH"
+                    "GOLF BAG",
+                    "LIMOUSINE",
+                    "MOVIE SET",
+                    "TOOLBOX"
                 ]
             }
         ]
