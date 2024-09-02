@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-01",
+        "date": "2024-09-02",
         "answers": [
             {
                 "level": 0,
-                "group": "COOK IN A PAN",
+                "group": "PECULIAR",
                 "members": [
-                    "BROWN",
-                    "CHAR",
-                    "GRILL",
-                    "SEAR"
+                    "CURIOUS",
+                    "FUNNY",
+                    "OFF",
+                    "WEIRD"
                 ]
             },
             {
                 "level": 1,
-                "group": "PARTS OF THE EAR",
+                "group": "ASSIGNMENT",
                 "members": [
-                    "ANVIL",
-                    "CANAL",
-                    "DRUM",
-                    "HAMMER"
+                    "JOB",
+                    "POSITION",
+                    "POST",
+                    "STATION"
                 ]
             },
             {
                 "level": 2,
-                "group": "SHADES OF BLACK",
+                "group": "CLASSIC COLLECTION ITEMS",
                 "members": [
-                    "CHARCOAL",
-                    "JET",
-                    "RAVEN",
-                    "SABLE"
+                    "COIN",
+                    "COMIC",
+                    "RECORD",
+                    "STAMP"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHERE YOU MIGHT FIND \u201cA DRIVER\u201d",
+                "group": "CHAIN ___",
                 "members": [
-                    "GOLF BAG",
-                    "LIMOUSINE",
-                    "MOVIE SET",
-                    "TOOLBOX"
+                    "LETTER",
+                    "MAIL",
+                    "REACTION",
+                    "STORE"
                 ]
             }
         ]
