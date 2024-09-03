@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-02",
+        "date": "2024-09-03",
         "answers": [
             {
                 "level": 0,
-                "group": "PECULIAR",
+                "group": "ABSOLVE",
                 "members": [
-                    "CURIOUS",
-                    "FUNNY",
-                    "OFF",
-                    "WEIRD"
+                    "EXCUSE",
+                    "PARDON",
+                    "SAVE",
+                    "SPARE"
                 ]
             },
             {
                 "level": 1,
-                "group": "ASSIGNMENT",
+                "group": "EXCESSIVELY",
                 "members": [
-                    "JOB",
-                    "POSITION",
-                    "POST",
-                    "STATION"
+                    "BEYOND",
+                    "EXTRA",
+                    "OVER",
+                    "TOO"
                 ]
             },
             {
                 "level": 2,
-                "group": "CLASSIC COLLECTION ITEMS",
+                "group": "GLOBAL CURRENCIES",
                 "members": [
-                    "COIN",
-                    "COMIC",
-                    "RECORD",
-                    "STAMP"
+                    "POUND",
+                    "REAL",
+                    "WON",
+                    "YEN"
                 ]
             },
             {
                 "level": 3,
-                "group": "CHAIN ___",
+                "group": "___HEAD",
                 "members": [
-                    "LETTER",
-                    "MAIL",
-                    "REACTION",
-                    "STORE"
+                    "ARROW",
+                    "BLOCK",
+                    "FORE",
+                    "KNUCKLE"
                 ]
             }
         ]
