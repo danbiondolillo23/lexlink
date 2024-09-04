@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-03",
+        "date": "2024-09-04",
         "answers": [
             {
                 "level": 0,
-                "group": "ABSOLVE",
+                "group": "VERY SMALL AMOUNT",
                 "members": [
-                    "EXCUSE",
-                    "PARDON",
-                    "SAVE",
-                    "SPARE"
+                    "HINT",
+                    "TOUCH",
+                    "TRACE",
+                    "SHRED"
                 ]
             },
             {
                 "level": 1,
-                "group": "EXCESSIVELY",
+                "group": "PUPPY PURCHASES",
                 "members": [
-                    "BEYOND",
-                    "EXTRA",
-                    "OVER",
-                    "TOO"
+                    "BED",
+                    "BOWL",
+                    "COLLAR",
+                    "CRATE"
                 ]
             },
             {
                 "level": 2,
-                "group": "GLOBAL CURRENCIES",
+                "group": "HELP PUT ON A PARTY",
                 "members": [
-                    "POUND",
-                    "REAL",
-                    "WON",
-                    "YEN"
+                    "CATER",
+                    "HOST",
+                    "THROW",
+                    "PLAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "___HEAD",
+                "group": "SYMBOLS ON A KEYBOARD",
                 "members": [
-                    "ARROW",
-                    "BLOCK",
-                    "FORE",
-                    "KNUCKLE"
+                    "BRACE",
+                    "CARET",
+                    "HASH",
+                    "STAR"
                 ]
             }
         ]
