@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-04",
+        "date": "2024-09-05",
         "answers": [
             {
                 "level": 0,
-                "group": "VERY SMALL AMOUNT",
+                "group": "HAIR SALON OFFERINGS",
                 "members": [
-                    "HINT",
-                    "TOUCH",
-                    "TRACE",
-                    "SHRED"
+                    "BLOWOUT",
+                    "COLOR",
+                    "CUT",
+                    "TRIM"
                 ]
             },
             {
                 "level": 1,
-                "group": "PUPPY PURCHASES",
+                "group": "CRITICIZE",
                 "members": [
-                    "BED",
-                    "BOWL",
-                    "COLLAR",
-                    "CRATE"
+                    "BASH",
+                    "BLAST",
+                    "PAN",
+                    "SLAM"
                 ]
             },
             {
                 "level": 2,
-                "group": "HELP PUT ON A PARTY",
+                "group": "OBTAIN",
                 "members": [
-                    "CATER",
-                    "HOST",
-                    "THROW",
-                    "PLAN"
+                    "BAG",
+                    "LAND",
+                    "SCORE",
+                    "SNAG"
                 ]
             },
             {
                 "level": 3,
-                "group": "SYMBOLS ON A KEYBOARD",
+                "group": "MEASURED IN FOOTBALL STATS",
                 "members": [
-                    "BRACE",
-                    "CARET",
-                    "HASH",
-                    "STAR"
+                    "ATTEMPT",
+                    "RECEPTION",
+                    "SACK",
+                    "YARD"
                 ]
             }
         ]
