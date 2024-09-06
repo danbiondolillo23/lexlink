@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-05",
+        "date": "2024-09-06",
         "answers": [
             {
                 "level": 0,
-                "group": "HAIR SALON OFFERINGS",
+                "group": "QUANTITY",
                 "members": [
-                    "BLOWOUT",
-                    "COLOR",
-                    "CUT",
-                    "TRIM"
+                    "AMOUNT",
+                    "COUNT",
+                    "NUMBER",
+                    "TOTAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "CRITICIZE",
+                "group": "INCIDENT",
                 "members": [
-                    "BASH",
-                    "BLAST",
-                    "PAN",
-                    "SLAM"
+                    "AFFAIR",
+                    "EPISODE",
+                    "EVENT",
+                    "MATTER"
                 ]
             },
             {
                 "level": 2,
-                "group": "OBTAIN",
+                "group": "THINGS RECEIVED IN THE MAIL",
                 "members": [
-                    "BAG",
-                    "LAND",
-                    "SCORE",
-                    "SNAG"
+                    "BILL",
+                    "CARD",
+                    "CATALOG",
+                    "LETTER"
                 ]
             },
             {
                 "level": 3,
-                "group": "MEASURED IN FOOTBALL STATS",
+                "group": "WHAT \u201cSPRING\u201d MIGHT REFER TO",
                 "members": [
-                    "ATTEMPT",
-                    "RECEPTION",
-                    "SACK",
-                    "YARD"
+                    "BOUNCE",
+                    "COIL",
+                    "GEYSER",
+                    "SEASON"
                 ]
             }
         ]
