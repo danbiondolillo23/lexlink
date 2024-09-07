@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-06",
+        "date": "2024-09-07",
         "answers": [
             {
                 "level": 0,
-                "group": "QUANTITY",
+                "group": "WAYS TO TRANSFORM AN IMAGE",
                 "members": [
-                    "AMOUNT",
-                    "COUNT",
-                    "NUMBER",
-                    "TOTAL"
+                    "CROP",
+                    "FLIP",
+                    "ROTATE",
+                    "SCALE"
                 ]
             },
             {
                 "level": 1,
-                "group": "INCIDENT",
+                "group": "THINGS USED IN GOLF",
                 "members": [
-                    "AFFAIR",
-                    "EPISODE",
-                    "EVENT",
-                    "MATTER"
+                    "BALL",
+                    "DRIVER",
+                    "GLOVE",
+                    "TEE"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS RECEIVED IN THE MAIL",
+                "group": "AQUARIUM PURCHASES",
                 "members": [
-                    "BILL",
-                    "CARD",
-                    "CATALOG",
-                    "LETTER"
+                    "FILTER",
+                    "PUMP",
+                    "ROCKS",
+                    "TANK"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT \u201cSPRING\u201d MIGHT REFER TO",
+                "group": "LOGOS WITH HORSES",
                 "members": [
-                    "BOUNCE",
-                    "COIL",
-                    "GEYSER",
-                    "SEASON"
+                    "COACH",
+                    "GODIVA",
+                    "MUSTANG",
+                    "POLO"
                 ]
             }
         ]
