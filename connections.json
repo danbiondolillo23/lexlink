@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-09",
+        "date": "2024-09-10",
         "answers": [
             {
                 "level": 0,
-                "group": "GET RED IN THE FACE",
+                "group": "VARIETIES",
                 "members": [
-                    "BLUSH",
-                    "BURN",
-                    "FLUSH",
-                    "GLOW"
+                    "KINDS",
+                    "SORTS",
+                    "STRIPES",
+                    "TYPES"
                 ]
             },
             {
                 "level": 1,
-                "group": "CONTINUOUS",
+                "group": "TRANSFER",
                 "members": [
-                    "CONSECUTIVE",
-                    "NONSTOP",
-                    "SOLID",
-                    "STRAIGHT"
+                    "DELIVER",
+                    "HAND",
+                    "GIVE",
+                    "PASS"
                 ]
             },
             {
                 "level": 2,
-                "group": "FLAVOR ASSORTMENT",
+                "group": "RATINGS SYSTEMS",
                 "members": [
-                    "FLIGHT",
-                    "PLATTER",
-                    "SAMPLER",
-                    "TASTING"
+                    "A-F",
+                    "PERCENTAGE",
+                    "STARS",
+                    "THUMBS"
                 ]
             },
             {
                 "level": 3,
-                "group": "SITCOMS",
+                "group": "THINGS WITH KINGS",
                 "members": [
-                    "BLOSSOM",
-                    "COACH",
-                    "COMMUNITY",
-                    "FULL HOUSE"
+                    "CHECKERS",
+                    "DECK OF CARDS",
+                    "MONARCHY",
+                    "NHL"
                 ]
             }
         ]
