@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-10",
+        "date": "2024-09-11",
         "answers": [
             {
                 "level": 0,
-                "group": "VARIETIES",
+                "group": "LARGE AMOUNT OF MONEY",
                 "members": [
-                    "KINDS",
-                    "SORTS",
-                    "STRIPES",
-                    "TYPES"
+                    "BUNDLE",
+                    "FORTUNE",
+                    "MINT",
+                    "PILE"
                 ]
             },
             {
                 "level": 1,
-                "group": "TRANSFER",
+                "group": "BITS OF WISDOM",
                 "members": [
-                    "DELIVER",
-                    "HAND",
-                    "GIVE",
-                    "PASS"
+                    "KERNEL",
+                    "NUGGET",
+                    "PEARL",
+                    "TIDBIT"
                 ]
             },
             {
                 "level": 2,
-                "group": "RATINGS SYSTEMS",
+                "group": "FEATURED IN \u201cJURASSIC PARK\u201d",
                 "members": [
-                    "A-F",
-                    "PERCENTAGE",
-                    "STARS",
-                    "THUMBS"
+                    "AMBER",
+                    "DINOSAUR",
+                    "PALEONTOLOGIST",
+                    "MOSQUITO"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS WITH KINGS",
+                "group": "THINGS THAT ARE PURPLE",
                 "members": [
-                    "CHECKERS",
-                    "DECK OF CARDS",
-                    "MONARCHY",
-                    "NHL"
+                    "AMETHYST",
+                    "EGGPLANT",
+                    "GRIMACE",
+                    "LAVENDER"
                 ]
             }
         ]
