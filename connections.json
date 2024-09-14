@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-13",
+        "date": "2024-09-14",
         "answers": [
             {
                 "level": 0,
-                "group": "VITALITY",
+                "group": "WINE BOTTLE INFO",
                 "members": [
-                    "ENERGY",
-                    "JUICE",
-                    "LIFE",
-                    "ZIP"
+                    "GRAPE",
+                    "REGION",
+                    "VINTAGE",
+                    "WINERY"
                 ]
             },
             {
                 "level": 1,
-                "group": "PALINDROMES FEATURING \u201cE\u201d",
+                "group": "CONSOLE INPUTS",
                 "members": [
-                    "LEVEL",
-                    "PEP",
-                    "REFER",
-                    "TENET"
+                    "BUTTON",
+                    "KNOB",
+                    "SLIDER",
+                    "SWITCH"
                 ]
             },
             {
                 "level": 2,
-                "group": "FEATURED IN \u201cJACK AND THE BEANSTALK\u201d",
+                "group": "PREFIXES",
                 "members": [
-                    "BEANS",
-                    "COW",
-                    "GIANT",
-                    "JACK"
+                    "PRO",
+                    "RETRO",
+                    "SUB",
+                    "SUPER"
                 ]
             },
             {
                 "level": 3,
-                "group": "CAR MODELS",
+                "group": "___ KING",
                 "members": [
-                    "BEETLE",
-                    "CIVIC",
-                    "FOCUS",
-                    "VOLT"
+                    "BURGER",
+                    "CALIFORNIA",
+                    "LION",
+                    "PROM"
                 ]
             }
         ]
