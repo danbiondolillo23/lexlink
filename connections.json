@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-14",
+        "date": "2024-09-15",
         "answers": [
             {
                 "level": 0,
-                "group": "WINE BOTTLE INFO",
+                "group": "RESIDE",
                 "members": [
-                    "GRAPE",
-                    "REGION",
-                    "VINTAGE",
-                    "WINERY"
+                    "DWELL",
+                    "INHABIT",
+                    "LIVE",
+                    "STAY"
                 ]
             },
             {
                 "level": 1,
-                "group": "CONSOLE INPUTS",
+                "group": "DECREASE",
                 "members": [
-                    "BUTTON",
-                    "KNOB",
-                    "SLIDER",
-                    "SWITCH"
+                    "DECLINE",
+                    "DROP",
+                    "DWINDLE",
+                    "EBB"
                 ]
             },
             {
                 "level": 2,
-                "group": "PREFIXES",
+                "group": "DOOFUS",
                 "members": [
-                    "PRO",
-                    "RETRO",
-                    "SUB",
-                    "SUPER"
+                    "CLOWN",
+                    "DWEEB",
+                    "SAP",
+                    "TURKEY"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ KING",
+                "group": "MEMBER OF A SEPTET",
                 "members": [
-                    "BURGER",
-                    "CALIFORNIA",
-                    "LION",
-                    "PROM"
+                    "DWARF",
+                    "SEA",
+                    "SIN",
+                    "WONDER"
                 ]
             }
         ]
