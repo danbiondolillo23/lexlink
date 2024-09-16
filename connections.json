@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-15",
+        "date": "2024-09-16",
         "answers": [
             {
                 "level": 0,
-                "group": "RESIDE",
+                "group": "FOREMOST",
                 "members": [
-                    "DWELL",
-                    "INHABIT",
-                    "LIVE",
-                    "STAY"
+                    "CHIEF",
+                    "PREMIER",
+                    "PRINCIPAL",
+                    "SUPREME"
                 ]
             },
             {
                 "level": 1,
-                "group": "DECREASE",
+                "group": "SPIKY THINGS",
                 "members": [
-                    "DECLINE",
-                    "DROP",
-                    "DWINDLE",
-                    "EBB"
+                    "CACTUS",
+                    "HEDGEHOG",
+                    "MACE",
+                    "PINEAPPLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "DOOFUS",
+                "group": "OVERLY SENTIMENTAL WORK",
                 "members": [
-                    "CLOWN",
-                    "DWEEB",
-                    "SAP",
-                    "TURKEY"
+                    "CHEESE",
+                    "CORN",
+                    "MUSH",
+                    "PAP"
                 ]
             },
             {
                 "level": 3,
-                "group": "MEMBER OF A SEPTET",
+                "group": "THINGS THAT ARE CAPPED",
                 "members": [
-                    "DWARF",
-                    "SEA",
-                    "SIN",
-                    "WONDER"
+                    "BOTTLE",
+                    "GRADUATE",
+                    "MUSHROOM",
+                    "SALARY"
                 ]
             }
         ]
