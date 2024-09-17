@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-16",
+        "date": "2024-09-17",
         "answers": [
             {
                 "level": 0,
-                "group": "FOREMOST",
+                "group": "GET EXCITED, WITH \"UP\"",
                 "members": [
-                    "CHIEF",
-                    "PREMIER",
-                    "PRINCIPAL",
-                    "SUPREME"
+                    "AMP",
+                    "FIRE",
+                    "HYPE",
+                    "PSYCH"
                 ]
             },
             {
                 "level": 1,
-                "group": "SPIKY THINGS",
+                "group": "KINDS OF SHOES",
                 "members": [
-                    "CACTUS",
-                    "HEDGEHOG",
-                    "MACE",
-                    "PINEAPPLE"
+                    "FLAT",
+                    "MULE",
+                    "PUMP",
+                    "SLIDE"
                 ]
             },
             {
                 "level": 2,
-                "group": "OVERLY SENTIMENTAL WORK",
+                "group": "LEGISLATIVE ROLES",
                 "members": [
-                    "CHEESE",
-                    "CORN",
-                    "MUSH",
-                    "PAP"
+                    "CHAIR",
+                    "LEADER",
+                    "SPEAKER",
+                    "WHIP"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS THAT ARE CAPPED",
+                "group": "NAME HOMOPHONES",
                 "members": [
-                    "BOTTLE",
-                    "GRADUATE",
-                    "MUSHROOM",
-                    "SALARY"
+                    "DUG",
+                    "MATTE",
+                    "MIC",
+                    "PEAT"
                 ]
             }
         ]
