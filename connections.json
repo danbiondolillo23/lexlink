@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-17",
+        "date": "2024-09-18",
         "answers": [
             {
                 "level": 0,
-                "group": "GET EXCITED, WITH \"UP\"",
+                "group": "GATHERING SPOT OUTSIDE A RESIDENCE",
                 "members": [
-                    "AMP",
-                    "FIRE",
-                    "HYPE",
-                    "PSYCH"
+                    "DECK",
+                    "PORCH",
+                    "STOOP",
+                    "YARD"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF SHOES",
+                "group": "LOWDOWN",
                 "members": [
-                    "FLAT",
-                    "MULE",
-                    "PUMP",
-                    "SLIDE"
+                    "DISH",
+                    "DOPE",
+                    "INFO",
+                    "SCOOP"
                 ]
             },
             {
                 "level": 2,
-                "group": "LEGISLATIVE ROLES",
+                "group": "KINDS OF REELS",
                 "members": [
-                    "CHAIR",
-                    "LEADER",
-                    "SPEAKER",
-                    "WHIP"
+                    "BLOOPER",
+                    "DEMO",
+                    "HIGHLIGHT",
+                    "SIZZLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "NAME HOMOPHONES",
+                "group": "CARTOON DOGS MINUS \u201cY\u201d",
                 "members": [
-                    "DUG",
-                    "MATTE",
-                    "MIC",
-                    "PEAT"
+                    "DROOP",
+                    "GOOF",
+                    "LAD",
+                    "SNOOP"
                 ]
             }
         ]
