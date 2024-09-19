@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-18",
+        "date": "2024-09-19",
         "answers": [
             {
                 "level": 0,
-                "group": "GATHERING SPOT OUTSIDE A RESIDENCE",
+                "group": "PREFIX MEANING \u201cVERY\u201d",
                 "members": [
-                    "DECK",
-                    "PORCH",
-                    "STOOP",
-                    "YARD"
+                    "EXTRA",
+                    "HYPER",
+                    "OVER",
+                    "SUPER"
                 ]
             },
             {
                 "level": 1,
-                "group": "LOWDOWN",
+                "group": "KINDS OF PARTIES",
                 "members": [
-                    "DISH",
-                    "DOPE",
-                    "INFO",
-                    "SCOOP"
+                    "BIRTHDAY",
+                    "COCKTAIL",
+                    "DINNER",
+                    "SURPRISE"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF REELS",
+                "group": "PBS SHOWS",
                 "members": [
-                    "BLOOPER",
-                    "DEMO",
-                    "HIGHLIGHT",
-                    "SIZZLE"
+                    "FRONTLINE",
+                    "NATURE",
+                    "NOVA",
+                    "MASTERPIECE"
                 ]
             },
             {
                 "level": 3,
-                "group": "CARTOON DOGS MINUS \u201cY\u201d",
+                "group": "PLACES IN FRANCE",
                 "members": [
-                    "DROOP",
-                    "GOOF",
-                    "LAD",
-                    "SNOOP"
+                    "ANGERS",
+                    "CHAMPAGNE",
+                    "NICE",
+                    "REUNION"
                 ]
             }
         ]
