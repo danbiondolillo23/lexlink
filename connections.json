@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-19",
+        "date": "2024-09-20",
         "answers": [
             {
                 "level": 0,
-                "group": "PREFIX MEANING \u201cVERY\u201d",
+                "group": "PRESUME",
                 "members": [
-                    "EXTRA",
-                    "HYPER",
-                    "OVER",
-                    "SUPER"
+                    "FIGURE",
+                    "IMAGINE",
+                    "SUSPECT",
+                    "THINK"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF PARTIES",
+                "group": "SOMEBODY",
                 "members": [
-                    "BIRTHDAY",
-                    "COCKTAIL",
-                    "DINNER",
-                    "SURPRISE"
+                    "CHARACTER",
+                    "INDIVIDUAL",
+                    "PARTY",
+                    "PERSON"
                 ]
             },
             {
                 "level": 2,
-                "group": "PBS SHOWS",
+                "group": "CHARACTERS IN \u201cTHE EMPIRE STRIKES BACK,\" FAMILIARLY",
                 "members": [
-                    "FRONTLINE",
-                    "NATURE",
-                    "NOVA",
-                    "MASTERPIECE"
+                    "BOBA",
+                    "CHEWY",
+                    "EMPEROR",
+                    "SOLO"
                 ]
             },
             {
                 "level": 3,
-                "group": "PLACES IN FRANCE",
+                "group": "WORDS AFTER \u201cKITTY\u201d",
                 "members": [
-                    "ANGERS",
-                    "CHAMPAGNE",
-                    "NICE",
-                    "REUNION"
+                    "CAT",
+                    "CORNER",
+                    "HAWK",
+                    "LITTER"
                 ]
             }
         ]
