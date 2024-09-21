@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-20",
+        "date": "2024-09-21",
         "answers": [
             {
                 "level": 0,
-                "group": "PRESUME",
+                "group": "CLAIRVOYANT",
                 "members": [
-                    "FIGURE",
-                    "IMAGINE",
-                    "SUSPECT",
-                    "THINK"
+                    "MEDIUM",
+                    "MYSTIC",
+                    "ORACLE",
+                    "PSYCHIC"
                 ]
             },
             {
                 "level": 1,
-                "group": "SOMEBODY",
+                "group": "SPECIAL EDITION ADJECTIVES",
                 "members": [
-                    "CHARACTER",
-                    "INDIVIDUAL",
-                    "PARTY",
-                    "PERSON"
+                    "COLLECTIBLE",
+                    "EXCLUSIVE",
+                    "LIMITED",
+                    "RARE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CHARACTERS IN \u201cTHE EMPIRE STRIKES BACK,\" FAMILIARLY",
+                "group": "\u201cGREAT JOB!\u201d",
                 "members": [
-                    "BOBA",
-                    "CHEWY",
-                    "EMPEROR",
-                    "SOLO"
+                    "IMPRESSIVE",
+                    "NICE",
+                    "PROPS",
+                    "WELL DONE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS AFTER \u201cKITTY\u201d",
+                "group": "EXTREMELY",
                 "members": [
-                    "CAT",
-                    "CORNER",
-                    "HAWK",
-                    "LITTER"
+                    "AWFUL",
+                    "BLOODY",
+                    "REAL",
+                    "WAY"
                 ]
             }
         ]
