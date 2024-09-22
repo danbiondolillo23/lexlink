@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-21",
+        "date": "2024-09-22",
         "answers": [
             {
                 "level": 0,
-                "group": "CLAIRVOYANT",
+                "group": "COLOR TYPES",
                 "members": [
-                    "MEDIUM",
-                    "MYSTIC",
-                    "ORACLE",
-                    "PSYCHIC"
+                    "GRAYSCALE",
+                    "NEON",
+                    "NEUTRAL",
+                    "PASTEL"
                 ]
             },
             {
                 "level": 1,
-                "group": "SPECIAL EDITION ADJECTIVES",
+                "group": "FILE MENU OPTIONS",
                 "members": [
-                    "COLLECTIBLE",
-                    "EXCLUSIVE",
-                    "LIMITED",
-                    "RARE"
+                    "NEW",
+                    "OPEN",
+                    "PRINT",
+                    "SAVE"
                 ]
             },
             {
                 "level": 2,
-                "group": "\u201cGREAT JOB!\u201d",
+                "group": "CHANCE TO WIN A PRIZE",
                 "members": [
-                    "IMPRESSIVE",
-                    "NICE",
-                    "PROPS",
-                    "WELL DONE"
+                    "DRAWING",
+                    "LOTTERY",
+                    "POOL",
+                    "RAFFLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "EXTREMELY",
+                "group": "WHAT \u201cBRONZE\u201d MIGHT MEAN",
                 "members": [
-                    "AWFUL",
-                    "BLOODY",
-                    "REAL",
-                    "WAY"
+                    "ALLOY",
+                    "SCULPTURE",
+                    "SUNTAN",
+                    "THIRD"
                 ]
             }
         ]
