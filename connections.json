@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-26",
+        "date": "2024-09-27",
         "answers": [
             {
                 "level": 0,
-                "group": "DECORATIVE EDGE",
+                "group": "AREA OF HIGH GROUND",
                 "members": [
-                    "BORDER",
-                    "FRILL",
-                    "FRINGE",
-                    "TRIM"
+                    "BANK",
+                    "DUNE",
+                    "HILL",
+                    "MOUND"
                 ]
             },
             {
                 "level": 1,
-                "group": "INCREASE, IN A WAY",
+                "group": "SIGNIFICANCE",
                 "members": [
-                    "GROW",
-                    "MOUNT",
-                    "SWELL",
-                    "WAX"
+                    "GRAVITY",
+                    "IMPORT",
+                    "SUBSTANCE",
+                    "WEIGHT"
                 ]
             },
             {
                 "level": 2,
-                "group": "SPECIFICATIONS FOR A BARTENDER",
+                "group": "ACTIONS IN FANTASY SPORTS",
                 "members": [
-                    "DRY",
-                    "NEAT",
-                    "STRAIGHT",
-                    "VIRGIN"
+                    "BENCH",
+                    "DRAFT",
+                    "START",
+                    "TRADE"
                 ]
             },
             {
                 "level": 3,
-                "group": "STRING ___",
+                "group": "SCI-FI MOVIES, WITH \u201cTHE\u201d",
                 "members": [
-                    "BEAN",
-                    "BIKINI",
-                    "CHEESE",
-                    "THEORY"
+                    "ABYSS",
+                    "FLY",
+                    "MATRIX",
+                    "THING"
                 ]
             }
         ]
