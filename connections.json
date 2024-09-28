@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-27",
+        "date": "2024-09-28",
         "answers": [
             {
                 "level": 0,
-                "group": "AREA OF HIGH GROUND",
+                "group": "COMPOSITE",
                 "members": [
-                    "BANK",
-                    "DUNE",
-                    "HILL",
-                    "MOUND"
+                    "BLEND",
+                    "COMPOUND",
+                    "CROSS",
+                    "HYBRID"
                 ]
             },
             {
                 "level": 1,
-                "group": "SIGNIFICANCE",
+                "group": "EMBED",
                 "members": [
-                    "GRAVITY",
-                    "IMPORT",
-                    "SUBSTANCE",
-                    "WEIGHT"
+                    "LODGE",
+                    "PLANT",
+                    "STICK",
+                    "WEDGE"
                 ]
             },
             {
                 "level": 2,
-                "group": "ACTIONS IN FANTASY SPORTS",
+                "group": "ITEMS IN A MONOPOLY BOX",
                 "members": [
-                    "BENCH",
-                    "DRAFT",
-                    "START",
-                    "TRADE"
+                    "DEED",
+                    "HOTEL",
+                    "HOUSE",
+                    "TOKEN"
                 ]
             },
             {
                 "level": 3,
-                "group": "SCI-FI MOVIES, WITH \u201cTHE\u201d",
+                "group": "___ CONTROL",
                 "members": [
-                    "ABYSS",
-                    "FLY",
-                    "MATRIX",
-                    "THING"
+                    "BIRTH",
+                    "CRUISE",
+                    "QUALITY",
+                    "REMOTE"
                 ]
             }
         ]
