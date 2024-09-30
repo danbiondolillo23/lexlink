@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-29",
+        "date": "2024-09-30",
         "answers": [
             {
                 "level": 0,
-                "group": "MAKE GOOD ON, AS A PROMISE",
+                "group": "COOK WITH HEAT AND WATER",
                 "members": [
-                    "FULFILL",
-                    "HONOR",
-                    "KEEP",
-                    "UPHOLD"
+                    "BLANCH",
+                    "BOIL",
+                    "POACH",
+                    "STEAM"
                 ]
             },
             {
                 "level": 1,
-                "group": "BEDDING",
+                "group": "COMMON PERFUME INGREDIENTS",
                 "members": [
-                    "BLANKET",
-                    "SHAM",
-                    "SHEET",
-                    "THROW"
+                    "AMBERGRIS",
+                    "MUSK",
+                    "ROSE",
+                    "VANILLA"
                 ]
             },
             {
                 "level": 2,
-                "group": "ACTIONS IN CARD GAMES",
+                "group": "CHARACTERS WITH PET DOGS",
                 "members": [
-                    "DISCARD",
-                    "DRAW",
-                    "PASS",
-                    "PLAY"
+                    "CHARLIE",
+                    "DOROTHY",
+                    "SHAGGY",
+                    "WALLACE"
                 ]
             },
             {
                 "level": 3,
-                "group": "CABINET DEPARTMENTS",
+                "group": "CAPITAL CITY HOMOPHONES",
                 "members": [
-                    "ENERGY",
-                    "JUSTICE",
-                    "LABOR",
-                    "STATE"
+                    "KETO",
+                    "ROAM",
+                    "SOPHIA",
+                    "SOUL"
                 ]
             }
         ]
