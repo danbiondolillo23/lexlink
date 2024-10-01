@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-09-30",
+        "date": "2024-10-01",
         "answers": [
             {
                 "level": 0,
-                "group": "COOK WITH HEAT AND WATER",
+                "group": "FLUSTERED STATE",
                 "members": [
-                    "BLANCH",
-                    "BOIL",
-                    "POACH",
-                    "STEAM"
+                    "LATHER",
+                    "STEW",
+                    "SWEAT",
+                    "TIZZY"
                 ]
             },
             {
                 "level": 1,
-                "group": "COMMON PERFUME INGREDIENTS",
+                "group": "FITNESS",
                 "members": [
-                    "AMBERGRIS",
-                    "MUSK",
-                    "ROSE",
-                    "VANILLA"
+                    "CONDITION",
+                    "FORM",
+                    "HEALTH",
+                    "SHAPE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CHARACTERS WITH PET DOGS",
+                "group": "FAST-MOVING WATER",
                 "members": [
-                    "CHARLIE",
-                    "DOROTHY",
-                    "SHAGGY",
-                    "WALLACE"
+                    "CASCADE",
+                    "CURRENT",
+                    "RAPID",
+                    "WAVE"
                 ]
             },
             {
                 "level": 3,
-                "group": "CAPITAL CITY HOMOPHONES",
+                "group": "DISHWASHER CYCLES",
                 "members": [
-                    "KETO",
-                    "ROAM",
-                    "SOPHIA",
-                    "SOUL"
+                    "NORMAL",
+                    "QUICK",
+                    "RINSE",
+                    "SANITIZE"
                 ]
             }
         ]
