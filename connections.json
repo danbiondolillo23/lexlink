@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-01",
+        "date": "2024-10-02",
         "answers": [
             {
                 "level": 0,
-                "group": "FLUSTERED STATE",
+                "group": "PUT ON THE LINE",
                 "members": [
-                    "LATHER",
-                    "STEW",
-                    "SWEAT",
-                    "TIZZY"
+                    "BET",
+                    "CHANCE",
+                    "GAMBLE",
+                    "RISK"
                 ]
             },
             {
                 "level": 1,
-                "group": "FITNESS",
+                "group": "USE A KITCHEN KNIFE",
                 "members": [
-                    "CONDITION",
-                    "FORM",
-                    "HEALTH",
-                    "SHAPE"
+                    "CUBE",
+                    "DICE",
+                    "JULIENNE",
+                    "SLICE"
                 ]
             },
             {
                 "level": 2,
-                "group": "FAST-MOVING WATER",
+                "group": "ROBERT DE NIRO FILMS",
                 "members": [
-                    "CASCADE",
-                    "CURRENT",
-                    "RAPID",
-                    "WAVE"
+                    "CASINO",
+                    "HEAT",
+                    "JOKER",
+                    "TAXI DRIVER"
                 ]
             },
             {
                 "level": 3,
-                "group": "DISHWASHER CYCLES",
+                "group": "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)",
                 "members": [
-                    "NORMAL",
-                    "QUICK",
-                    "RINSE",
-                    "SANITIZE"
+                    "OCTOPUS",
+                    "SHIVA",
+                    "SLOT MACHINE",
+                    "VENUS DE MILO"
                 ]
             }
         ]
