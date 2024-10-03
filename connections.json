@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-02",
+        "date": "2024-10-03",
         "answers": [
             {
                 "level": 0,
-                "group": "PUT ON THE LINE",
+                "group": "BEVERAGES",
                 "members": [
-                    "BET",
-                    "CHANCE",
-                    "GAMBLE",
-                    "RISK"
+                    "JUICE",
+                    "MILK",
+                    "PUNCH",
+                    "SODA"
                 ]
             },
             {
                 "level": 1,
-                "group": "USE A KITCHEN KNIFE",
+                "group": "CARE FOR A PLANT",
                 "members": [
-                    "CUBE",
-                    "DICE",
-                    "JULIENNE",
-                    "SLICE"
+                    "FERTILIZE",
+                    "POT",
+                    "PRUNE",
+                    "WATER"
                 ]
             },
             {
                 "level": 2,
-                "group": "ROBERT DE NIRO FILMS",
+                "group": "ITEM SOLD IN PAIRS",
                 "members": [
-                    "CASINO",
-                    "HEAT",
-                    "JOKER",
-                    "TAXI DRIVER"
+                    "BOOKEND",
+                    "EARBUD",
+                    "SKI",
+                    "SOCK"
                 ]
             },
             {
                 "level": 3,
-                "group": "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)",
+                "group": "BUGS PLUS STARTING LETTER",
                 "members": [
-                    "OCTOPUS",
-                    "SHIVA",
-                    "SLOT MACHINE",
-                    "VENUS DE MILO"
+                    "BLOUSE",
+                    "PANT",
+                    "SMITE",
+                    "STICK"
                 ]
             }
         ]
