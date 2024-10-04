@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-03",
+        "date": "2024-10-04",
         "answers": [
             {
                 "level": 0,
-                "group": "BEVERAGES",
+                "group": "CONCAVITY",
                 "members": [
-                    "JUICE",
-                    "MILK",
-                    "PUNCH",
-                    "SODA"
+                    "DENT",
+                    "DIMPLE",
+                    "DING",
+                    "DIVOT"
                 ]
             },
             {
                 "level": 1,
-                "group": "CARE FOR A PLANT",
+                "group": "SMALL AMOUNT",
                 "members": [
-                    "FERTILIZE",
-                    "POT",
-                    "PRUNE",
-                    "WATER"
+                    "DAB",
+                    "DASH",
+                    "DOLLOP",
+                    "DROP"
                 ]
             },
             {
                 "level": 2,
-                "group": "ITEM SOLD IN PAIRS",
+                "group": "DISNEY CHARACTERS",
                 "members": [
-                    "BOOKEND",
-                    "EARBUD",
-                    "SKI",
-                    "SOCK"
+                    "DAISY",
+                    "DALE",
+                    "DOC",
+                    "DORY"
                 ]
             },
             {
                 "level": 3,
-                "group": "BUGS PLUS STARTING LETTER",
+                "group": "___ DATE",
                 "members": [
-                    "BLOUSE",
-                    "PANT",
-                    "SMITE",
-                    "STICK"
+                    "DELIVERY",
+                    "DINNER",
+                    "DREAM",
+                    "DUE"
                 ]
             }
         ]
