@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-04",
+        "date": "2024-10-05",
         "answers": [
             {
                 "level": 0,
-                "group": "CONCAVITY",
+                "group": "STEAK CUTS",
                 "members": [
-                    "DENT",
-                    "DIMPLE",
-                    "DING",
-                    "DIVOT"
+                    "FILET",
+                    "HANGER",
+                    "SKIRT",
+                    "T-BONE"
                 ]
             },
             {
                 "level": 1,
-                "group": "SMALL AMOUNT",
+                "group": "KINDS OF UNDERWEAR",
                 "members": [
-                    "DAB",
-                    "DASH",
-                    "DOLLOP",
-                    "DROP"
+                    "BIKINI",
+                    "G-STRING",
+                    "HIPSTER",
+                    "THONG"
                 ]
             },
             {
                 "level": 2,
-                "group": "DISNEY CHARACTERS",
+                "group": "INVOLVED IN A DENTIST VISIT",
                 "members": [
-                    "DAISY",
-                    "DALE",
-                    "DOC",
-                    "DORY"
+                    "DRILL",
+                    "SINK",
+                    "TOOTHBRUSH",
+                    "X-RAY"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ DATE",
+                "group": "BRANDS THAT HAVE BECOME GENERIC TERMS",
                 "members": [
-                    "DELIVERY",
-                    "DINNER",
-                    "DREAM",
-                    "DUE"
+                    "CHAPSTICK",
+                    "JACUZZI",
+                    "Q-TIP",
+                    "XEROX"
                 ]
             }
         ]
