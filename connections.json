@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-05",
+        "date": "2024-10-06",
         "answers": [
             {
                 "level": 0,
-                "group": "STEAK CUTS",
+                "group": "TURN TAIL",
                 "members": [
-                    "FILET",
-                    "HANGER",
-                    "SKIRT",
-                    "T-BONE"
+                    "FLEE",
+                    "LEAVE",
+                    "RETREAT",
+                    "WITHDRAW"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF UNDERWEAR",
+                "group": "THINGS CATS DO",
                 "members": [
-                    "BIKINI",
-                    "G-STRING",
-                    "HIPSTER",
-                    "THONG"
+                    "KNEAD",
+                    "PURR",
+                    "SCRATCH",
+                    "SHED"
                 ]
             },
             {
                 "level": 2,
-                "group": "INVOLVED IN A DENTIST VISIT",
+                "group": "PAGES ON A WEBSITE",
                 "members": [
-                    "DRILL",
-                    "SINK",
-                    "TOOTHBRUSH",
-                    "X-RAY"
+                    "ABOUT",
+                    "CONTACT",
+                    "HOME",
+                    "LOGIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "BRANDS THAT HAVE BECOME GENERIC TERMS",
+                "group": "___ CHEESE",
                 "members": [
-                    "CHAPSTICK",
-                    "JACUZZI",
-                    "Q-TIP",
-                    "XEROX"
+                    "COTTAGE",
+                    "CREAM",
+                    "GOAT",
+                    "STRING"
                 ]
             }
         ]
