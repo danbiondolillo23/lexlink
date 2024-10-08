@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-07",
+        "date": "2024-10-08",
         "answers": [
             {
                 "level": 0,
-                "group": "KNUCKLEHEAD",
+                "group": "HALLOWEEN SYMBOLS",
                 "members": [
-                    "DING-DONG",
-                    "DODO",
-                    "YAHOO",
-                    "YO-YO"
+                    "BAT",
+                    "PUMPKIN",
+                    "SPIDER",
+                    "WITCH"
                 ]
             },
             {
                 "level": 1,
-                "group": "CAR ONOMATOPOEIA",
+                "group": "PROHIBIT",
                 "members": [
-                    "BEEP BEEP",
-                    "PURR",
-                    "SKRRT",
-                    "VROOM"
+                    "BAN",
+                    "BLOCK",
+                    "DENY",
+                    "FORBID"
                 ]
             },
             {
                 "level": 2,
-                "group": "SOUNDS OF LAUGHTER",
+                "group": "FOUND ON SHEET MUSIC",
                 "members": [
-                    "HAR-HAR",
-                    "HOOT",
-                    "WHOOP",
-                    "YUK"
+                    "ACCIDENTAL",
+                    "NOTE",
+                    "REST",
+                    "STAFF"
                 ]
             },
             {
                 "level": 3,
-                "group": "FAMOUS PRIMATES",
+                "group": "CANDY ___",
                 "members": [
-                    "BUBBLES",
-                    "GEORGE",
-                    "KING KONG",
-                    "KOKO"
+                    "APPLE",
+                    "BAR",
+                    "CANE",
+                    "CORN"
                 ]
             }
         ]
