@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-08",
+        "date": "2024-10-09",
         "answers": [
             {
                 "level": 0,
-                "group": "HALLOWEEN SYMBOLS",
+                "group": "EFFERVESCENCE",
                 "members": [
-                    "BAT",
-                    "PUMPKIN",
-                    "SPIDER",
-                    "WITCH"
+                    "BUBBLES",
+                    "FIZZ",
+                    "FOAM",
+                    "FROTH"
                 ]
             },
             {
                 "level": 1,
-                "group": "PROHIBIT",
+                "group": "BURGEON",
                 "members": [
-                    "BAN",
-                    "BLOCK",
-                    "DENY",
-                    "FORBID"
+                    "BLOSSOM",
+                    "DEVELOP",
+                    "MATURE",
+                    "PROGRESS"
                 ]
             },
             {
                 "level": 2,
-                "group": "FOUND ON SHEET MUSIC",
+                "group": "MUSIC PUBLICATIONS",
                 "members": [
-                    "ACCIDENTAL",
-                    "NOTE",
-                    "REST",
-                    "STAFF"
+                    "BILLBOARD",
+                    "MOJO",
+                    "PITCHFORK",
+                    "SPIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "CANDY ___",
+                "group": "ENDING WITH TABLEWARE",
                 "members": [
-                    "APPLE",
-                    "BAR",
-                    "CANE",
-                    "CORN"
+                    "BOILERPLATE",
+                    "BUTTERCUP",
+                    "JACKKNIFE",
+                    "WITHERSPOON"
                 ]
             }
         ]
