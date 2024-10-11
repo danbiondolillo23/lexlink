@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-10",
+        "date": "2024-10-11",
         "answers": [
             {
                 "level": 0,
-                "group": "BODY PARTS",
+                "group": "CHERISH",
                 "members": [
-                    "ARM",
-                    "EYE",
-                    "HIP",
-                    "LEG"
+                    "RELISH",
+                    "SAVOR",
+                    "TREASURE",
+                    "VALUE"
                 ]
             },
             {
                 "level": 1,
-                "group": "COOL, IN \u201980S SLANG",
+                "group": "QUICK JUMP IN THE POOL",
                 "members": [
-                    "BAD",
-                    "FLY",
-                    "ILL",
-                    "RAD"
+                    "DIP",
+                    "DIVE",
+                    "SPLASH",
+                    "SWIM"
                 ]
             },
             {
                 "level": 2,
-                "group": "MOVIES",
+                "group": "ADDITIONAL BENEFIT",
                 "members": [
-                    "BIG",
-                    "ELF",
-                    "HER",
-                    "SAW"
+                    "BONUS",
+                    "EXTRA",
+                    "FROSTING",
+                    "GRAVY"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS IN \u201cDO-RE-MI\u201d",
+                "group": "BRASHNESS",
                 "members": [
-                    "DOE",
-                    "FAR",
-                    "SEW",
-                    "TEA"
+                    "BRASS",
+                    "CHEEK",
+                    "NERVE",
+                    "SAUCE"
                 ]
             }
         ]
