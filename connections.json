@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-11",
+        "date": "2024-10-12",
         "answers": [
             {
                 "level": 0,
-                "group": "CHERISH",
+                "group": "DRAPED ACCESSORIES",
                 "members": [
-                    "RELISH",
-                    "SAVOR",
-                    "TREASURE",
-                    "VALUE"
+                    "SCARF",
+                    "SHAWL",
+                    "STOLE",
+                    "WRAP"
                 ]
             },
             {
                 "level": 1,
-                "group": "QUICK JUMP IN THE POOL",
+                "group": "TOLERATE",
                 "members": [
-                    "DIP",
-                    "DIVE",
-                    "SPLASH",
-                    "SWIM"
+                    "BEAR",
+                    "STAND",
+                    "SWALLOW",
+                    "TAKE"
                 ]
             },
             {
                 "level": 2,
-                "group": "ADDITIONAL BENEFIT",
+                "group": "BIRD ONOMATOPOEIA",
                 "members": [
-                    "BONUS",
-                    "EXTRA",
-                    "FROSTING",
-                    "GRAVY"
+                    "COO",
+                    "GOBBLE",
+                    "HONK",
+                    "HOOT"
                 ]
             },
             {
                 "level": 3,
-                "group": "BRASHNESS",
+                "group": "STARTS OF CELL PHONE MAKERS",
                 "members": [
-                    "BRASS",
-                    "CHEEK",
-                    "NERVE",
-                    "SAUCE"
+                    "APP",
+                    "GOO",
+                    "MOTOR",
+                    "SAM"
                 ]
             }
         ]
