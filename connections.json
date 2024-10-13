@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-12",
+        "date": "2024-10-13",
         "answers": [
             {
                 "level": 0,
-                "group": "DRAPED ACCESSORIES",
+                "group": "MADE OF KERATIN",
                 "members": [
-                    "SCARF",
-                    "SHAWL",
-                    "STOLE",
-                    "WRAP"
+                    "CLAW",
+                    "HOOF",
+                    "HORN",
+                    "NAIL"
                 ]
             },
             {
                 "level": 1,
-                "group": "TOLERATE",
+                "group": "ROAD RUNNER CARTOON STAPLES",
                 "members": [
-                    "BEAR",
-                    "STAND",
-                    "SWALLOW",
-                    "TAKE"
+                    "ANVIL",
+                    "BOULDER",
+                    "COYOTE",
+                    "TNT"
                 ]
             },
             {
                 "level": 2,
-                "group": "BIRD ONOMATOPOEIA",
+                "group": "KINDS OF PANTS",
                 "members": [
-                    "COO",
-                    "GOBBLE",
-                    "HONK",
-                    "HOOT"
+                    "CAPRI",
+                    "CARGO",
+                    "HAMMER",
+                    "STIRRUP"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTS OF CELL PHONE MAKERS",
+                "group": "___ ROLL",
                 "members": [
-                    "APP",
-                    "GOO",
-                    "MOTOR",
-                    "SAM"
+                    "CALIFORNIA",
+                    "DRUM",
+                    "EGG",
+                    "HONOR"
                 ]
             }
         ]
