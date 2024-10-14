@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-13",
+        "date": "2024-10-14",
         "answers": [
             {
                 "level": 0,
-                "group": "MADE OF KERATIN",
+                "group": "RUMMAGE",
                 "members": [
-                    "CLAW",
-                    "HOOF",
-                    "HORN",
-                    "NAIL"
+                    "COMB",
+                    "DIG",
+                    "ROOT",
+                    "SIFT"
                 ]
             },
             {
                 "level": 1,
-                "group": "ROAD RUNNER CARTOON STAPLES",
+                "group": "SOUNDS OF THUNDER",
                 "members": [
-                    "ANVIL",
-                    "BOULDER",
-                    "COYOTE",
-                    "TNT"
+                    "CLAP",
+                    "PEAL",
+                    "ROLL",
+                    "RUMBLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF PANTS",
+                "group": "WAYS TO WEAR YOUR HAIR UP",
                 "members": [
-                    "CAPRI",
-                    "CARGO",
-                    "HAMMER",
-                    "STIRRUP"
+                    "BUN",
+                    "BRAID",
+                    "PONY",
+                    "TWIST"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ ROLL",
+                "group": "THINGS THAT CAN HAVE LEAVES",
                 "members": [
-                    "CALIFORNIA",
-                    "DRUM",
-                    "EGG",
-                    "HONOR"
+                    "BOOK",
+                    "SALAD",
+                    "TABLE",
+                    "TREE"
                 ]
             }
         ]
