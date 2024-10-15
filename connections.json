@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-14",
+        "date": "2024-10-15",
         "answers": [
             {
                 "level": 0,
-                "group": "RUMMAGE",
+                "group": "FOOTBALL POSITIONS",
                 "members": [
-                    "COMB",
-                    "DIG",
-                    "ROOT",
-                    "SIFT"
+                    "CENTER",
+                    "GUARD",
+                    "QUARTERBACK",
+                    "SAFETY"
                 ]
             },
             {
                 "level": 1,
-                "group": "SOUNDS OF THUNDER",
+                "group": "CABLE CHANNELS",
                 "members": [
-                    "CLAP",
-                    "PEAL",
-                    "ROLL",
-                    "RUMBLE"
+                    "DISCOVERY",
+                    "HISTORY",
+                    "NICKELODEON",
+                    "OXYGEN"
                 ]
             },
             {
                 "level": 2,
-                "group": "WAYS TO WEAR YOUR HAIR UP",
+                "group": "FICTIONAL CLOWNS",
                 "members": [
-                    "BUN",
-                    "BRAID",
-                    "PONY",
-                    "TWIST"
+                    "HOMEY",
+                    "JOKER",
+                    "PENNYWISE",
+                    "RONALD"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS THAT CAN HAVE LEAVES",
+                "group": "WHAT \u201cD\u201d MIGHT STAND FOR",
                 "members": [
-                    "BOOK",
-                    "SALAD",
-                    "TABLE",
-                    "TREE"
+                    "DEFENSE",
+                    "DEMOCRAT",
+                    "DIMENSIONAL",
+                    "DRIVE"
                 ]
             }
         ]
