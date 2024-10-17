@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-16",
+        "date": "2024-10-17",
         "answers": [
             {
                 "level": 0,
-                "group": "AT SOME FUTURE POINT",
+                "group": "GRASSY AREA",
                 "members": [
-                    "EVENTUALLY",
-                    "LATER",
-                    "NEXT",
-                    "SOON"
+                    "GREEN",
+                    "LAWN",
+                    "PARK",
+                    "YARD"
                 ]
             },
             {
                 "level": 1,
-                "group": "PARTS OF A TOURNAMENT SETUP",
+                "group": "DEAL WITH",
                 "members": [
-                    "BRACKET",
-                    "BYE",
-                    "ROUND",
-                    "SEED"
+                    "ADDRESS",
+                    "ANSWER",
+                    "FIELD",
+                    "HANDLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "BIT OF BREAKFAST CEREAL",
+                "group": "MOVIES WITH \u201cS\u201d REMOVED",
                 "members": [
-                    "CHEERIO",
-                    "FLAKE",
-                    "PEBBLE",
-                    "PUFF"
+                    "CAR",
+                    "GOODFELLA",
+                    "JAW",
+                    "SWINGER"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT THE OUTSTRETCHED INDEX AND MIDDLE FINGERS CAN REPRESENT",
+                "group": "___ LAW",
                 "members": [
-                    "PEACE",
-                    "SCISSORS",
-                    "TWO",
-                    "VICTORY"
+                    "CRIMINAL",
+                    "HARVARD",
+                    "LEMON",
+                    "NATURAL"
                 ]
             }
         ]
