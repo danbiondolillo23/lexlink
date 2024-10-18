@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-17",
+        "date": "2024-10-18",
         "answers": [
             {
                 "level": 0,
-                "group": "GRASSY AREA",
+                "group": "CLUNKER",
                 "members": [
-                    "GREEN",
-                    "LAWN",
-                    "PARK",
-                    "YARD"
+                    "BUST",
+                    "DUD",
+                    "FLOP",
+                    "MISS"
                 ]
             },
             {
                 "level": 1,
-                "group": "DEAL WITH",
+                "group": "OPPORTUNITY",
                 "members": [
-                    "ADDRESS",
-                    "ANSWER",
-                    "FIELD",
-                    "HANDLE"
+                    "CHANCE",
+                    "SHOT",
+                    "TIME",
+                    "TURN"
                 ]
             },
             {
                 "level": 2,
-                "group": "MOVIES WITH \u201cS\u201d REMOVED",
+                "group": "NON-CASH WAY TO PAY",
                 "members": [
-                    "CAR",
-                    "GOODFELLA",
-                    "JAW",
-                    "SWINGER"
+                    "CARD",
+                    "CHARGE",
+                    "CREDIT",
+                    "PLASTIC"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ LAW",
+                "group": "AMAZON ___",
                 "members": [
-                    "CRIMINAL",
-                    "HARVARD",
-                    "LEMON",
-                    "NATURAL"
+                    "KINDLE",
+                    "PRIME",
+                    "RAINFOREST",
+                    "RIVER"
                 ]
             }
         ]
