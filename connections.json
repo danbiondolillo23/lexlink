@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-18",
+        "date": "2024-10-19",
         "answers": [
             {
                 "level": 0,
-                "group": "CLUNKER",
+                "group": "BRING ABOUT",
                 "members": [
-                    "BUST",
-                    "DUD",
-                    "FLOP",
-                    "MISS"
+                    "GENERATE",
+                    "INSPIRE",
+                    "PROMPT",
+                    "PROVOKE"
                 ]
             },
             {
                 "level": 1,
-                "group": "OPPORTUNITY",
+                "group": "THINGS THAT ARE OFTEN SCENTED",
                 "members": [
-                    "CHANCE",
-                    "SHOT",
-                    "TIME",
-                    "TURN"
+                    "CANDLE",
+                    "INCENSE",
+                    "LOTION",
+                    "SOAP"
                 ]
             },
             {
                 "level": 2,
-                "group": "NON-CASH WAY TO PAY",
+                "group": "THINGS THAT MIGHT STING",
                 "members": [
-                    "CARD",
-                    "CHARGE",
-                    "CREDIT",
-                    "PLASTIC"
+                    "INSULT",
+                    "JELLYFISH",
+                    "NETTLE",
+                    "WASP"
                 ]
             },
             {
                 "level": 3,
-                "group": "AMAZON ___",
+                "group": "VIDEO GAME FRANCHISES",
                 "members": [
-                    "KINDLE",
-                    "PRIME",
-                    "RAINFOREST",
-                    "RIVER"
+                    "CIVILIZATION",
+                    "HALO",
+                    "MADDEN",
+                    "METROID"
                 ]
             }
         ]
