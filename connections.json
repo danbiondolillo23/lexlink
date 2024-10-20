@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-19",
+        "date": "2024-10-20",
         "answers": [
             {
                 "level": 0,
-                "group": "BRING ABOUT",
+                "group": "BIT OF NEWSPAPER WRITING",
                 "members": [
-                    "GENERATE",
-                    "INSPIRE",
-                    "PROMPT",
-                    "PROVOKE"
+                    "ARTICLE",
+                    "COLUMN",
+                    "FEATURE",
+                    "STORY"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS THAT ARE OFTEN SCENTED",
+                "group": "NOISY DISTURBANCE",
                 "members": [
-                    "CANDLE",
-                    "INCENSE",
-                    "LOTION",
-                    "SOAP"
+                    "CLATTER",
+                    "RACKET",
+                    "ROW",
+                    "RUCKUS"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS THAT MIGHT STING",
+                "group": "TABLE TENNIS NEEDS",
                 "members": [
-                    "INSULT",
-                    "JELLYFISH",
-                    "NETTLE",
-                    "WASP"
+                    "BALL",
+                    "NET",
+                    "PADDLE",
+                    "TABLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "VIDEO GAME FRANCHISES",
+                "group": "HOMOPHONES OF COORDINATING CONJUNCTIONS",
                 "members": [
-                    "CIVILIZATION",
-                    "HALO",
-                    "MADDEN",
-                    "METROID"
+                    "BUTT",
+                    "FORE",
+                    "OAR",
+                    "SEW"
                 ]
             }
         ]
