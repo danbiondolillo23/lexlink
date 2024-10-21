@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-20",
+        "date": "2024-10-21",
         "answers": [
             {
                 "level": 0,
-                "group": "BIT OF NEWSPAPER WRITING",
+                "group": "KINDS OF BEANS",
                 "members": [
-                    "ARTICLE",
-                    "COLUMN",
-                    "FEATURE",
-                    "STORY"
+                    "KIDNEY",
+                    "MUNG",
+                    "NAVY",
+                    "PINTO"
                 ]
             },
             {
                 "level": 1,
-                "group": "NOISY DISTURBANCE",
+                "group": "ATTRACT",
                 "members": [
-                    "CLATTER",
-                    "RACKET",
-                    "ROW",
-                    "RUCKUS"
+                    "DRAW",
+                    "GRAB",
+                    "HOOK",
+                    "PULL"
                 ]
             },
             {
                 "level": 2,
-                "group": "TABLE TENNIS NEEDS",
+                "group": "AUTOMATIC GEAR SHIFTER POSITIONS",
                 "members": [
-                    "BALL",
-                    "NET",
-                    "PADDLE",
-                    "TABLE"
+                    "DRIVE",
+                    "LOW",
+                    "NEUTRAL",
+                    "REVERSE"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOMOPHONES OF COORDINATING CONJUNCTIONS",
+                "group": "___POOL",
                 "members": [
-                    "BUTT",
-                    "FORE",
-                    "OAR",
-                    "SEW"
+                    "CAR",
+                    "DEAD",
+                    "LIVER",
+                    "WHIRL"
                 ]
             }
         ]
