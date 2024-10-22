@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-21",
+        "date": "2024-10-22",
         "answers": [
             {
                 "level": 0,
-                "group": "KINDS OF BEANS",
+                "group": "BRAND-NAME",
                 "members": [
-                    "KIDNEY",
-                    "MUNG",
-                    "NAVY",
-                    "PINTO"
+                    "DESIGNER",
+                    "HAUTE",
+                    "HIGH-END",
+                    "LUXURY"
                 ]
             },
             {
                 "level": 1,
-                "group": "ATTRACT",
+                "group": "DEVISE",
                 "members": [
-                    "DRAW",
-                    "GRAB",
-                    "HOOK",
-                    "PULL"
+                    "CONCOCT",
+                    "ENGINEER",
+                    "HATCH",
+                    "MASTERMIND"
                 ]
             },
             {
                 "level": 2,
-                "group": "AUTOMATIC GEAR SHIFTER POSITIONS",
+                "group": "NASA SPACECRAFT",
                 "members": [
-                    "DRIVE",
-                    "LOW",
-                    "NEUTRAL",
-                    "REVERSE"
+                    "GALILEO",
+                    "PIONEER",
+                    "VIKING",
+                    "VOYAGER"
                 ]
             },
             {
                 "level": 3,
-                "group": "___POOL",
+                "group": "GAMES WHERE YOU SAY THE GAME\u2019S NAME",
                 "members": [
-                    "CAR",
-                    "DEAD",
-                    "LIVER",
-                    "WHIRL"
+                    "BINGO",
+                    "MARCO POLO",
+                    "TAG",
+                    "UNO"
                 ]
             }
         ]
