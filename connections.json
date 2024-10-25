@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-24",
+        "date": "2024-10-25",
         "answers": [
             {
                 "level": 0,
-                "group": "LINEUP",
+                "group": "\u2022",
                 "members": [
-                    "BILL",
-                    "PROGRAM",
-                    "SCHEDULE",
-                    "SLATE"
+                    "DOT",
+                    "PERIOD",
+                    "POINT",
+                    "TITTLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "NYT OFFERINGS",
+                "group": "EVENT WITH DANCING",
                 "members": [
-                    "AUDIO",
-                    "COOKING",
-                    "GAMES",
-                    "NEWS"
+                    "BALL",
+                    "FORMAL",
+                    "HOP",
+                    "RAVE"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS MADE BY FOLDING PAPER",
+                "group": "IPHONE MESSAGE TAPBACK RESPONSES",
                 "members": [
-                    "AIRPLANE",
-                    "CRANE",
-                    "FAN",
-                    "FORTUNE TELLER"
+                    "EXCLAMATION POINTS",
+                    "HEART",
+                    "QUESTION MARK",
+                    "THUMBS UP"
                 ]
             },
             {
                 "level": 3,
-                "group": "FRENCH WORDS",
+                "group": "\u201cPAN\u201d",
                 "members": [
-                    "ADIEU",
-                    "BELLE",
-                    "PAIN",
-                    "TEMPS"
+                    "BAD REVIEW",
+                    "CAMERA MOVEMENT",
+                    "COOKWARE",
+                    "SATYR"
                 ]
             }
         ]
