@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-25",
+        "date": "2024-10-26",
         "answers": [
             {
                 "level": 0,
-                "group": "\u2022",
+                "group": "FLUSTER",
                 "members": [
-                    "DOT",
-                    "PERIOD",
-                    "POINT",
-                    "TITTLE"
+                    "FAZE",
+                    "RATTLE",
+                    "RUFFLE",
+                    "THROW"
                 ]
             },
             {
                 "level": 1,
-                "group": "EVENT WITH DANCING",
+                "group": "SERIES OF MESSAGES",
                 "members": [
-                    "BALL",
-                    "FORMAL",
-                    "HOP",
-                    "RAVE"
+                    "CHAIN",
+                    "CHAT",
+                    "CONVERSATION",
+                    "THREAD"
                 ]
             },
             {
                 "level": 2,
-                "group": "IPHONE MESSAGE TAPBACK RESPONSES",
+                "group": "PLACES TO LIE/SIT THAT MOVE",
                 "members": [
-                    "EXCLAMATION POINTS",
-                    "HEART",
-                    "QUESTION MARK",
-                    "THUMBS UP"
+                    "CRADLE",
+                    "HAMMOCK",
+                    "ROCKER",
+                    "SWING"
                 ]
             },
             {
                 "level": 3,
-                "group": "\u201cPAN\u201d",
+                "group": "CYLINDER-SHAPED THINGS",
                 "members": [
-                    "BAD REVIEW",
-                    "CAMERA MOVEMENT",
-                    "COOKWARE",
-                    "SATYR"
+                    "CAN",
+                    "ROLLER",
+                    "SILO",
+                    "SPOOL"
                 ]
             }
         ]
