@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-27",
+        "date": "2024-10-28",
         "answers": [
             {
                 "level": 0,
-                "group": "SASSY",
+                "group": "AUDIO APPS",
                 "members": [
-                    "CUTE",
-                    "FRESH",
-                    "SMART",
-                    "WISE"
+                    "AUDIBLE",
+                    "PANDORA",
+                    "SHAZAM",
+                    "TIDAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "AMBIENCE",
+                "group": "INDICATE",
                 "members": [
-                    "AIR",
-                    "MOOD",
-                    "FEELING",
-                    "QUALITY"
+                    "MEAN",
+                    "SIGNIFY",
+                    "SPELL",
+                    "SUGGEST"
                 ]
             },
             {
                 "level": 2,
-                "group": "UNITS",
+                "group": "CHURCH OF ENGLAND WEDDING VOW VERBS",
                 "members": [
-                    "BAR",
-                    "BEL",
-                    "LUX",
-                    "MOLE"
+                    "CHERISH",
+                    "HAVE",
+                    "HOLD",
+                    "LOVE"
                 ]
             },
             {
                 "level": 3,
-                "group": "THE LITTLE ___",
+                "group": "MAGIC WORDS",
                 "members": [
-                    "MERMAID",
-                    "PRINCE",
-                    "RASCALS",
-                    "TRAMP"
+                    "ABRACADABRA",
+                    "PLEASE",
+                    "PRESTO",
+                    "THANK YOU"
                 ]
             }
         ]
