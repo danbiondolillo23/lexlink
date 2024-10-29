@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-28",
+        "date": "2024-10-29",
         "answers": [
             {
                 "level": 0,
-                "group": "AUDIO APPS",
+                "group": "IN PRISTINE CONDITION",
                 "members": [
-                    "AUDIBLE",
-                    "PANDORA",
-                    "SHAZAM",
-                    "TIDAL"
+                    "MINT",
+                    "NEW",
+                    "ORIGINAL",
+                    "UNUSED"
                 ]
             },
             {
                 "level": 1,
-                "group": "INDICATE",
+                "group": "MEDICAL ROLES",
                 "members": [
-                    "MEAN",
-                    "SIGNIFY",
-                    "SPELL",
-                    "SUGGEST"
+                    "ATTENDING",
+                    "FELLOW",
+                    "INTERN",
+                    "RESIDENT"
                 ]
             },
             {
                 "level": 2,
-                "group": "CHURCH OF ENGLAND WEDDING VOW VERBS",
+                "group": "SINGULAR NOUN IN A FAMOUS \u201cJULIUS CAESAR\u201d LINE",
                 "members": [
-                    "CHERISH",
-                    "HAVE",
-                    "HOLD",
-                    "LOVE"
+                    "COUNTRYMAN",
+                    "EAR",
+                    "FRIEND",
+                    "ROMAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "MAGIC WORDS",
+                "group": "___ SQUARE",
                 "members": [
-                    "ABRACADABRA",
-                    "PLEASE",
-                    "PRESTO",
-                    "THANK YOU"
+                    "PERFECT",
+                    "POCKET",
+                    "TIMES",
+                    "TOWN"
                 ]
             }
         ]
