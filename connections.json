@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-29",
+        "date": "2024-10-30",
         "answers": [
             {
                 "level": 0,
-                "group": "IN PRISTINE CONDITION",
+                "group": "UPSWING",
                 "members": [
-                    "MINT",
-                    "NEW",
-                    "ORIGINAL",
-                    "UNUSED"
+                    "BOOM",
+                    "RISE",
+                    "SPIKE",
+                    "SURGE"
                 ]
             },
             {
                 "level": 1,
-                "group": "MEDICAL ROLES",
+                "group": "THINGS WITH WHEELS",
                 "members": [
-                    "ATTENDING",
-                    "FELLOW",
-                    "INTERN",
-                    "RESIDENT"
+                    "DOLLY",
+                    "ROLLERBLADE",
+                    "SKATEBOARD",
+                    "WAGON"
                 ]
             },
             {
                 "level": 2,
-                "group": "SINGULAR NOUN IN A FAMOUS \u201cJULIUS CAESAR\u201d LINE",
+                "group": "KINDS OF TAPE",
                 "members": [
-                    "COUNTRYMAN",
-                    "EAR",
-                    "FRIEND",
-                    "ROMAN"
+                    "DUCT",
+                    "ELECTRICAL",
+                    "GAFFER",
+                    "PACKING"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ SQUARE",
+                "group": "RETAIL CHAINS WITH A LETTER CHANGED",
                 "members": [
-                    "PERFECT",
-                    "POCKET",
-                    "TIMES",
-                    "TOWN"
+                    "BEST BOY",
+                    "IDEA",
+                    "KRONER",
+                    "STABLES"
                 ]
             }
         ]
