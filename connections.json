@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-30",
+        "date": "2024-10-31",
         "answers": [
             {
                 "level": 0,
-                "group": "UPSWING",
+                "group": "TERMS OF ENDEARMENT",
                 "members": [
-                    "BOOM",
-                    "RISE",
-                    "SPIKE",
-                    "SURGE"
+                    "DARLING",
+                    "LOVE",
+                    "PUMPKIN",
+                    "TREASURE"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS WITH WHEELS",
+                "group": "THINGS YOU CAN DO WITH YOUR EYELIDS",
                 "members": [
-                    "DOLLY",
-                    "ROLLERBLADE",
-                    "SKATEBOARD",
-                    "WAGON"
+                    "BAT",
+                    "BLINK",
+                    "FLUTTER",
+                    "WINK"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF TAPE",
+                "group": "SPORTS CARS",
                 "members": [
-                    "DUCT",
-                    "ELECTRICAL",
-                    "GAFFER",
-                    "PACKING"
+                    "DIABLO",
+                    "MUSTANG",
+                    "SPIDER",
+                    "VIPER"
                 ]
             },
             {
                 "level": 3,
-                "group": "RETAIL CHAINS WITH A LETTER CHANGED",
+                "group": "___ HUNT",
                 "members": [
-                    "BEST BOY",
-                    "IDEA",
-                    "KRONER",
-                    "STABLES"
+                    "EGG",
+                    "JOB",
+                    "SCAVENGER",
+                    "WITCH"
                 ]
             }
         ]
