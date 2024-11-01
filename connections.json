@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-10-31",
+        "date": "2024-11-01",
         "answers": [
             {
                 "level": 0,
-                "group": "TERMS OF ENDEARMENT",
+                "group": "PROGRESS SLOWLY",
                 "members": [
-                    "DARLING",
-                    "LOVE",
-                    "PUMPKIN",
-                    "TREASURE"
+                    "CRAWL",
+                    "CREEP",
+                    "DRAG",
+                    "INCH"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS YOU CAN DO WITH YOUR EYELIDS",
+                "group": "WAYS TO ORDER A BEER",
                 "members": [
-                    "BAT",
-                    "BLINK",
-                    "FLUTTER",
-                    "WINK"
+                    "BOTTLE",
+                    "CAN",
+                    "DRAFT",
+                    "TAP"
                 ]
             },
             {
                 "level": 2,
-                "group": "SPORTS CARS",
+                "group": "CHEESY CORN SNACK UNIT",
                 "members": [
-                    "DIABLO",
-                    "MUSTANG",
-                    "SPIDER",
-                    "VIPER"
+                    "BALL",
+                    "CURL",
+                    "DOODLE",
+                    "PUFF"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ HUNT",
+                "group": "___ EFFECT",
                 "members": [
-                    "EGG",
-                    "JOB",
-                    "SCAVENGER",
-                    "WITCH"
+                    "BUTTERFLY",
+                    "DOMINO",
+                    "HALO",
+                    "PLACEBO"
                 ]
             }
         ]
