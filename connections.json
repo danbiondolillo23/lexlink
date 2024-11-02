@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-01",
+        "date": "2024-11-02",
         "answers": [
             {
                 "level": 0,
-                "group": "PROGRESS SLOWLY",
+                "group": "SEEN IN A KITCHEN",
                 "members": [
-                    "CRAWL",
-                    "CREEP",
-                    "DRAG",
-                    "INCH"
+                    "COUNTER",
+                    "FRIDGE",
+                    "RANGE",
+                    "SINK"
                 ]
             },
             {
                 "level": 1,
-                "group": "WAYS TO ORDER A BEER",
+                "group": "GROUP OF ADVISORS",
                 "members": [
-                    "BOTTLE",
-                    "CAN",
-                    "DRAFT",
-                    "TAP"
+                    "BOARD",
+                    "CABINET",
+                    "COUNCIL",
+                    "PANEL"
                 ]
             },
             {
                 "level": 2,
-                "group": "CHEESY CORN SNACK UNIT",
+                "group": "CORE EXERCISES",
                 "members": [
-                    "BALL",
-                    "CURL",
-                    "DOODLE",
-                    "PUFF"
+                    "BOAT",
+                    "CRUNCH",
+                    "MOUNTAIN CLIMBER",
+                    "PLANK"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ EFFECT",
+                "group": "KINDS OF EARRINGS",
                 "members": [
-                    "BUTTERFLY",
-                    "DOMINO",
-                    "HALO",
-                    "PLACEBO"
+                    "CHANDELIER",
+                    "DROP",
+                    "HOOP",
+                    "STUD"
                 ]
             }
         ]
