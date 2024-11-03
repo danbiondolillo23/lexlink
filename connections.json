@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-02",
+        "date": "2024-11-03",
         "answers": [
             {
                 "level": 0,
-                "group": "SEEN IN A KITCHEN",
+                "group": "HEARTWARMING",
                 "members": [
-                    "COUNTER",
-                    "FRIDGE",
-                    "RANGE",
-                    "SINK"
+                    "MOVING",
+                    "SWEET",
+                    "TENDER",
+                    "TOUCHING"
                 ]
             },
             {
                 "level": 1,
-                "group": "GROUP OF ADVISORS",
+                "group": "SNEAKING SUSPICION",
                 "members": [
-                    "BOARD",
-                    "CABINET",
-                    "COUNCIL",
-                    "PANEL"
+                    "FEELING",
+                    "HUNCH",
+                    "IMPRESSION",
+                    "SENSE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CORE EXERCISES",
+                "group": "LEGAL SESSION",
                 "members": [
-                    "BOAT",
-                    "CRUNCH",
-                    "MOUNTAIN CLIMBER",
-                    "PLANK"
+                    "HEARING",
+                    "INQUIRY",
+                    "PROCEEDING",
+                    "TRIAL"
                 ]
             },
             {
                 "level": 3,
-                "group": "KINDS OF EARRINGS",
+                "group": "EASY ___",
                 "members": [
-                    "CHANDELIER",
-                    "DROP",
-                    "HOOP",
-                    "STUD"
+                    "CHAIR",
+                    "LISTENING",
+                    "MONEY",
+                    "STREET"
                 ]
             }
         ]
