@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-04",
+        "date": "2024-11-05",
         "answers": [
             {
                 "level": 0,
-                "group": "EQUIP",
+                "group": "THINGS THAT ARE FUZZY",
                 "members": [
-                    "FURNISH",
-                    "OUTFIT",
-                    "PROVISION",
-                    "STOCK"
+                    "CATERPILLAR",
+                    "FLEECE",
+                    "PEACH",
+                    "PIPE CLEANER"
                 ]
             },
             {
                 "level": 1,
-                "group": "INDIVIDUALITY",
+                "group": "THINGS WITH SHELLS",
                 "members": [
-                    "BEING",
-                    "CHARACTER",
-                    "EGO",
-                    "SELF"
+                    "CLAM",
+                    "EGG",
+                    "NUT",
+                    "TURTLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "FURNITURE",
+                "group": "FIGURES IN \u201cSHREK\u201d",
                 "members": [
-                    "CHEST",
-                    "CONSOLE",
-                    "VANITY",
-                    "WARDROBE"
+                    "DONKEY",
+                    "DRAGON",
+                    "OGRE",
+                    "PRINCESS"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS WITH APOSTROPHES REMOVED",
+                "group": "MAGIC ___",
                 "members": [
-                    "CANT",
-                    "ID",
-                    "SHELL",
-                    "WERE"
+                    "CARPET",
+                    "KINGDOM",
+                    "MARKER",
+                    "MUSHROOM"
                 ]
             }
         ]
