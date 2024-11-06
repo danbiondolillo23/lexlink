@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-05",
+        "date": "2024-11-06",
         "answers": [
             {
                 "level": 0,
-                "group": "THINGS THAT ARE FUZZY",
+                "group": "DVR BUTTONS",
                 "members": [
-                    "CATERPILLAR",
-                    "FLEECE",
-                    "PEACH",
-                    "PIPE CLEANER"
+                    "PAUSE",
+                    "PLAY",
+                    "RECORD",
+                    "STOP"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS WITH SHELLS",
+                "group": "GROUNDBREAKING",
                 "members": [
-                    "CLAM",
-                    "EGG",
-                    "NUT",
-                    "TURTLE"
+                    "DIFFERENT",
+                    "NEW",
+                    "NOVEL",
+                    "ORIGINAL"
                 ]
             },
             {
                 "level": 2,
-                "group": "FIGURES IN \u201cSHREK\u201d",
+                "group": "COMMUNICATE THROUGH WRITING",
                 "members": [
-                    "DONKEY",
-                    "DRAGON",
-                    "OGRE",
-                    "PRINCESS"
+                    "CORRESPOND",
+                    "MESSAGE",
+                    "TEXT",
+                    "WRITE"
                 ]
             },
             {
                 "level": 3,
-                "group": "MAGIC ___",
+                "group": "THINGS WITH FEET",
                 "members": [
-                    "CARPET",
-                    "KINGDOM",
-                    "MARKER",
-                    "MUSHROOM"
+                    "BIPED",
+                    "FURNITURE",
+                    "POEM",
+                    "YARDSTICK"
                 ]
             }
         ]
