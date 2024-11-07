@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-06",
+        "date": "2024-11-07",
         "answers": [
             {
                 "level": 0,
-                "group": "DVR BUTTONS",
+                "group": "FOOD-RELATED JUMBLES",
                 "members": [
-                    "PAUSE",
-                    "PLAY",
-                    "RECORD",
-                    "STOP"
+                    "HASH",
+                    "SALAD",
+                    "SCRAMBLE",
+                    "STEW"
                 ]
             },
             {
                 "level": 1,
-                "group": "GROUNDBREAKING",
+                "group": "PUBLIC STANDING",
                 "members": [
-                    "DIFFERENT",
-                    "NEW",
-                    "NOVEL",
-                    "ORIGINAL"
+                    "CHARACTER",
+                    "IMAGE",
+                    "NAME",
+                    "REPUTATION"
                 ]
             },
             {
                 "level": 2,
-                "group": "COMMUNICATE THROUGH WRITING",
+                "group": "INFO ON A MUSEUM PLACARD",
                 "members": [
-                    "CORRESPOND",
-                    "MESSAGE",
-                    "TEXT",
-                    "WRITE"
+                    "ARTIST",
+                    "MEDIUM",
+                    "TITLE",
+                    "YEAR"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS WITH FEET",
+                "group": "ANAGRAMS OF FAMOUS PAINTERS",
                 "members": [
-                    "BIPED",
-                    "FURNITURE",
-                    "POEM",
-                    "YARDSTICK"
+                    "DIAL",
+                    "EGADS",
+                    "MONTE",
+                    "YOGA"
                 ]
             }
         ]
