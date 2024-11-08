@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-07",
+        "date": "2024-11-08",
         "answers": [
             {
                 "level": 0,
-                "group": "FOOD-RELATED JUMBLES",
+                "group": "ESCAPADE",
                 "members": [
-                    "HASH",
-                    "SALAD",
-                    "SCRAMBLE",
-                    "STEW"
+                    "ANTIC",
+                    "CAPER",
+                    "EXPLOIT",
+                    "STUNT"
                 ]
             },
             {
                 "level": 1,
-                "group": "PUBLIC STANDING",
+                "group": "KINDS OF PICKLES",
                 "members": [
-                    "CHARACTER",
-                    "IMAGE",
-                    "NAME",
-                    "REPUTATION"
+                    "DILL",
+                    "KOSHER",
+                    "SOUR",
+                    "SWEET"
                 ]
             },
             {
                 "level": 2,
-                "group": "INFO ON A MUSEUM PLACARD",
+                "group": "RISQU\u00c9",
                 "members": [
-                    "ARTIST",
-                    "MEDIUM",
-                    "TITLE",
-                    "YEAR"
+                    "ADULT",
+                    "BLUE",
+                    "SPICY",
+                    "SUGGESTIVE"
                 ]
             },
             {
                 "level": 3,
-                "group": "ANAGRAMS OF FAMOUS PAINTERS",
+                "group": "CUT THE ___",
                 "members": [
-                    "DIAL",
-                    "EGADS",
-                    "MONTE",
-                    "YOGA"
+                    "CHEESE",
+                    "CORD",
+                    "DECK",
+                    "MUSTARD"
                 ]
             }
         ]
