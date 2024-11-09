@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-08",
+        "date": "2024-11-09",
         "answers": [
             {
                 "level": 0,
-                "group": "ESCAPADE",
+                "group": "CONTORTED",
                 "members": [
-                    "ANTIC",
-                    "CAPER",
-                    "EXPLOIT",
-                    "STUNT"
+                    "BENT",
+                    "GNARLY",
+                    "TWISTED",
+                    "WARPED"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF PICKLES",
+                "group": "SMALLEST AMOUNT",
                 "members": [
-                    "DILL",
-                    "KOSHER",
-                    "SOUR",
-                    "SWEET"
+                    "LICK",
+                    "OUNCE",
+                    "SHRED",
+                    "TRACE"
                 ]
             },
             {
                 "level": 2,
-                "group": "RISQU\u00c9",
+                "group": "ALGEBRA TERMS",
                 "members": [
-                    "ADULT",
-                    "BLUE",
-                    "SPICY",
-                    "SUGGESTIVE"
+                    "EXPONENT",
+                    "POWER",
+                    "RADICAL",
+                    "ROOT"
                 ]
             },
             {
                 "level": 3,
-                "group": "CUT THE ___",
+                "group": "WORDS BEFORE \u201cROOM\u201d TO MEAN LAVATORY",
                 "members": [
-                    "CHEESE",
-                    "CORD",
-                    "DECK",
-                    "MUSTARD"
+                    "BATH",
+                    "POWDER",
+                    "REST",
+                    "THRONE"
                 ]
             }
         ]
