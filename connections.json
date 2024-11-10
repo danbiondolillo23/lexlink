@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-09",
+        "date": "2024-11-10",
         "answers": [
             {
                 "level": 0,
-                "group": "CONTORTED",
+                "group": "BARREL-SHAPED CONTAINER",
                 "members": [
-                    "BENT",
-                    "GNARLY",
-                    "TWISTED",
-                    "WARPED"
+                    "CASK",
+                    "CYLINDER",
+                    "DRUM",
+                    "TANK"
                 ]
             },
             {
                 "level": 1,
-                "group": "SMALLEST AMOUNT",
+                "group": "GUIDE",
                 "members": [
-                    "LICK",
-                    "OUNCE",
-                    "SHRED",
-                    "TRACE"
+                    "PILOT",
+                    "USHER",
+                    "SHEPHERD",
+                    "STEER"
                 ]
             },
             {
                 "level": 2,
-                "group": "ALGEBRA TERMS",
+                "group": "N.F.L. TEAM MEMBER",
                 "members": [
-                    "EXPONENT",
-                    "POWER",
-                    "RADICAL",
-                    "ROOT"
+                    "COWBOY",
+                    "JET",
+                    "RAM",
+                    "RAVEN"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS BEFORE \u201cROOM\u201d TO MEAN LAVATORY",
+                "group": "THINGS THAT SWING",
                 "members": [
-                    "BATH",
-                    "POWDER",
-                    "REST",
-                    "THRONE"
+                    "GOLFER",
+                    "PENDULUM",
+                    "SALOON DOORS",
+                    "SWING"
                 ]
             }
         ]
