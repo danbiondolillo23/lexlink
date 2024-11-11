@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-10",
+        "date": "2024-11-11",
         "answers": [
             {
                 "level": 0,
-                "group": "BARREL-SHAPED CONTAINER",
+                "group": "CHOCOLATE BARS",
                 "members": [
-                    "CASK",
-                    "CYLINDER",
-                    "DRUM",
-                    "TANK"
+                    "CRUNCH",
+                    "DOVE",
+                    "MARS",
+                    "PAYDAY"
                 ]
             },
             {
                 "level": 1,
-                "group": "GUIDE",
+                "group": "GIST",
                 "members": [
-                    "PILOT",
-                    "USHER",
-                    "SHEPHERD",
-                    "STEER"
+                    "CORE",
+                    "MEAT",
+                    "SUBSTANCE",
+                    "THRUST"
                 ]
             },
             {
                 "level": 2,
-                "group": "N.F.L. TEAM MEMBER",
+                "group": "KINDS OF BRAS",
                 "members": [
-                    "COWBOY",
-                    "JET",
-                    "RAM",
-                    "RAVEN"
+                    "DEMI",
+                    "PUSH-UP",
+                    "SPORTS",
+                    "WIRELESS"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS THAT SWING",
+                "group": "___ BIRD",
                 "members": [
-                    "GOLFER",
-                    "PENDULUM",
-                    "SALOON DOORS",
-                    "SWING"
+                    "BIG",
+                    "EARLY",
+                    "LADY",
+                    "SUE"
                 ]
             }
         ]
