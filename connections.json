@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-13",
+        "date": "2024-11-14",
         "answers": [
             {
                 "level": 0,
-                "group": "THINGS THAT ARE YELLOW",
+                "group": "DEPLETE",
                 "members": [
-                    "CANARY",
-                    "LEMON",
-                    "MINION",
-                    "MUSTARD"
+                    "DRAIN",
+                    "EMPTY",
+                    "EXHAUST",
+                    "SAP"
                 ]
             },
             {
                 "level": 1,
-                "group": "BUILDING ADD-ONS",
+                "group": "PLAY MUSIC WITH PASSION",
                 "members": [
-                    "ADDITION",
-                    "ANNEX",
-                    "EXTENSION",
-                    "WING"
+                    "GROOVE",
+                    "JAM",
+                    "ROCK",
+                    "SHRED"
                 ]
             },
             {
                 "level": 2,
-                "group": "CONCERNS FOR A DENTIST",
+                "group": "WORDS ON A RESTAURANT RECEIPT",
                 "members": [
-                    "CALCULUS",
-                    "CAVITY",
-                    "PLAQUE",
-                    "TARTAR"
+                    "TAX",
+                    "TIP",
+                    "TOTAL",
+                    "SIGNATURE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS THAT SEEM LONGER WRITTEN THAN SPOKEN",
+                "group": "FORMS OF SUGAR",
                 "members": [
-                    "COLONEL",
-                    "PHARAOH",
-                    "WEDNESDAY",
-                    "WORCESTERSHIRE"
+                    "CUBE",
+                    "GRAIN",
+                    "POWDER",
+                    "SYRUP"
                 ]
             }
         ]
