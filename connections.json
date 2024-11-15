@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-14",
+        "date": "2024-11-15",
         "answers": [
             {
                 "level": 0,
-                "group": "DEPLETE",
+                "group": "FISSURE",
                 "members": [
-                    "DRAIN",
-                    "EMPTY",
-                    "EXHAUST",
-                    "SAP"
+                    "CRACK",
+                    "HOLE",
+                    "LEAK",
+                    "PUNCTURE"
                 ]
             },
             {
                 "level": 1,
-                "group": "PLAY MUSIC WITH PASSION",
+                "group": "ELEMENTS OF WRITING",
                 "members": [
-                    "GROOVE",
-                    "JAM",
-                    "ROCK",
-                    "SHRED"
+                    "LETTER",
+                    "PHRASE",
+                    "SENTENCE",
+                    "WORD"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS ON A RESTAURANT RECEIPT",
+                "group": "INSTRUMENTS YOU BLOW INTO",
                 "members": [
-                    "TAX",
-                    "TIP",
-                    "TOTAL",
-                    "SIGNATURE"
+                    "JUG",
+                    "PIPE",
+                    "RECORDER",
+                    "WHISTLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "FORMS OF SUGAR",
+                "group": "___ OF TIME",
                 "members": [
-                    "CUBE",
-                    "GRAIN",
-                    "POWDER",
-                    "SYRUP"
+                    "NICK",
+                    "PASSAGE",
+                    "SANDS",
+                    "WASTE"
                 ]
             }
         ]
