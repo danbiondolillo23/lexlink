@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-15",
+        "date": "2024-11-16",
         "answers": [
             {
                 "level": 0,
-                "group": "FISSURE",
+                "group": "THINGS THAT PREVENT LEAKS",
                 "members": [
-                    "CRACK",
-                    "HOLE",
-                    "LEAK",
-                    "PUNCTURE"
+                    "CAP",
+                    "COVER",
+                    "PLUG",
+                    "SEAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "ELEMENTS OF WRITING",
+                "group": "KINDS OF HATS",
                 "members": [
-                    "LETTER",
-                    "PHRASE",
-                    "SENTENCE",
-                    "WORD"
+                    "BERET",
+                    "DERBY",
+                    "PILLBOX",
+                    "SNAPBACK"
                 ]
             },
             {
                 "level": 2,
-                "group": "INSTRUMENTS YOU BLOW INTO",
+                "group": "COLLEGE FOOTBALL TEAM MEMBERS",
                 "members": [
-                    "JUG",
-                    "PIPE",
-                    "RECORDER",
-                    "WHISTLE"
+                    "GATOR",
+                    "SOONER",
+                    "VOLUNTEER",
+                    "WOLVERINE"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ OF TIME",
+                "group": "GO ___",
                 "members": [
-                    "NICK",
-                    "PASSAGE",
-                    "SANDS",
-                    "WASTE"
+                    "BANANAS",
+                    "COMMANDO",
+                    "FIGURE",
+                    "ROGUE"
                 ]
             }
         ]
