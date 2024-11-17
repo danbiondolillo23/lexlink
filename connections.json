@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-16",
+        "date": "2024-11-17",
         "answers": [
             {
                 "level": 0,
-                "group": "THINGS THAT PREVENT LEAKS",
+                "group": "ALLIANCE",
                 "members": [
-                    "CAP",
-                    "COVER",
-                    "PLUG",
-                    "SEAL"
+                    "ASSOCIATION",
+                    "GUILD",
+                    "LEAGUE",
+                    "UNION"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF HATS",
+                "group": "CLOSE-FITTING ",
                 "members": [
-                    "BERET",
-                    "DERBY",
-                    "PILLBOX",
-                    "SNAPBACK"
+                    "CLINGY",
+                    "SLEEK",
+                    "SLINKY",
+                    "SNUG"
                 ]
             },
             {
                 "level": 2,
-                "group": "COLLEGE FOOTBALL TEAM MEMBERS",
+                "group": "OCCASIONS WHEN ONE MIGHT KNEEL",
                 "members": [
-                    "GATOR",
-                    "SOONER",
-                    "VOLUNTEER",
-                    "WOLVERINE"
+                    "APOLOGY",
+                    "DUBBING",
+                    "PRAYER",
+                    "PROPOSAL"
                 ]
             },
             {
                 "level": 3,
-                "group": "GO ___",
+                "group": "WHAT AN APOSTROPHE MIGHT INDICATE",
                 "members": [
-                    "BANANAS",
-                    "COMMANDO",
-                    "FIGURE",
-                    "ROGUE"
+                    "CONTRACTION",
+                    "FOOT",
+                    "POSSESSIVE",
+                    "QUOTATION"
                 ]
             }
         ]
