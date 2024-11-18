@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-17",
+        "date": "2024-11-18",
         "answers": [
             {
                 "level": 0,
-                "group": "ALLIANCE",
+                "group": "USED IN HAIR CARE",
                 "members": [
-                    "ASSOCIATION",
-                    "GUILD",
-                    "LEAGUE",
-                    "UNION"
+                    "COMB",
+                    "DRYER",
+                    "HAIRSPRAY",
+                    "ROLLERS"
                 ]
             },
             {
                 "level": 1,
-                "group": "CLOSE-FITTING ",
+                "group": "MONTHLY EXPENSES",
                 "members": [
-                    "CLINGY",
-                    "SLEEK",
-                    "SLINKY",
-                    "SNUG"
+                    "GAS",
+                    "INTERNET",
+                    "PHONE",
+                    "RENT"
                 ]
             },
             {
                 "level": 2,
-                "group": "OCCASIONS WHEN ONE MIGHT KNEEL",
+                "group": "THINGS WITH SPOTS",
                 "members": [
-                    "APOLOGY",
-                    "DUBBING",
-                    "PRAYER",
-                    "PROPOSAL"
+                    "DALMATIAN",
+                    "DIE",
+                    "DOMINO",
+                    "LADYBUG"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT AN APOSTROPHE MIGHT INDICATE",
+                "group": "___ CRAB",
                 "members": [
-                    "CONTRACTION",
-                    "FOOT",
-                    "POSSESSIVE",
-                    "QUOTATION"
+                    "FIDDLER",
+                    "HERMIT",
+                    "HORSESHOE",
+                    "SPIDER"
                 ]
             }
         ]
