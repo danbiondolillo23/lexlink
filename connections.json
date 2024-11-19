@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-18",
+        "date": "2024-11-19",
         "answers": [
             {
                 "level": 0,
-                "group": "USED IN HAIR CARE",
+                "group": "AREA OF EXPERTISE",
                 "members": [
-                    "COMB",
-                    "DRYER",
-                    "HAIRSPRAY",
-                    "ROLLERS"
+                    "CONCENTRATION",
+                    "FIELD",
+                    "FOCUS",
+                    "SPECIALTY"
                 ]
             },
             {
                 "level": 1,
-                "group": "MONTHLY EXPENSES",
+                "group": "WAYS TO UNLOCK A DEVICE",
                 "members": [
-                    "GAS",
-                    "INTERNET",
-                    "PHONE",
-                    "RENT"
+                    "FACE",
+                    "FINGERPRINT",
+                    "PASSWORD",
+                    "PIN"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS WITH SPOTS",
+                "group": "PASTA SHAPES",
                 "members": [
-                    "DALMATIAN",
-                    "DIE",
-                    "DOMINO",
-                    "LADYBUG"
+                    "EAR",
+                    "ELBOW",
+                    "RIBBON",
+                    "WHEEL"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ CRAB",
+                "group": "DOUBLE ___",
                 "members": [
-                    "FIDDLER",
-                    "HERMIT",
-                    "HORSESHOE",
-                    "SPIDER"
+                    "AGENT",
+                    "DRIBBLE",
+                    "JEOPARDY",
+                    "STANDARD"
                 ]
             }
         ]
