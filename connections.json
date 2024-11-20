@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-19",
+        "date": "2024-11-20",
         "answers": [
             {
                 "level": 0,
-                "group": "AREA OF EXPERTISE",
+                "group": "SOUND LIKE A DOG",
                 "members": [
-                    "CONCENTRATION",
-                    "FIELD",
-                    "FOCUS",
-                    "SPECIALTY"
+                    "BARK",
+                    "BAY",
+                    "HOWL",
+                    "SNARL"
                 ]
             },
             {
                 "level": 1,
-                "group": "WAYS TO UNLOCK A DEVICE",
+                "group": "BROADCAST, AS ONLINE MEDIA",
                 "members": [
-                    "FACE",
-                    "FINGERPRINT",
-                    "PASSWORD",
-                    "PIN"
+                    "AIR",
+                    "PLAY",
+                    "RUN",
+                    "STREAM"
                 ]
             },
             {
                 "level": 2,
-                "group": "PASTA SHAPES",
+                "group": "COCKTAIL-MAKING VERBS",
                 "members": [
-                    "EAR",
-                    "ELBOW",
-                    "RIBBON",
-                    "WHEEL"
+                    "GARNISH",
+                    "MUDDLE",
+                    "STIR",
+                    "STRAIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "DOUBLE ___",
+                "group": "ORGANIZATIONAL STRUCTURES, METAPHORICALLY",
                 "members": [
-                    "AGENT",
-                    "DRIBBLE",
-                    "JEOPARDY",
-                    "STANDARD"
+                    "CHAIN",
+                    "LADDER",
+                    "PYRAMID",
+                    "TREE"
                 ]
             }
         ]
