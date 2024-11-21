@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-20",
+        "date": "2024-11-21",
         "answers": [
             {
                 "level": 0,
-                "group": "SOUND LIKE A DOG",
+                "group": "KINDS OF SHIRTS",
                 "members": [
-                    "BARK",
-                    "BAY",
-                    "HOWL",
-                    "SNARL"
+                    "FLANNEL",
+                    "OXFORD",
+                    "POLO",
+                    "TEE"
                 ]
             },
             {
                 "level": 1,
-                "group": "BROADCAST, AS ONLINE MEDIA",
+                "group": "SPHERES IN MILK TEA",
                 "members": [
-                    "AIR",
-                    "PLAY",
-                    "RUN",
-                    "STREAM"
+                    "BOBA",
+                    "BUBBLE",
+                    "PEARL",
+                    "TAPIOCA"
                 ]
             },
             {
                 "level": 2,
-                "group": "COCKTAIL-MAKING VERBS",
+                "group": "MARINE INVERTEBRATES, FAMILIARLY",
                 "members": [
-                    "GARNISH",
-                    "MUDDLE",
-                    "STIR",
-                    "STRAIN"
+                    "CORAL",
+                    "JELLY",
+                    "SPONGE",
+                    "STAR"
                 ]
             },
             {
                 "level": 3,
-                "group": "ORGANIZATIONAL STRUCTURES, METAPHORICALLY",
+                "group": "STARTS OF PASTA NAMES",
                 "members": [
-                    "CHAIN",
-                    "LADDER",
-                    "PYRAMID",
-                    "TREE"
+                    "FETT",
+                    "PENN",
+                    "TORTE",
+                    "ZIT"
                 ]
             }
         ]
