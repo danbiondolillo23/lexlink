@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-21",
+        "date": "2024-11-22",
         "answers": [
             {
                 "level": 0,
-                "group": "KINDS OF SHIRTS",
+                "group": "PUBLICITY",
                 "members": [
-                    "FLANNEL",
-                    "OXFORD",
-                    "POLO",
-                    "TEE"
+                    "ATTENTION",
+                    "COVERAGE",
+                    "EXPOSURE",
+                    "PRESS"
                 ]
             },
             {
                 "level": 1,
-                "group": "SPHERES IN MILK TEA",
+                "group": "POINT OF VIEW",
                 "members": [
-                    "BOBA",
-                    "BUBBLE",
-                    "PEARL",
-                    "TAPIOCA"
+                    "ANGLE",
+                    "LENS",
+                    "PERSPECTIVE",
+                    "POSITION"
                 ]
             },
             {
                 "level": 2,
-                "group": "MARINE INVERTEBRATES, FAMILIARLY",
+                "group": "WORK COMMUNICATION PLATFORMS",
                 "members": [
-                    "CORAL",
-                    "JELLY",
-                    "SPONGE",
-                    "STAR"
+                    "MEET",
+                    "SLACK",
+                    "TEAMS",
+                    "ZOOM"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTS OF PASTA NAMES",
+                "group": "\u201c___ ISLAND\u201d",
                 "members": [
-                    "FETT",
-                    "PENN",
-                    "TORTE",
-                    "ZIT"
+                    "FANTASY",
+                    "LOVE",
+                    "SHUTTER",
+                    "TREASURE"
                 ]
             }
         ]
