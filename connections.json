@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-24",
+        "date": "2024-11-25",
         "answers": [
             {
                 "level": 0,
-                "group": "CAREEN",
+                "group": "ATTAIN",
                 "members": [
-                    "HEAVE",
-                    "LURCH",
-                    "PITCH",
-                    "REEL"
+                    "EARN",
+                    "LAND",
+                    "SCORE",
+                    "WIN"
                 ]
             },
             {
                 "level": 1,
-                "group": "WHAT A NOUN MIGHT BE",
+                "group": "LARGE GROUP",
                 "members": [
-                    "IDEA",
-                    "PERSON",
-                    "PLACE",
-                    "THING"
+                    "CROWD",
+                    "FLOCK",
+                    "HOST",
+                    "SEA"
                 ]
             },
             {
                 "level": 2,
-                "group": "ELECTRONIC DANCE MUSIC GENRES",
+                "group": "PARTS OF A SHIP",
                 "members": [
-                    "AMBIENT",
-                    "HOUSE",
-                    "JUNGLE",
-                    "TRANCE"
+                    "ANCHOR",
+                    "BOW",
+                    "BRIDGE",
+                    "DECK"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS AFTER \u201cASH\u201d",
+                "group": "ASSOCIATED PRINCIPLES IN CHINESE PHILOSOPHY",
                 "members": [
-                    "BLOND",
-                    "TRAY",
-                    "TREE",
-                    "WEDNESDAY"
+                    "EXPANSIVE",
+                    "LIGHT",
+                    "MASCULINE",
+                    "YANG"
                 ]
             }
         ]
