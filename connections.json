@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-26",
+        "date": "2024-11-27",
         "answers": [
             {
                 "level": 0,
-                "group": "GOOD THINGS TO GET AT WORK",
+                "group": "NOT WORKING RELIABLY",
                 "members": [
-                    "BONUS",
-                    "EQUITY",
-                    "PROMOTION",
-                    "RAISE"
+                    "BUGGY",
+                    "ERRATIC",
+                    "GLITCHY",
+                    "SPOTTY"
                 ]
             },
             {
                 "level": 1,
-                "group": "DISREGARD",
+                "group": "CAR PARTS",
                 "members": [
-                    "DISCOUNT",
-                    "FORGET",
-                    "IGNORE",
-                    "OVERLOOK"
+                    "BUMPER",
+                    "GRILLE",
+                    "MIRROR",
+                    "RIM"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF CRACKERS",
+                "group": "WHAT A SITTER MIGHT SIT",
                 "members": [
-                    "ANIMAL",
-                    "CLUB",
-                    "GOLDFISH",
-                    "RITZ"
+                    "BABY",
+                    "HOUSE",
+                    "PET",
+                    "PLANT"
                 ]
             },
             {
                 "level": 3,
-                "group": "FEATURED IN \u201cELOISE\u201d",
+                "group": "___ BAND",
                 "members": [
-                    "ELOISE",
-                    "PLAZA",
-                    "PUG",
-                    "TURTLE"
+                    "BOY",
+                    "RUBBER",
+                    "TRIBUTE",
+                    "WEDDING"
                 ]
             }
         ]
