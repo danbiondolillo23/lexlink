@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-27",
+        "date": "2024-11-28",
         "answers": [
             {
                 "level": 0,
-                "group": "NOT WORKING RELIABLY",
+                "group": "APPRECIATION",
                 "members": [
-                    "BUGGY",
-                    "ERRATIC",
-                    "GLITCHY",
-                    "SPOTTY"
+                    "CREDIT",
+                    "PRAISE",
+                    "RECOGNITION",
+                    "THANKS"
                 ]
             },
             {
                 "level": 1,
-                "group": "CAR PARTS",
+                "group": "FRAUDSTER",
                 "members": [
-                    "BUMPER",
-                    "GRILLE",
-                    "MIRROR",
-                    "RIM"
+                    "CHEAT",
+                    "CON",
+                    "FAKE",
+                    "QUACK"
                 ]
             },
             {
                 "level": 2,
-                "group": "WHAT A SITTER MIGHT SIT",
+                "group": "EAT VORACIOUSLY",
                 "members": [
-                    "BABY",
-                    "HOUSE",
-                    "PET",
-                    "PLANT"
+                    "BOLT",
+                    "DOWN",
+                    "GOBBLE",
+                    "SCARF"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ BAND",
+                "group": "___ TUESDAY",
                 "members": [
-                    "BOY",
-                    "RUBBER",
-                    "TRIBUTE",
-                    "WEDDING"
+                    "FAT",
+                    "GIVING",
+                    "SUPER",
+                    "TACO"
                 ]
             }
         ]
