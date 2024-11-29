@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-28",
+        "date": "2024-11-29",
         "answers": [
             {
                 "level": 0,
-                "group": "APPRECIATION",
+                "group": "UNDERTAKING",
                 "members": [
-                    "CREDIT",
-                    "PRAISE",
-                    "RECOGNITION",
-                    "THANKS"
+                    "ENDEAVOR",
+                    "ENTERPRISE",
+                    "PROJECT",
+                    "VENTURE"
                 ]
             },
             {
                 "level": 1,
-                "group": "FRAUDSTER",
+                "group": "UNITS",
                 "members": [
-                    "CHEAT",
-                    "CON",
-                    "FAKE",
-                    "QUACK"
+                    "HERTZ",
+                    "MOLE",
+                    "SECOND",
+                    "VOLT"
                 ]
             },
             {
                 "level": 2,
-                "group": "EAT VORACIOUSLY",
+                "group": "M.L.B. TEAM MEMBER",
                 "members": [
-                    "BOLT",
-                    "DOWN",
-                    "GOBBLE",
-                    "SCARF"
+                    "NATIONAL",
+                    "RAY",
+                    "TIGER",
+                    "TWIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ TUESDAY",
+                "group": "FIRST WORDS OF HBO SHOWS",
                 "members": [
-                    "FAT",
-                    "GIVING",
-                    "SUPER",
-                    "TACO"
+                    "BOARDWALK",
+                    "CURB",
+                    "GAME",
+                    "SILICON"
                 ]
             }
         ]
