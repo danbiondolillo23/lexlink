@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-29",
+        "date": "2024-11-30",
         "answers": [
             {
                 "level": 0,
-                "group": "UNDERTAKING",
+                "group": "DANCE STYLES",
                 "members": [
-                    "ENDEAVOR",
-                    "ENTERPRISE",
-                    "PROJECT",
-                    "VENTURE"
+                    "JAZZ",
+                    "MODERN",
+                    "SWING",
+                    "TAP"
                 ]
             },
             {
                 "level": 1,
-                "group": "UNITS",
+                "group": "STEAL",
                 "members": [
-                    "HERTZ",
-                    "MOLE",
-                    "SECOND",
-                    "VOLT"
+                    "LIFT",
+                    "PALM",
+                    "POCKET",
+                    "SWIPE"
                 ]
             },
             {
                 "level": 2,
-                "group": "M.L.B. TEAM MEMBER",
+                "group": "PERFORM WELL ON",
                 "members": [
-                    "NATIONAL",
-                    "RAY",
-                    "TIGER",
-                    "TWIN"
+                    "ACE",
+                    "CRUSH",
+                    "NAIL",
+                    "ROCK"
                 ]
             },
             {
                 "level": 3,
-                "group": "FIRST WORDS OF HBO SHOWS",
+                "group": "___BALL PITCHES",
                 "members": [
-                    "BOARDWALK",
-                    "CURB",
-                    "GAME",
-                    "SILICON"
+                    "CURVE",
+                    "FAST",
+                    "KNUCKLE",
+                    "SCREW"
                 ]
             }
         ]
