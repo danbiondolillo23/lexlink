@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-11-30",
+        "date": "2024-12-01",
         "answers": [
             {
                 "level": 0,
-                "group": "DANCE STYLES",
+                "group": "SANCTUARY",
                 "members": [
-                    "JAZZ",
-                    "MODERN",
-                    "SWING",
-                    "TAP"
+                    "HAVEN",
+                    "PORT",
+                    "RETREAT",
+                    "SHELTER"
                 ]
             },
             {
                 "level": 1,
-                "group": "STEAL",
+                "group": "FOOTBALL GEAR",
                 "members": [
-                    "LIFT",
-                    "PALM",
-                    "POCKET",
-                    "SWIPE"
+                    "CLEATS",
+                    "HELMET",
+                    "JERSEY",
+                    "PADS"
                 ]
             },
             {
                 "level": 2,
-                "group": "PERFORM WELL ON",
+                "group": "CANDY NAMES",
                 "members": [
-                    "ACE",
-                    "CRUSH",
-                    "NAIL",
-                    "ROCK"
+                    "CHARMS",
+                    "KINDER",
+                    "WONKA",
+                    "YORK"
                 ]
             },
             {
                 "level": 3,
-                "group": "___BALL PITCHES",
+                "group": "\u201cFREE ___\u201d",
                 "members": [
-                    "CURVE",
-                    "FAST",
-                    "KNUCKLE",
-                    "SCREW"
+                    "BIRD",
+                    "FALLIN\u2019",
+                    "SOLO",
+                    "WILLY"
                 ]
             }
         ]
