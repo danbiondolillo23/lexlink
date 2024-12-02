@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-01",
+        "date": "2024-12-02",
         "answers": [
             {
                 "level": 0,
-                "group": "SANCTUARY",
+                "group": "ANNOUNCE",
                 "members": [
-                    "HAVEN",
-                    "PORT",
-                    "RETREAT",
-                    "SHELTER"
+                    "BROADCAST",
+                    "DECLARE",
+                    "HERALD",
+                    "TRUMPET"
                 ]
             },
             {
                 "level": 1,
-                "group": "FOOTBALL GEAR",
+                "group": "THINGS INVOLVING MALLETS",
                 "members": [
-                    "CLEATS",
-                    "HELMET",
-                    "JERSEY",
-                    "PADS"
+                    "CARPENTRY",
+                    "CROQUET",
+                    "WHAC-A-MOLE",
+                    "XYLOPHONE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CANDY NAMES",
+                "group": "ICON EMBROIDERED ON A POLO SHIRT",
                 "members": [
-                    "CHARMS",
-                    "KINDER",
-                    "WONKA",
-                    "YORK"
+                    "CROCODILE",
+                    "LAUREL",
+                    "POLO PLAYER",
+                    "SWOOSH"
                 ]
             },
             {
                 "level": 3,
-                "group": "\u201cFREE ___\u201d",
+                "group": "___ CLIP",
                 "members": [
-                    "BIRD",
-                    "FALLIN\u2019",
-                    "SOLO",
-                    "WILLY"
+                    "ALLIGATOR",
+                    "HAIR",
+                    "PAPER",
+                    "VIDEO"
                 ]
             }
         ]
