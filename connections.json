@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-02",
+        "date": "2024-12-03",
         "answers": [
             {
                 "level": 0,
-                "group": "ANNOUNCE",
+                "group": "SOPRANOS",
                 "members": [
-                    "BROADCAST",
-                    "DECLARE",
-                    "HERALD",
-                    "TRUMPET"
+                    "CARMELA",
+                    "JUNIOR",
+                    "MEADOW",
+                    "TONY"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS INVOLVING MALLETS",
+                "group": "FAMILIAL NICKNAMES",
                 "members": [
-                    "CARPENTRY",
-                    "CROQUET",
-                    "WHAC-A-MOLE",
-                    "XYLOPHONE"
+                    "CUZ",
+                    "GRAMMY",
+                    "MUMMY",
+                    "POP"
                 ]
             },
             {
                 "level": 2,
-                "group": "ICON EMBROIDERED ON A POLO SHIRT",
+                "group": "\u201cSESAME STREET\u201d CHARACTERS",
                 "members": [
-                    "CROCODILE",
-                    "LAUREL",
-                    "POLO PLAYER",
-                    "SWOOSH"
+                    "COOKIE",
+                    "COUNT",
+                    "OSCAR",
+                    "SNUFFY"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ CLIP",
+                "group": "NAMES THAT SOUND LIKE TWO LETTERS",
                 "members": [
-                    "ALLIGATOR",
-                    "HAIR",
-                    "PAPER",
-                    "VIDEO"
+                    "CECE",
+                    "EDIE",
+                    "EMMY",
+                    "KATIE"
                 ]
             }
         ]
