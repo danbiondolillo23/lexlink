@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-03",
+        "date": "2024-12-04",
         "answers": [
             {
                 "level": 0,
-                "group": "SOPRANOS",
+                "group": "STEER",
                 "members": [
-                    "CARMELA",
-                    "JUNIOR",
-                    "MEADOW",
-                    "TONY"
+                    "DIRECT",
+                    "GUIDE",
+                    "LEAD",
+                    "SHEPHERD"
                 ]
             },
             {
                 "level": 1,
-                "group": "FAMILIAL NICKNAMES",
+                "group": "THINGS WITH NEEDLE/S",
                 "members": [
-                    "CUZ",
-                    "GRAMMY",
-                    "MUMMY",
-                    "POP"
+                    "COMPASS",
+                    "PINE TREE",
+                    "SEWING KIT",
+                    "TURNTABLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "\u201cSESAME STREET\u201d CHARACTERS",
+                "group": "FIGURES IN GREEK MYTH",
                 "members": [
-                    "COOKIE",
-                    "COUNT",
-                    "OSCAR",
-                    "SNUFFY"
+                    "ATLAS",
+                    "ECHO",
+                    "HELEN",
+                    "PAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "NAMES THAT SOUND LIKE TWO LETTERS",
+                "group": "STARTING WITH SYNONYMS FOR LAVATORY",
                 "members": [
-                    "CECE",
-                    "EDIE",
-                    "EMMY",
-                    "KATIE"
+                    "CANDLE",
+                    "LOOFAH",
+                    "JOHNSON",
+                    "TOILETRIES"
                 ]
             }
         ]
