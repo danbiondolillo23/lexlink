@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-04",
+        "date": "2024-12-05",
         "answers": [
             {
                 "level": 0,
-                "group": "STEER",
+                "group": "APTITUDE",
                 "members": [
-                    "DIRECT",
-                    "GUIDE",
-                    "LEAD",
-                    "SHEPHERD"
+                    "FLAIR",
+                    "GIFT",
+                    "INSTINCT",
+                    "NOSE"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS WITH NEEDLE/S",
+                "group": "EXTERIOR",
                 "members": [
-                    "COMPASS",
-                    "PINE TREE",
-                    "SEWING KIT",
-                    "TURNTABLE"
+                    "FACE",
+                    "FRONT",
+                    "OUTSIDE",
+                    "SURFACE"
                 ]
             },
             {
                 "level": 2,
-                "group": "FIGURES IN GREEK MYTH",
+                "group": "TECH COMPANIES",
                 "members": [
-                    "ATLAS",
-                    "ECHO",
-                    "HELEN",
-                    "PAN"
+                    "AMAZON",
+                    "APPLE",
+                    "INTUIT",
+                    "ORACLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH SYNONYMS FOR LAVATORY",
+                "group": "___STONE",
                 "members": [
-                    "CANDLE",
-                    "LOOFAH",
-                    "JOHNSON",
-                    "TOILETRIES"
+                    "BRIM",
+                    "LIME",
+                    "RHINE",
+                    "YELLOW"
                 ]
             }
         ]
