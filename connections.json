@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-05",
+        "date": "2024-12-06",
         "answers": [
             {
                 "level": 0,
-                "group": "APTITUDE",
+                "group": "BAFFLE",
                 "members": [
-                    "FLAIR",
-                    "GIFT",
-                    "INSTINCT",
-                    "NOSE"
+                    "PERPLEX",
+                    "PUZZLE",
+                    "STUMP",
+                    "VEX"
                 ]
             },
             {
                 "level": 1,
-                "group": "EXTERIOR",
+                "group": "CURSE",
                 "members": [
-                    "FACE",
-                    "FRONT",
-                    "OUTSIDE",
-                    "SURFACE"
+                    "HEX",
+                    "JINX",
+                    "POX",
+                    "SPELL"
                 ]
             },
             {
                 "level": 2,
-                "group": "TECH COMPANIES",
+                "group": "\u201cTOY STORY\u201d CHARACTERS, FAMILIARLY",
                 "members": [
-                    "AMAZON",
-                    "APPLE",
-                    "INTUIT",
-                    "ORACLE"
+                    "BUZZ",
+                    "HAMM",
+                    "REX",
+                    "SLINKY"
                 ]
             },
             {
                 "level": 3,
-                "group": "___STONE",
+                "group": "COLLOQUIAL SUFFIXES",
                 "members": [
-                    "BRIM",
-                    "LIME",
-                    "RHINE",
-                    "YELLOW"
+                    "CORE",
+                    "GATE",
+                    "MANIA",
+                    "PILLED"
                 ]
             }
         ]
