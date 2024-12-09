@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-08",
+        "date": "2024-12-09",
         "answers": [
             {
                 "level": 0,
-                "group": "PUNCH",
+                "group": "DELIBERATION",
                 "members": [
-                    "BELT",
-                    "BLOW",
-                    "SOCK",
-                    "SLUG"
+                    "CONSIDERATION",
+                    "REFLECTION",
+                    "SCRUTINY",
+                    "THOUGHT"
                 ]
             },
             {
                 "level": 1,
-                "group": "CRAM",
+                "group": "USED IN STARTING A FIRE",
                 "members": [
-                    "SANDWICH",
-                    "SHOEHORN",
-                    "SQUEEZE",
-                    "WEDGE"
+                    "FLINT",
+                    "LIGHTER",
+                    "MAGNIFYING GLASS",
+                    "MATCHES"
                 ]
             },
             {
                 "level": 2,
-                "group": "COMPANIES NAMED AFTER ANIMALS",
+                "group": "USED TO VIEW A BIOLOGICAL SAMPLE",
                 "members": [
-                    "CATERPILLAR",
-                    "DOVE",
-                    "GREYHOUND",
-                    "PUMA"
+                    "MICROSCOPE",
+                    "SLIDE",
+                    "SPECIMEN",
+                    "STAIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOMOPHONES OF MUSIC GENRES",
+                "group": "WORDS AFTER \u201cX\u201d",
                 "members": [
-                    "INDY",
-                    "METTLE",
-                    "SEOUL",
-                    "WRAP"
+                    "FACTOR",
+                    "FILES",
+                    "GAMES",
+                    "RAY"
                 ]
             }
         ]
