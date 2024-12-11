@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-10",
+        "date": "2024-12-11",
         "answers": [
             {
                 "level": 0,
-                "group": "GIVE A TITLE TO",
+                "group": "UTOPIA",
                 "members": [
-                    "CALL",
-                    "DUB",
-                    "LABEL",
-                    "NAME"
+                    "PARADISE",
+                    "SEVENTH HEAVEN",
+                    "SHANGRI-LA",
+                    "XANADU"
                 ]
             },
             {
                 "level": 1,
-                "group": "PARTS OF A FLIGHT",
+                "group": "THINGS YOU SHAKE",
                 "members": [
-                    "CRUISE",
-                    "TAKEOFF",
-                    "TAXI",
-                    "TOUCHDOWN"
+                    "HAIRSPRAY",
+                    "MAGIC 8 BALL",
+                    "SALAD DRESSING",
+                    "SNOWGLOBE"
                 ]
             },
             {
                 "level": 2,
-                "group": "FEEL AROUND (FOR)",
+                "group": "PROPER NOUN PORTMANTEAUX",
                 "members": [
-                    "FISH",
-                    "FUMBLE",
-                    "ROOT",
-                    "RUMMAGE"
+                    "JAZZERCISE",
+                    "PARALYMPICS",
+                    "POK\u00c9MON",
+                    "WIKIPEDIA"
                 ]
             },
             {
                 "level": 3,
-                "group": "COUNTRIES MINUS FIRST LETTER",
+                "group": "ENDING IN SYNONYMS FOR \u201cFRIEND\u201d",
                 "members": [
-                    "INLAND",
-                    "OLIVIA",
-                    "RAN",
-                    "WANDA"
+                    "KETCHUM",
+                    "PAYPAL",
+                    "PRIMATE",
+                    "ROSEBUD"
                 ]
             }
         ]
