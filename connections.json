@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-11",
+        "date": "2024-12-12",
         "answers": [
             {
                 "level": 0,
-                "group": "UTOPIA",
+                "group": "THINGS THAT SOUND LIKE \"T\"",
                 "members": [
-                    "PARADISE",
-                    "SEVENTH HEAVEN",
-                    "SHANGRI-LA",
-                    "XANADU"
+                    "TEA",
+                    "TEE (GOLF)",
+                    "TEE (SHIRT)",
+                    "TI (MUSICAL NOTE)"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS YOU SHAKE",
+                "group": "OBJECTS WITH TEETH",
                 "members": [
-                    "HAIRSPRAY",
-                    "MAGIC 8 BALL",
-                    "SALAD DRESSING",
-                    "SNOWGLOBE"
+                    "COMB",
+                    "GEAR",
+                    "SAW",
+                    "ZIPPER"
                 ]
             },
             {
                 "level": 2,
-                "group": "PROPER NOUN PORTMANTEAUX",
+                "group": "MILD OATHS",
                 "members": [
-                    "JAZZERCISE",
-                    "PARALYMPICS",
-                    "POK\u00c9MON",
-                    "WIKIPEDIA"
+                    "FUDGE",
+                    "GEEZ",
+                    "NUTS",
+                    "RATS"
                 ]
             },
             {
                 "level": 3,
-                "group": "ENDING IN SYNONYMS FOR \u201cFRIEND\u201d",
+                "group": "PARTS OF A RIVER",
                 "members": [
-                    "KETCHUM",
-                    "PAYPAL",
-                    "PRIMATE",
-                    "ROSEBUD"
+                    "BANK",
+                    "BED",
+                    "DELTA",
+                    "MOUTH"
                 ]
             }
         ]
