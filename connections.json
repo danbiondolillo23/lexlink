@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-12",
+        "date": "2024-12-13",
         "answers": [
             {
                 "level": 0,
-                "group": "THINGS THAT SOUND LIKE \"T\"",
+                "group": "FANTASY CREATURES",
                 "members": [
-                    "TEA",
-                    "TEE (GOLF)",
-                    "TEE (SHIRT)",
-                    "TI (MUSICAL NOTE)"
+                    "DRAGON",
+                    "GIANT",
+                    "PIXIE",
+                    "TROLL"
                 ]
             },
             {
                 "level": 1,
-                "group": "OBJECTS WITH TEETH",
+                "group": "EMAIL FOLDERS",
                 "members": [
-                    "COMB",
-                    "GEAR",
-                    "SAW",
-                    "ZIPPER"
+                    "DRAFTS",
+                    "SENT",
+                    "SPAM",
+                    "TRASH"
                 ]
             },
             {
                 "level": 2,
-                "group": "MILD OATHS",
+                "group": "CITRUS SODAS",
                 "members": [
-                    "FUDGE",
-                    "GEEZ",
-                    "NUTS",
-                    "RATS"
+                    "CRUSH",
+                    "SPRITE",
+                    "SQUIRT",
+                    "STARRY"
                 ]
             },
             {
                 "level": 3,
-                "group": "PARTS OF A RIVER",
+                "group": "ANIMAL HOMOPHONES",
                 "members": [
-                    "BANK",
-                    "BED",
-                    "DELTA",
-                    "MOUTH"
+                    "BORE",
+                    "LINKS",
+                    "PHISH",
+                    "TOWED"
                 ]
             }
         ]
