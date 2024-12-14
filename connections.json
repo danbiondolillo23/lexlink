@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-13",
+        "date": "2024-12-14",
         "answers": [
             {
                 "level": 0,
-                "group": "FANTASY CREATURES",
+                "group": "FISH",
                 "members": [
-                    "DRAGON",
-                    "GIANT",
-                    "PIXIE",
-                    "TROLL"
+                    "FLUKE",
+                    "MULLET",
+                    "SOLE",
+                    "TANG"
                 ]
             },
             {
                 "level": 1,
-                "group": "EMAIL FOLDERS",
+                "group": "WORDS IN AN AUCTION-ENDING PHRASE",
                 "members": [
-                    "DRAFTS",
-                    "SENT",
-                    "SPAM",
-                    "TRASH"
+                    "GOING",
+                    "ONCE",
+                    "SOLD",
+                    "TWICE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CITRUS SODAS",
+                "group": "GLOBAL CURRENCIES",
                 "members": [
-                    "CRUSH",
-                    "SPRITE",
-                    "SQUIRT",
-                    "STARRY"
+                    "POUND",
+                    "REAL",
+                    "SOL",
+                    "YUAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "ANIMAL HOMOPHONES",
+                "group": "WORDS BEFORE \u201cCUP\u201d",
                 "members": [
-                    "BORE",
-                    "LINKS",
-                    "PHISH",
-                    "TOWED"
+                    "BUTTER",
+                    "DIVA",
+                    "SOLO",
+                    "WORLD"
                 ]
             }
         ]
