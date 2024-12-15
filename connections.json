@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-14",
+        "date": "2024-12-15",
         "answers": [
             {
                 "level": 0,
-                "group": "FISH",
+                "group": "SPICES",
                 "members": [
-                    "FLUKE",
-                    "MULLET",
-                    "SOLE",
-                    "TANG"
+                    "CLOVE",
+                    "MACE",
+                    "NUTMEG",
+                    "PEPPER"
                 ]
             },
             {
                 "level": 1,
-                "group": "WORDS IN AN AUCTION-ENDING PHRASE",
+                "group": "PERFORM POORLY",
                 "members": [
-                    "GOING",
-                    "ONCE",
-                    "SOLD",
-                    "TWICE"
+                    "FLAIL",
+                    "FLOP",
+                    "FLOUNDER",
+                    "TANK"
                 ]
             },
             {
                 "level": 2,
-                "group": "GLOBAL CURRENCIES",
+                "group": "SKIM THROUGH, AS PAGES",
                 "members": [
-                    "POUND",
-                    "REAL",
-                    "SOL",
-                    "YUAN"
+                    "FLIP",
+                    "LEAF",
+                    "RIFFLE",
+                    "THUMB"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS BEFORE \u201cCUP\u201d",
+                "group": "POP SINGERS MINUS \u201cS\u201d",
                 "members": [
-                    "BUTTER",
-                    "DIVA",
-                    "SOLO",
-                    "WORLD"
+                    "KEY",
+                    "MAR",
+                    "SPEAR",
+                    "STYLE"
                 ]
             }
         ]
