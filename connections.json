@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-16",
+        "date": "2024-12-17",
         "answers": [
             {
                 "level": 0,
-                "group": "TYPES OF RADIO",
+                "group": "INTREPIDITY",
                 "members": [
-                    "AM",
-                    "HAM",
-                    "SATELLITE",
-                    "WALKIE-TALKIE"
+                    "GRIT",
+                    "HEART",
+                    "NERVE",
+                    "PLUCK"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF PLAY FIGHTS",
+                "group": "ROAD",
                 "members": [
-                    "FOOD",
-                    "PILLOW",
-                    "SNOWBALL",
-                    "WATER BALLOON"
+                    "ARTERY",
+                    "AVENUE",
+                    "DRAG",
+                    "DRIVE"
                 ]
             },
             {
                 "level": 2,
-                "group": "SNACK CAKES",
+                "group": "KINDS OF PAPER",
                 "members": [
-                    "DEVIL DOG",
-                    "DING DONG",
-                    "HOHO",
-                    "YODEL"
+                    "CONSTRUCTION",
+                    "GRAPH",
+                    "TISSUE",
+                    "WAX"
                 ]
             },
             {
                 "level": 3,
-                "group": "CLASSIC JOKE STAPLES",
+                "group": "KINDS OF TENNIS COURTS",
                 "members": [
-                    "BAR",
-                    "CHICKEN",
-                    "KNOCK-KNOCK",
-                    "LIGHT BULB"
+                    "CARPET",
+                    "CLAY",
+                    "GRASS",
+                    "HARD"
                 ]
             }
         ]
