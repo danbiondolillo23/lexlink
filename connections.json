@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-17",
+        "date": "2024-12-18",
         "answers": [
             {
                 "level": 0,
-                "group": "INTREPIDITY",
+                "group": "DEAL WITH",
                 "members": [
-                    "GRIT",
-                    "HEART",
-                    "NERVE",
-                    "PLUCK"
+                    "FIELD",
+                    "HANDLE",
+                    "MANAGE",
+                    "TACKLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "ROAD",
+                "group": "STYLES OF BEER",
                 "members": [
-                    "ARTERY",
-                    "AVENUE",
-                    "DRAG",
-                    "DRIVE"
+                    "BITTER",
+                    "BOCK",
+                    "SOUR",
+                    "STOUT"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF PAPER",
+                "group": "INVESTMENT VERBS",
                 "members": [
-                    "CONSTRUCTION",
-                    "GRAPH",
-                    "TISSUE",
-                    "WAX"
+                    "HEDGE",
+                    "HOLD",
+                    "SHORT",
+                    "TRADE"
                 ]
             },
             {
                 "level": 3,
-                "group": "KINDS OF TENNIS COURTS",
+                "group": "___ DOME",
                 "members": [
-                    "CARPET",
-                    "CLAY",
-                    "GRASS",
-                    "HARD"
+                    "CAPITOL",
+                    "CHROME",
+                    "ONION",
+                    "TEAPOT"
                 ]
             }
         ]
