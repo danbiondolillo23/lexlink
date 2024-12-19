@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-18",
+        "date": "2024-12-19",
         "answers": [
             {
                 "level": 0,
-                "group": "DEAL WITH",
+                "group": "DEFER",
                 "members": [
-                    "FIELD",
-                    "HANDLE",
-                    "MANAGE",
-                    "TACKLE"
+                    "DELAY",
+                    "POSTPONE",
+                    "SHELVE",
+                    "TABLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "STYLES OF BEER",
+                "group": "BAR FIXTURES",
                 "members": [
-                    "BITTER",
-                    "BOCK",
-                    "SOUR",
-                    "STOUT"
+                    "COUNTER",
+                    "KEG",
+                    "STOOL",
+                    "TAP"
                 ]
             },
             {
                 "level": 2,
-                "group": "INVESTMENT VERBS",
+                "group": "WATERCRAFT",
                 "members": [
-                    "HEDGE",
-                    "HOLD",
-                    "SHORT",
-                    "TRADE"
+                    "BARGE",
+                    "JUNK",
+                    "SUB",
+                    "TUG"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ DOME",
+                "group": "SEEN IN \u201cDONKEY KONG\u201d",
                 "members": [
-                    "CAPITOL",
-                    "CHROME",
-                    "ONION",
-                    "TEAPOT"
+                    "BARREL",
+                    "GORILLA",
+                    "HAMMER",
+                    "LADDER"
                 ]
             }
         ]
