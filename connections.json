@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-20",
+        "date": "2024-12-21",
         "answers": [
             {
                 "level": 0,
-                "group": "CONCOCTION",
+                "group": "LOOP",
                 "members": [
-                    "COCKTAIL",
-                    "COMPOUND",
-                    "MIXTURE",
-                    "SOLUTION"
+                    "BAND",
+                    "CIRCLE",
+                    "HOOP",
+                    "RING"
                 ]
             },
             {
                 "level": 1,
-                "group": "TYPES OF SENTENCES",
+                "group": "COOKING VESSELS",
                 "members": [
-                    "COMMAND",
-                    "EXCLAMATION",
-                    "QUESTION",
-                    "STATEMENT"
+                    "CASSEROLE",
+                    "CROCK",
+                    "PAN",
+                    "POT"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF BROS",
+                "group": "KINDS OF BEDS",
                 "members": [
-                    "CRYPTO",
-                    "FINANCE",
-                    "PHARMA",
-                    "TECH"
+                    "BUNK",
+                    "CANOPY",
+                    "MURPHY",
+                    "SLEIGH"
                 ]
             },
             {
                 "level": 3,
-                "group": "COMPLAINT HOMOPHONES",
+                "group": "THINGS CALLED \u201cOSCAR\u201d",
                 "members": [
-                    "GROWN",
-                    "MOWN",
-                    "WHALE",
-                    "WINE"
+                    "BALONEY",
+                    "GROUCH",
+                    "O",
+                    "STATUETTE"
                 ]
             }
         ]
