@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-21",
+        "date": "2024-12-22",
         "answers": [
             {
                 "level": 0,
-                "group": "LOOP",
+                "group": "SLANG FOR HEAD",
                 "members": [
-                    "BAND",
-                    "CIRCLE",
-                    "HOOP",
-                    "RING"
+                    "COCONUT",
+                    "CROWN",
+                    "DOME",
+                    "SKULL"
                 ]
             },
             {
                 "level": 1,
-                "group": "COOKING VESSELS",
+                "group": "PALINDROMES",
                 "members": [
-                    "CASSEROLE",
-                    "CROCK",
-                    "PAN",
-                    "POT"
+                    "ABBA",
+                    "KAYAK",
+                    "NUN",
+                    "STATS"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF BEDS",
+                "group": "POLICE PROCEDURALS",
                 "members": [
-                    "BUNK",
-                    "CANOPY",
-                    "MURPHY",
-                    "SLEIGH"
+                    "BONES",
+                    "ELEMENTARY",
+                    "KOJAK",
+                    "MONK"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS CALLED \u201cOSCAR\u201d",
+                "group": "FIRST IN A COMEDY DUO",
                 "members": [
-                    "BALONEY",
-                    "GROUCH",
-                    "O",
-                    "STATUETTE"
+                    "ABBOTT",
+                    "FRY",
+                    "KEY",
+                    "LAUREL"
                 ]
             }
         ]
