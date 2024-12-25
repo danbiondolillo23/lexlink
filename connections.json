@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-24",
+        "date": "2024-12-25",
         "answers": [
             {
                 "level": 0,
-                "group": "\u201cLIONS AND TIGERS AND BEARS, OH MY!\u201d",
+                "group": "CELESTIAL OBJECTS",
                 "members": [
-                    "BEARS",
-                    "LIONS",
-                    "OH MY",
-                    "TIGERS"
+                    "COMET",
+                    "MOON",
+                    "PLANET",
+                    "STAR"
                 ]
             },
             {
                 "level": 1,
-                "group": "BELOVED, AS A FRIEND",
+                "group": "ARCHERS",
                 "members": [
-                    "CLOSE",
-                    "DEAR",
-                    "INTIMATE",
-                    "TIGHT"
+                    "CUPID",
+                    "HAWKEYE",
+                    "ROBIN HOOD",
+                    "SAGITTARIUS"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+                "group": "FEMALE ANIMALS",
                 "members": [
-                    "BEES",
-                    "EASE",
-                    "JAYS",
-                    "USE"
+                    "JENNY",
+                    "NANNY",
+                    "QUEEN",
+                    "VIXEN"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHEN TRIPLED, HIT SONG TITLES",
+                "group": "\u201cS.N.L.\u201d CAST MEMBERS",
                 "members": [
-                    "BILLS",
-                    "BYE",
-                    "GIMME",
-                    "PLEASE"
+                    "FEY",
+                    "RUDOLPH",
+                    "SHANNON",
+                    "STRONG"
                 ]
             }
         ]
