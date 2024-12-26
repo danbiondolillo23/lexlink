@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-25",
+        "date": "2024-12-26",
         "answers": [
             {
                 "level": 0,
-                "group": "CELESTIAL OBJECTS",
+                "group": "APPROXIMATELY",
                 "members": [
-                    "COMET",
-                    "MOON",
-                    "PLANET",
-                    "STAR"
+                    "ABOUT",
+                    "AROUND",
+                    "LIKE",
+                    "ROUGHLY"
                 ]
             },
             {
                 "level": 1,
-                "group": "ARCHERS",
+                "group": "TREES",
                 "members": [
-                    "CUPID",
-                    "HAWKEYE",
-                    "ROBIN HOOD",
-                    "SAGITTARIUS"
+                    "ELDER",
+                    "PALM",
+                    "PINE",
+                    "SPRUCE"
                 ]
             },
             {
                 "level": 2,
-                "group": "FEMALE ANIMALS",
+                "group": "SIZABLE, AS AN AMOUNT",
                 "members": [
-                    "JENNY",
-                    "NANNY",
-                    "QUEEN",
-                    "VIXEN"
+                    "HANDSOME",
+                    "HEALTHY",
+                    "RESPECTABLE",
+                    "TIDY"
                 ]
             },
             {
                 "level": 3,
-                "group": "\u201cS.N.L.\u201d CAST MEMBERS",
+                "group": "U.S. STATE ABBREVIATIONS, PER AP STYLE GUIDE",
                 "members": [
-                    "FEY",
-                    "RUDOLPH",
-                    "SHANNON",
-                    "STRONG"
+                    "ALA",
+                    "ARK",
+                    "MISS",
+                    "ORE"
                 ]
             }
         ]
