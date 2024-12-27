@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-26",
+        "date": "2024-12-27",
         "answers": [
             {
                 "level": 0,
-                "group": "APPROXIMATELY",
+                "group": "BREAKFAST SIDES",
                 "members": [
-                    "ABOUT",
-                    "AROUND",
-                    "LIKE",
-                    "ROUGHLY"
+                    "BACON",
+                    "GRITS",
+                    "HASH",
+                    "TOAST"
                 ]
             },
             {
                 "level": 1,
-                "group": "TREES",
+                "group": "PUSHES, AS A BUTTON",
                 "members": [
-                    "ELDER",
-                    "PALM",
-                    "PINE",
-                    "SPRUCE"
+                    "CLICKS",
+                    "HITS",
+                    "PRESSES",
+                    "TAPS"
                 ]
             },
             {
                 "level": 2,
-                "group": "SIZABLE, AS AN AMOUNT",
+                "group": "THEY HAVE A HORN",
                 "members": [
-                    "HANDSOME",
-                    "HEALTHY",
-                    "RESPECTABLE",
-                    "TIDY"
+                    "AFRICA",
+                    "BUGLER",
+                    "CAR",
+                    "UNICORN"
                 ]
             },
             {
                 "level": 3,
-                "group": "U.S. STATE ABBREVIATIONS, PER AP STYLE GUIDE",
+                "group": "OSCAR-WINNING ACTORS",
                 "members": [
-                    "ALA",
-                    "ARK",
-                    "MISS",
-                    "ORE"
+                    "BRIDGES",
+                    "IRONS",
+                    "PHOENIX",
+                    "WASHINGTON"
                 ]
             }
         ]
