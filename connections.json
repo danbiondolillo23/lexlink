@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-28",
+        "date": "2024-12-29",
         "answers": [
             {
                 "level": 0,
-                "group": "\u201cNOTHING TO IT!\u201d",
+                "group": "SHADES OF RED",
                 "members": [
-                    "EASY",
-                    "NO SWEAT",
-                    "PIECE OF CAKE",
-                    "SURE THING"
+                    "BRICK",
+                    "CHERRY",
+                    "MAROON",
+                    "RUBY"
                 ]
             },
             {
                 "level": 1,
-                "group": "OBJECTS FROM GREEK MYTH",
+                "group": "APPOINTMENT SPECIFICATIONS",
                 "members": [
-                    "AEGIS",
-                    "APPLE OF DISCORD",
-                    "GOLDEN FLEECE",
-                    "PANDORA\u2019S BOX"
+                    "DATE",
+                    "DURATION",
+                    "LOCATION",
+                    "TIME"
                 ]
             },
             {
                 "level": 2,
-                "group": "PROVERBIAL THINGS TO KICK",
+                "group": "DIFFERENT AMOUNTS OF HAIR",
                 "members": [
-                    "CAN",
-                    "HABIT",
-                    "HORNETS\u2019 NEST",
-                    "TIRES"
+                    "HEAD",
+                    "LOCK",
+                    "STRAND",
+                    "WISP"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH POSSESSIVE PRONOUNS",
+                "group": "TREE HOMOPHONES",
                 "members": [
-                    "HERSHEY",
-                    "HISTAMINE",
-                    "ITSY",
-                    "MINEFIELD"
+                    "BEACH",
+                    "FUR",
+                    "PAIR",
+                    "YOU"
                 ]
             }
         ]
