@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2024-12-29",
+        "date": "2024-12-30",
         "answers": [
             {
                 "level": 0,
-                "group": "SHADES OF RED",
+                "group": "LUNCH ORDERS",
                 "members": [
-                    "BRICK",
-                    "CHERRY",
-                    "MAROON",
-                    "RUBY"
+                    "CLUB",
+                    "HERO",
+                    "MELT",
+                    "WRAP"
                 ]
             },
             {
                 "level": 1,
-                "group": "APPOINTMENT SPECIFICATIONS",
+                "group": "USED TO MAKE COFFEE",
                 "members": [
-                    "DATE",
-                    "DURATION",
-                    "LOCATION",
-                    "TIME"
+                    "BEANS",
+                    "FILTER",
+                    "GRINDER",
+                    "WATER"
                 ]
             },
             {
                 "level": 2,
-                "group": "DIFFERENT AMOUNTS OF HAIR",
+                "group": "PAY, WITH \u201cUP\u201d",
                 "members": [
-                    "HEAD",
-                    "LOCK",
-                    "STRAND",
-                    "WISP"
+                    "ANTE",
+                    "COUGH",
+                    "PONY",
+                    "SETTLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "TREE HOMOPHONES",
+                "group": "NAMES FEATURING \"!\"",
                 "members": [
-                    "BEACH",
-                    "FUR",
-                    "PAIR",
-                    "YOU"
+                    "AIRPLANE",
+                    "JEOPARDY",
+                    "PINK",
+                    "YAHOO"
                 ]
             }
         ]
