@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-01",
+        "date": "2025-01-02",
         "answers": [
             {
                 "level": 0,
-                "group": "SLIMY ANIMALS",
+                "group": "PERCEIVE",
                 "members": [
-                    "EARTHWORM",
-                    "EEL",
-                    "SALAMANDER",
-                    "SLUG"
+                    "CATCH",
+                    "CLOCK",
+                    "NOTICE",
+                    "REGISTER"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS THAT LUMINESCE",
+                "group": "CADENCE",
                 "members": [
-                    "AURORA",
-                    "FIREFLY",
-                    "GLOWSTICK",
-                    "RADIUM"
+                    "BEAT",
+                    "METER",
+                    "RHYTHM",
+                    "TIME"
                 ]
             },
             {
                 "level": 2,
-                "group": "DUTCH SYMBOLS",
+                "group": "ONE IN A GROUP OF TWELVE",
                 "members": [
-                    "CANAL",
-                    "CLOG",
-                    "TULIP",
-                    "WINDMILL"
+                    "DONUT",
+                    "INCH",
+                    "JUROR",
+                    "MONTH"
                 ]
             },
             {
                 "level": 3,
-                "group": "ENDING WITH SYNONYMS FOR \u201cPLUNGE\u201d",
+                "group": "DOG ___",
                 "members": [
-                    "GATECRASH",
-                    "RAINDROP",
-                    "SKYDIVE",
-                    "WATERFALL"
+                    "DAYS",
+                    "PADDLE",
+                    "TAG",
+                    "TIRED"
                 ]
             }
         ]
