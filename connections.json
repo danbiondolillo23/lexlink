@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-02",
+        "date": "2025-01-03",
         "answers": [
             {
                 "level": 0,
-                "group": "PERCEIVE",
+                "group": "PARTS OF A FOOT",
                 "members": [
-                    "CATCH",
-                    "CLOCK",
-                    "NOTICE",
-                    "REGISTER"
+                    "ARCH",
+                    "BALL",
+                    "HEEL",
+                    "SOLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "CADENCE",
+                "group": "ONE DOLLAR",
                 "members": [
-                    "BEAT",
-                    "METER",
-                    "RHYTHM",
-                    "TIME"
+                    "BUCK",
+                    "CLAM",
+                    "SINGLE",
+                    "SMACKER"
                 ]
             },
             {
                 "level": 2,
-                "group": "ONE IN A GROUP OF TWELVE",
+                "group": "KINDS OF MUSHROOMS",
                 "members": [
-                    "DONUT",
-                    "INCH",
-                    "JUROR",
-                    "MONTH"
+                    "BUTTON",
+                    "MOREL",
+                    "OYSTER",
+                    "TRUMPET"
                 ]
             },
             {
                 "level": 3,
-                "group": "DOG ___",
+                "group": "POT___",
                 "members": [
-                    "DAYS",
-                    "PADDLE",
-                    "TAG",
-                    "TIRED"
+                    "BELLY",
+                    "HOLE",
+                    "LUCK",
+                    "STICKER"
                 ]
             }
         ]
