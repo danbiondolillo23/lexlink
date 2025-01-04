@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-03",
+        "date": "2025-01-04",
         "answers": [
             {
                 "level": 0,
-                "group": "PARTS OF A FOOT",
+                "group": "CRUSH INTO A COMPACT SHAPE",
                 "members": [
-                    "ARCH",
                     "BALL",
-                    "HEEL",
-                    "SOLE"
+                    "CRUMPLE",
+                    "SCRUNCH",
+                    "WAD"
                 ]
             },
             {
                 "level": 1,
-                "group": "ONE DOLLAR",
+                "group": "FASTENERS",
                 "members": [
-                    "BUCK",
-                    "CLAM",
-                    "SINGLE",
-                    "SMACKER"
+                    "BUCKLE",
+                    "CLIP",
+                    "HOOK",
+                    "SNAP"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF MUSHROOMS",
+                "group": "MARK AS COMPLETED",
                 "members": [
-                    "BUTTON",
-                    "MOREL",
-                    "OYSTER",
-                    "TRUMPET"
+                    "CHECK",
+                    "CROSS",
+                    "STRIKE",
+                    "TICK"
                 ]
             },
             {
                 "level": 3,
-                "group": "POT___",
+                "group": "DEPICTED IN DAL\u00cd\u2019S \u201cTHE PERSISTENCE OF MEMORY\u201d",
                 "members": [
-                    "BELLY",
-                    "HOLE",
-                    "LUCK",
-                    "STICKER"
+                    "ANT",
+                    "BRANCH",
+                    "CLOCK",
+                    "MELTING"
                 ]
             }
         ]
