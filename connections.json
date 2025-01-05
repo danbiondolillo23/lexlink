@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-04",
+        "date": "2025-01-05",
         "answers": [
             {
                 "level": 0,
-                "group": "CRUSH INTO A COMPACT SHAPE",
+                "group": "HARDLY BUSTLING",
                 "members": [
-                    "BALL",
-                    "CRUMPLE",
-                    "SCRUNCH",
-                    "WAD"
+                    "CALM",
+                    "QUIET",
+                    "SLEEPY",
+                    "SLOW"
                 ]
             },
             {
                 "level": 1,
-                "group": "FASTENERS",
+                "group": "EARN",
                 "members": [
-                    "BUCKLE",
-                    "CLIP",
-                    "HOOK",
-                    "SNAP"
+                    "GROSS",
+                    "MAKE",
+                    "NET",
+                    "YIELD"
                 ]
             },
             {
                 "level": 2,
-                "group": "MARK AS COMPLETED",
+                "group": "REMOTE CONTROL FUNCTIONS",
                 "members": [
-                    "CHECK",
-                    "CROSS",
-                    "STRIKE",
-                    "TICK"
+                    "HOME",
+                    "MUTE",
+                    "STOP",
+                    "VOLUME"
                 ]
             },
             {
                 "level": 3,
-                "group": "DEPICTED IN DAL\u00cd\u2019S \u201cTHE PERSISTENCE OF MEMORY\u201d",
+                "group": "WORDS BEFORE \u201cDRUM\u201d",
                 "members": [
-                    "ANT",
-                    "BRANCH",
-                    "CLOCK",
-                    "MELTING"
+                    "EAR",
+                    "KETTLE",
+                    "OIL",
+                    "SNARE"
                 ]
             }
         ]
