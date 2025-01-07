@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-06",
+        "date": "2025-01-07",
         "answers": [
             {
                 "level": 0,
-                "group": "BREATHE HARD",
+                "group": "VOCAL MUSIC",
                 "members": [
-                    "GASP",
-                    "HEAVE",
-                    "PANT",
-                    "PUFF"
+                    "A CAPPELLA",
+                    "BARBERSHOP",
+                    "DOO-WOP",
+                    "MADRIGAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "CATCHALL",
+                "group": "A HANDFUL OF",
                 "members": [
-                    "BLANKET",
-                    "BROAD",
-                    "GENERAL",
-                    "UMBRELLA"
+                    "A FEW",
+                    "CERTAIN",
+                    "SOME",
+                    "VARIOUS"
                 ]
             },
             {
                 "level": 2,
-                "group": "METAPHORS FOR EASY THINGS",
+                "group": "BOOK SUBTITLES",
                 "members": [
-                    "ABC",
-                    "BREEZE",
-                    "PICNIC",
-                    "PIE"
+                    "A LIFE",
+                    "A NOVEL",
+                    "ESSAYS",
+                    "PART ONE"
                 ]
             },
             {
                 "level": 3,
-                "group": "SYNONYMS FOR REAR END MINUS LAST LETTER",
+                "group": "___ IS ___ (IS ___)",
                 "members": [
-                    "ARS",
-                    "BOOT",
-                    "BUT",
-                    "RUM"
+                    "A DEAL",
+                    "A ROSE",
+                    "ENOUGH",
+                    "LOVE"
                 ]
             }
         ]
