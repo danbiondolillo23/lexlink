@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-07",
+        "date": "2025-01-08",
         "answers": [
             {
                 "level": 0,
-                "group": "VOCAL MUSIC",
+                "group": "SECTION",
                 "members": [
-                    "A CAPPELLA",
-                    "BARBERSHOP",
-                    "DOO-WOP",
-                    "MADRIGAL"
+                    "BRANCH",
+                    "DIVISION",
+                    "LIMB",
+                    "WING"
                 ]
             },
             {
                 "level": 1,
-                "group": "A HANDFUL OF",
+                "group": "ACCESSORIES FOR PLAYING AN INSTRUMENT",
                 "members": [
-                    "A FEW",
-                    "CERTAIN",
-                    "SOME",
-                    "VARIOUS"
+                    "BOW",
+                    "DRUMSTICK",
+                    "MALLET",
+                    "PICK"
                 ]
             },
             {
                 "level": 2,
-                "group": "BOOK SUBTITLES",
+                "group": "DISTINCTIVE FEATURES OF AN ELEPHANT",
                 "members": [
-                    "A LIFE",
-                    "A NOVEL",
-                    "ESSAYS",
-                    "PART ONE"
+                    "EAR",
+                    "MEMORY",
+                    "TRUNK",
+                    "TUSK"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ IS ___ (IS ___)",
+                "group": "WORDS MISSPELLED IN NU METAL BAND NAMES",
                 "members": [
-                    "A DEAL",
-                    "A ROSE",
-                    "ENOUGH",
-                    "LOVE"
+                    "BISCUIT",
+                    "CORN",
+                    "LINCOLN",
+                    "STAINED"
                 ]
             }
         ]
