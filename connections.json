@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-08",
+        "date": "2025-01-09",
         "answers": [
             {
                 "level": 0,
-                "group": "SECTION",
+                "group": "VENDOR\u2019S SPOT AT A MARKET",
                 "members": [
-                    "BRANCH",
-                    "DIVISION",
-                    "LIMB",
-                    "WING"
+                    "BOOTH",
+                    "STALL",
+                    "STAND",
+                    "TABLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "ACCESSORIES FOR PLAYING AN INSTRUMENT",
+                "group": "DOG COMMANDS",
                 "members": [
-                    "BOW",
-                    "DRUMSTICK",
-                    "MALLET",
-                    "PICK"
+                    "COME",
+                    "HEEL",
+                    "SIT",
+                    "STAY"
                 ]
             },
             {
                 "level": 2,
-                "group": "DISTINCTIVE FEATURES OF AN ELEPHANT",
+                "group": "CORPORATE DEPARTMENTS",
                 "members": [
-                    "EAR",
-                    "MEMORY",
-                    "TRUNK",
-                    "TUSK"
+                    "FINANCE",
+                    "IT",
+                    "LEGAL",
+                    "SALES"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS MISSPELLED IN NU METAL BAND NAMES",
+                "group": "LAST WORDS IN \u201cAMERICA THE BEAUTIFUL\u201d",
                 "members": [
-                    "BISCUIT",
-                    "CORN",
-                    "LINCOLN",
-                    "STAINED"
+                    "FROM",
+                    "SEA",
+                    "SHINING",
+                    "TO"
                 ]
             }
         ]
