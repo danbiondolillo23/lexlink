@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-09",
+        "date": "2025-01-10",
         "answers": [
             {
                 "level": 0,
-                "group": "VENDOR\u2019S SPOT AT A MARKET",
+                "group": "BE CONTINGENT (ON)",
                 "members": [
-                    "BOOTH",
-                    "STALL",
-                    "STAND",
-                    "TABLE"
+                    "DEPEND",
+                    "HINGE",
+                    "RELY",
+                    "REST"
                 ]
             },
             {
                 "level": 1,
-                "group": "DOG COMMANDS",
+                "group": "\u201cCALM DOWN\u201d",
                 "members": [
-                    "COME",
-                    "HEEL",
-                    "SIT",
-                    "STAY"
+                    "CHILL",
+                    "EASY",
+                    "ENOUGH",
+                    "RELAX"
                 ]
             },
             {
                 "level": 2,
-                "group": "CORPORATE DEPARTMENTS",
+                "group": "INGREDIENTS IN AN OLD FASHIONED",
                 "members": [
-                    "FINANCE",
-                    "IT",
-                    "LEGAL",
-                    "SALES"
+                    "BITTERS",
+                    "ORANGE",
+                    "RYE",
+                    "SUGAR"
                 ]
             },
             {
                 "level": 3,
-                "group": "LAST WORDS IN \u201cAMERICA THE BEAUTIFUL\u201d",
+                "group": "FEATURED IN THE MONTY HALL PROBLEM",
                 "members": [
-                    "FROM",
-                    "SEA",
-                    "SHINING",
-                    "TO"
+                    "CAR",
+                    "DOOR",
+                    "GOAT",
+                    "HOST"
                 ]
             }
         ]
