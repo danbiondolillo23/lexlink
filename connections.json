@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-10",
+        "date": "2025-01-11",
         "answers": [
             {
                 "level": 0,
-                "group": "BE CONTINGENT (ON)",
+                "group": "DISPLAY OF ROWS AND COLUMNS",
                 "members": [
-                    "DEPEND",
-                    "HINGE",
-                    "RELY",
-                    "REST"
+                    "ARRAY",
+                    "GRID",
+                    "MATRIX",
+                    "TABLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "\u201cCALM DOWN\u201d",
+                "group": "THINGS TO DO AT A WORK EVENT",
                 "members": [
-                    "CHILL",
-                    "EASY",
-                    "ENOUGH",
-                    "RELAX"
+                    "CIRCULATE",
+                    "CONVERSE",
+                    "MINGLE",
+                    "NETWORK"
                 ]
             },
             {
                 "level": 2,
-                "group": "INGREDIENTS IN AN OLD FASHIONED",
+                "group": "OLYMPIC EVENTS SINCE 2000",
                 "members": [
-                    "BITTERS",
-                    "ORANGE",
-                    "RYE",
-                    "SUGAR"
+                    "BREAKING",
+                    "SURFING",
+                    "TAEKWONDO",
+                    "TRAMPOLINE"
                 ]
             },
             {
                 "level": 3,
-                "group": "FEATURED IN THE MONTY HALL PROBLEM",
+                "group": "___ COURT",
                 "members": [
-                    "CAR",
-                    "DOOR",
-                    "GOAT",
-                    "HOST"
+                    "FOOD",
+                    "KANGAROO",
+                    "SUPREME",
+                    "TENNIS"
                 ]
             }
         ]
