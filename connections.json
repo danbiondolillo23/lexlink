@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-11",
+        "date": "2025-01-12",
         "answers": [
             {
                 "level": 0,
-                "group": "DISPLAY OF ROWS AND COLUMNS",
+                "group": "FABRICATION",
                 "members": [
-                    "ARRAY",
-                    "GRID",
-                    "MATRIX",
-                    "TABLE"
+                    "FAIRY TALE",
+                    "FANTASY",
+                    "FICTION",
+                    "INVENTION"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS TO DO AT A WORK EVENT",
+                "group": "WOO",
                 "members": [
-                    "CIRCULATE",
-                    "CONVERSE",
-                    "MINGLE",
-                    "NETWORK"
+                    "CHARM",
+                    "COURT",
+                    "PURSUE",
+                    "ROMANCE"
                 ]
             },
             {
                 "level": 2,
-                "group": "OLYMPIC EVENTS SINCE 2000",
+                "group": "CLASSIC ATARI GAMES",
                 "members": [
-                    "BREAKING",
-                    "SURFING",
-                    "TAEKWONDO",
-                    "TRAMPOLINE"
+                    "ASTEROIDS",
+                    "BREAKOUT",
+                    "CENTIPEDE",
+                    "DEFENDER"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ COURT",
+                "group": "THINGS FEATURING TAILS",
                 "members": [
-                    "FOOD",
-                    "KANGAROO",
-                    "SUPREME",
-                    "TENNIS"
+                    "COIN TOSS",
+                    "COMETS",
+                    "DRESS COAT",
+                    "SONIC THE HEDGEHOG"
                 ]
             }
         ]
