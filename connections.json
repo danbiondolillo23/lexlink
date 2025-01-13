@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-12",
+        "date": "2025-01-13",
         "answers": [
             {
                 "level": 0,
-                "group": "FABRICATION",
+                "group": "TEACH",
                 "members": [
-                    "FAIRY TALE",
-                    "FANTASY",
-                    "FICTION",
-                    "INVENTION"
+                    "COACH",
+                    "GUIDE",
+                    "SCHOOL",
+                    "TRAIN"
                 ]
             },
             {
                 "level": 1,
-                "group": "WOO",
+                "group": "CACHE",
                 "members": [
-                    "CHARM",
-                    "COURT",
-                    "PURSUE",
-                    "ROMANCE"
+                    "BANK",
+                    "POOL",
+                    "RESERVE",
+                    "STORE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CLASSIC ATARI GAMES",
+                "group": "DRIVING INSTRUCTOR DIRECTIVES",
                 "members": [
-                    "ASTEROIDS",
-                    "BREAKOUT",
-                    "CENTIPEDE",
-                    "DEFENDER"
+                    "BRAKE",
+                    "PARK",
+                    "SIGNAL",
+                    "TURN"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS FEATURING TAILS",
+                "group": "___WORM",
                 "members": [
-                    "COIN TOSS",
-                    "COMETS",
-                    "DRESS COAT",
-                    "SONIC THE HEDGEHOG"
+                    "BOOK",
+                    "EARTH",
+                    "GLOW",
+                    "INCH"
                 ]
             }
         ]
