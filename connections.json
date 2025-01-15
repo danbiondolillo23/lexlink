@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-14",
+        "date": "2025-01-15",
         "answers": [
             {
                 "level": 0,
-                "group": "OPERATING",
+                "group": "MEANS",
                 "members": [
-                    "ACTIVE",
-                    "FUNCTIONAL",
-                    "RUNNING",
-                    "WORKING"
+                    "MECHANISM",
+                    "MEDIUM",
+                    "TOOL",
+                    "VEHICLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "TERM",
+                "group": "LACKING",
                 "members": [
-                    "MEETING",
-                    "PERIOD",
-                    "SESSION",
-                    "SITTING"
+                    "LIGHT",
+                    "LOW",
+                    "SHORT",
+                    "SHY"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS IN A CAMERA KIT",
+                "group": "MARTINI SPECIFICATIONS",
                 "members": [
-                    "BODY",
-                    "FLASH",
-                    "LENS",
-                    "STRAP"
+                    "DIRTY",
+                    "DRY",
+                    "PERFECT",
+                    "WET"
                 ]
             },
             {
                 "level": 3,
-                "group": "BIRD PLUS LETTER",
+                "group": "FICTIONAL MISTERS",
                 "members": [
-                    "CROWD",
-                    "GULLY",
-                    "PUFFING",
-                    "SWANK"
+                    "BIG",
+                    "PEANUT",
+                    "ROBOT",
+                    "TOAD"
                 ]
             }
         ]
