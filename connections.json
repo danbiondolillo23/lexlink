@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-15",
+        "date": "2025-01-16",
         "answers": [
             {
                 "level": 0,
-                "group": "MEANS",
+                "group": "BUYING AND SELLING",
                 "members": [
-                    "MECHANISM",
-                    "MEDIUM",
-                    "TOOL",
-                    "VEHICLE"
+                    "BUSINESS",
+                    "COMMERCE",
+                    "MARKET",
+                    "TRADE"
                 ]
             },
             {
                 "level": 1,
-                "group": "LACKING",
+                "group": "INSTALLED ON A WALL",
                 "members": [
-                    "LIGHT",
-                    "LOW",
-                    "SHORT",
-                    "SHY"
+                    "BASEBOARD",
+                    "OUTLET",
+                    "SCONCE",
+                    "SWITCH"
                 ]
             },
             {
                 "level": 2,
-                "group": "MARTINI SPECIFICATIONS",
+                "group": "SPY",
                 "members": [
-                    "DIRTY",
-                    "DRY",
-                    "PERFECT",
-                    "WET"
+                    "AGENT",
+                    "ASSET",
+                    "MOLE",
+                    "PLANT"
                 ]
             },
             {
                 "level": 3,
-                "group": "FICTIONAL MISTERS",
+                "group": "___ RAT",
                 "members": [
-                    "BIG",
-                    "PEANUT",
-                    "ROBOT",
-                    "TOAD"
+                    "GYM",
+                    "MALL",
+                    "PACK",
+                    "RUG"
                 ]
             }
         ]
