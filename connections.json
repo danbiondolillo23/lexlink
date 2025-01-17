@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-16",
+        "date": "2025-01-17",
         "answers": [
             {
                 "level": 0,
-                "group": "BUYING AND SELLING",
+                "group": "FRANKFURTER",
                 "members": [
-                    "BUSINESS",
-                    "COMMERCE",
-                    "MARKET",
-                    "TRADE"
+                    "BANGER",
+                    "BRAT",
+                    "LINK",
+                    "SAUSAGE"
                 ]
             },
             {
                 "level": 1,
-                "group": "INSTALLED ON A WALL",
+                "group": "STRIKE",
                 "members": [
-                    "BASEBOARD",
-                    "OUTLET",
-                    "SCONCE",
-                    "SWITCH"
+                    "BOP",
+                    "HIT",
+                    "KNOCK",
+                    "TAP"
                 ]
             },
             {
                 "level": 2,
-                "group": "SPY",
+                "group": "WEB BROWSERS",
                 "members": [
-                    "AGENT",
-                    "ASSET",
-                    "MOLE",
-                    "PLANT"
+                    "CHROME",
+                    "EDGE",
+                    "OPERA",
+                    "SAFARI"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ RAT",
+                "group": "ENDING WITH BEER BRANDS",
                 "members": [
-                    "GYM",
-                    "MALL",
-                    "PACK",
-                    "RUG"
+                    "AUTOHARP",
+                    "CONTRABASS",
+                    "PEPPERONI",
+                    "ROSEBUD"
                 ]
             }
         ]
