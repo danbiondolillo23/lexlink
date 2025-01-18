@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-17",
+        "date": "2025-01-18",
         "answers": [
             {
                 "level": 0,
-                "group": "FRANKFURTER",
+                "group": "DESIRE",
                 "members": [
-                    "BANGER",
-                    "BRAT",
-                    "LINK",
-                    "SAUSAGE"
+                    "DRIVE",
+                    "IMPULSE",
+                    "ITCH",
+                    "URGE"
                 ]
             },
             {
                 "level": 1,
-                "group": "STRIKE",
+                "group": "BARB",
                 "members": [
-                    "BOP",
-                    "HIT",
-                    "KNOCK",
-                    "TAP"
+                    "SPINE",
+                    "SPUR",
+                    "STICKER",
+                    "THORN"
                 ]
             },
             {
                 "level": 2,
-                "group": "WEB BROWSERS",
+                "group": "INFO ON A RECORD",
                 "members": [
-                    "CHROME",
-                    "EDGE",
-                    "OPERA",
-                    "SAFARI"
+                    "ALBUM",
+                    "ARTIST",
+                    "LABEL",
+                    "TRACK"
                 ]
             },
             {
                 "level": 3,
-                "group": "ENDING WITH BEER BRANDS",
+                "group": "TURN THE ___",
                 "members": [
-                    "AUTOHARP",
-                    "CONTRABASS",
-                    "PEPPERONI",
-                    "ROSEBUD"
+                    "CORNER",
+                    "PAGE",
+                    "TABLES",
+                    "TIDE"
                 ]
             }
         ]
