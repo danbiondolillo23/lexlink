@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-18",
+        "date": "2025-01-19",
         "answers": [
             {
                 "level": 0,
-                "group": "DESIRE",
+                "group": "FUND",
                 "members": [
-                    "DRIVE",
-                    "IMPULSE",
-                    "ITCH",
-                    "URGE"
+                    "KITTY",
+                    "POOL",
+                    "POT",
+                    "PURSE"
                 ]
             },
             {
                 "level": 1,
-                "group": "BARB",
+                "group": "COURT FILING",
                 "members": [
-                    "SPINE",
-                    "SPUR",
-                    "STICKER",
-                    "THORN"
+                    "ACTION",
+                    "CASE",
+                    "CLAIM",
+                    "SUIT"
                 ]
             },
             {
                 "level": 2,
-                "group": "INFO ON A RECORD",
+                "group": "LANDFORMS",
                 "members": [
-                    "ALBUM",
-                    "ARTIST",
-                    "LABEL",
-                    "TRACK"
+                    "BASIN",
+                    "BLUFF",
+                    "CAPE",
+                    "PLAIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "TURN THE ___",
+                "group": "THEY HAVE RAYS",
                 "members": [
-                    "CORNER",
-                    "PAGE",
-                    "TABLES",
-                    "TIDE"
+                    "AQUARIUM",
+                    "GEOMETRY",
+                    "SUN",
+                    "TAMPA BAY"
                 ]
             }
         ]
