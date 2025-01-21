@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-20",
+        "date": "2025-01-21",
         "answers": [
             {
                 "level": 0,
-                "group": "TAKE ON, AS A RESPONSIBILITY",
+                "group": "PUTDOWN",
                 "members": [
-                    "ASSUME",
-                    "BEAR",
-                    "HANDLE",
-                    "SHOULDER"
+                    "BARB",
+                    "CRACK",
+                    "DIG",
+                    "SLIGHT"
                 ]
             },
             {
                 "level": 1,
-                "group": "CORNERS",
+                "group": "SMALL LIKENESS",
                 "members": [
-                    "ANGLE",
-                    "BEND",
-                    "CROOK",
-                    "ELBOW"
+                    "DOLL",
+                    "FIGURE",
+                    "MINIATURE",
+                    "MODEL"
                 ]
             },
             {
                 "level": 2,
-                "group": "ASSOCIATED WITH POPEYE",
+                "group": "USED TO CLEAR SNOW",
                 "members": [
-                    "ANCHOR",
-                    "FOREARM",
-                    "PIPE",
-                    "SPINACH"
+                    "PLOW",
+                    "SALT",
+                    "SAND",
+                    "SHOVEL"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ SHEET",
+                "group": "DOCTORS IN POP CULTURE",
                 "members": [
-                    "BALANCE",
-                    "CHEAT",
-                    "COOKIE",
-                    "FITTED"
+                    "NO",
+                    "OCTOPUS",
+                    "PEPPER",
+                    "WHO"
                 ]
             }
         ]
