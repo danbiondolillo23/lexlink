@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-21",
+        "date": "2025-01-22",
         "answers": [
             {
                 "level": 0,
-                "group": "PUTDOWN",
+                "group": "TYPES OF ACADEMIC COURSES",
                 "members": [
-                    "BARB",
-                    "CRACK",
-                    "DIG",
-                    "SLIGHT"
+                    "DISCUSSION",
+                    "LAB",
+                    "LECTURE",
+                    "SEMINAR"
                 ]
             },
             {
                 "level": 1,
-                "group": "SMALL LIKENESS",
+                "group": "RESULTS OF SOME DIGGING",
                 "members": [
-                    "DOLL",
-                    "FIGURE",
-                    "MINIATURE",
-                    "MODEL"
+                    "DITCH",
+                    "HOLE",
+                    "PIT",
+                    "TRENCH"
                 ]
             },
             {
                 "level": 2,
-                "group": "USED TO CLEAR SNOW",
+                "group": "ONES WEARING ROBES",
                 "members": [
-                    "PLOW",
-                    "SALT",
-                    "SAND",
-                    "SHOVEL"
+                    "BOXER",
+                    "JUDGE",
+                    "MONK",
+                    "WIZARD"
                 ]
             },
             {
                 "level": 3,
-                "group": "DOCTORS IN POP CULTURE",
+                "group": "___ UP",
                 "members": [
-                    "NO",
-                    "OCTOPUS",
-                    "PEPPER",
-                    "WHO"
+                    "BATTER",
+                    "BOTTOMS",
+                    "CHIN",
+                    "LAWYER"
                 ]
             }
         ]
