@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-23",
+        "date": "2025-01-24",
         "answers": [
             {
                 "level": 0,
-                "group": "OUTDO",
+                "group": "CONTEMPLATE",
                 "members": [
-                    "BETTER",
-                    "ECLIPSE",
-                    "SURPASS",
-                    "TOP"
+                    "BROOD",
+                    "MUSE",
+                    "PONDER",
+                    "REFLECT"
                 ]
             },
             {
                 "level": 1,
-                "group": "PICNIC ACCESSORIES",
+                "group": "RUDE THINGS TO DO",
                 "members": [
-                    "BASKET",
-                    "BLANKET",
-                    "COOLER",
-                    "UTENSILS"
+                    "INTERRUPT",
+                    "LITTER",
+                    "POINT",
+                    "STARE"
                 ]
             },
             {
                 "level": 2,
-                "group": "PARTS OF AN INDIANA JONES COSTUME",
+                "group": "VOCATION",
                 "members": [
-                    "BOMBER",
-                    "FEDORA",
-                    "SATCHEL",
-                    "WHIP"
+                    "CRAFT",
+                    "LINE",
+                    "TRADE",
+                    "WORK"
                 ]
             },
             {
                 "level": 3,
-                "group": "RHYMES OF U.S. PRESIDENT NAMES",
+                "group": "___ PATCH",
                 "members": [
-                    "PAGAN",
-                    "SMARTER",
-                    "VIXEN",
-                    "WIDEN"
+                    "CABBAGE",
+                    "NICOTINE",
+                    "ROUGH",
+                    "SOUL"
                 ]
             }
         ]
