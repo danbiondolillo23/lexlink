@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-26",
+        "date": "2025-01-27",
         "answers": [
             {
                 "level": 0,
-                "group": "WAYS TO GET FOOD",
+                "group": "SMALL AMOUNT OF FOOD TO TRY",
                 "members": [
-                    "FARM",
-                    "FISH",
-                    "GATHER",
-                    "HUNT"
+                    "BITE",
+                    "MOUTHFUL",
+                    "SAMPLE",
+                    "TASTE"
                 ]
             },
             {
                 "level": 1,
-                "group": "KEEP APART",
+                "group": "PROTECTIVE COVERINGS IN NATURE",
                 "members": [
-                    "CLOISTER",
-                    "SECLUDE",
-                    "SEPARATE",
-                    "SILO"
+                    "BARK",
+                    "SCALES",
+                    "SHELL",
+                    "SKIN"
                 ]
             },
             {
                 "level": 2,
-                "group": "PARTS OF A BIG RIG",
+                "group": "\u201cEXTRA VIRGIN OLIVE OIL\u201d",
                 "members": [
-                    "AXLES",
-                    "HITCH",
-                    "TRACTOR",
-                    "TRAILER"
+                    "EXTRA",
+                    "OIL",
+                    "OLIVE",
+                    "VIRGIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "DANCE EVENTS PLUS A LETTER",
+                "group": "SEEN IN \u201cTHE SHINING\u201d",
                 "members": [
-                    "BALLY",
-                    "DISCOG",
-                    "PROMO",
-                    "RAVEN"
+                    "AXE",
+                    "HEDGE MAZE",
+                    "TWINS",
+                    "TYPEWRITER"
                 ]
             }
         ]
