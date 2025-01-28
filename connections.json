@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-27",
+        "date": "2025-01-28",
         "answers": [
             {
                 "level": 0,
-                "group": "SMALL AMOUNT OF FOOD TO TRY",
+                "group": "FUNNY PERSON",
                 "members": [
-                    "BITE",
-                    "MOUTHFUL",
-                    "SAMPLE",
-                    "TASTE"
+                    "CARD",
+                    "CHARACTER",
+                    "JOKER",
+                    "LAUGH"
                 ]
             },
             {
                 "level": 1,
-                "group": "PROTECTIVE COVERINGS IN NATURE",
+                "group": "RESISTANCE TRAINING EQUIPMENT",
                 "members": [
-                    "BARK",
-                    "SCALES",
-                    "SHELL",
-                    "SKIN"
+                    "BAND",
+                    "BENCH",
+                    "DUMBBELL",
+                    "MAT"
                 ]
             },
             {
                 "level": 2,
-                "group": "\u201cEXTRA VIRGIN OLIVE OIL\u201d",
+                "group": "CANDY BARS MINUS \u201cS\u201d",
                 "members": [
-                    "EXTRA",
-                    "OIL",
-                    "OLIVE",
-                    "VIRGIN"
+                    "AIRHEAD",
+                    "MAR",
+                    "MOUND",
+                    "SNICKER"
                 ]
             },
             {
                 "level": 3,
-                "group": "SEEN IN \u201cTHE SHINING\u201d",
+                "group": "SPEED ___",
                 "members": [
-                    "AXE",
-                    "HEDGE MAZE",
-                    "TWINS",
-                    "TYPEWRITER"
+                    "BUMP",
+                    "CHESS",
+                    "DEMON",
+                    "DIAL"
                 ]
             }
         ]
