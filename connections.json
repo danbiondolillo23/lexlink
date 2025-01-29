@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-28",
+        "date": "2025-01-29",
         "answers": [
             {
                 "level": 0,
-                "group": "FUNNY PERSON",
+                "group": "OWNED",
                 "members": [
-                    "CARD",
-                    "CHARACTER",
-                    "JOKER",
-                    "LAUGH"
+                    "BORE",
+                    "HAD",
+                    "HELD",
+                    "POSSESSED"
                 ]
             },
             {
                 "level": 1,
-                "group": "RESISTANCE TRAINING EQUIPMENT",
+                "group": "THINGS YOU MIGHT DO IN YOUR SLEEP",
                 "members": [
-                    "BAND",
-                    "BENCH",
-                    "DUMBBELL",
-                    "MAT"
+                    "DREAM",
+                    "DROOL",
+                    "SNORE",
+                    "TALK"
                 ]
             },
             {
                 "level": 2,
-                "group": "CANDY BARS MINUS \u201cS\u201d",
+                "group": "MOVIE SERIES WITH 2024 RELEASES",
                 "members": [
-                    "AIRHEAD",
-                    "MAR",
-                    "MOUND",
-                    "SNICKER"
+                    "ALIEN",
+                    "GLADIATOR",
+                    "VENOM",
+                    "WICKED"
                 ]
             },
             {
                 "level": 3,
-                "group": "SPEED ___",
+                "group": "___ HOUSE",
                 "members": [
-                    "BUMP",
-                    "CHESS",
-                    "DEMON",
-                    "DIAL"
+                    "FULL",
+                    "GINGERBREAD",
+                    "HAUNTED",
+                    "WHITE"
                 ]
             }
         ]
