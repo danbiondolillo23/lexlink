@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-29",
+        "date": "2025-01-30",
         "answers": [
             {
                 "level": 0,
-                "group": "OWNED",
+                "group": "INTANGIBLE QUALITY",
                 "members": [
-                    "BORE",
-                    "HAD",
-                    "HELD",
-                    "POSSESSED"
+                    "AIR",
+                    "AURA",
+                    "HALO",
+                    "VIBE"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS YOU MIGHT DO IN YOUR SLEEP",
+                "group": "GAME DAY FARE",
                 "members": [
-                    "DREAM",
-                    "DROOL",
-                    "SNORE",
-                    "TALK"
+                    "BEER",
+                    "DIP",
+                    "PIZZA",
+                    "WINGS"
                 ]
             },
             {
                 "level": 2,
-                "group": "MOVIE SERIES WITH 2024 RELEASES",
+                "group": "KEEP GOING ON ABOUT, WITH \u201cON\u201d",
                 "members": [
-                    "ALIEN",
-                    "GLADIATOR",
-                    "VENOM",
-                    "WICKED"
+                    "DWELL",
+                    "HARP",
+                    "INSIST",
+                    "LINGER"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ HOUSE",
+                "group": "STARTING WITH EUROPEAN CAPITALS",
                 "members": [
-                    "FULL",
-                    "GINGERBREAD",
-                    "HAUNTED",
-                    "WHITE"
+                    "BERNIE",
+                    "PARISH",
+                    "RIGATONI",
+                    "ROMEO"
                 ]
             }
         ]
