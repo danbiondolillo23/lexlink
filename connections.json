@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-01-31",
+        "date": "2025-02-01",
         "answers": [
             {
                 "level": 0,
-                "group": "STORAGE CONTAINERS",
+                "group": "TINT",
                 "members": [
-                    "CASE",
-                    "CHEST",
-                    "CRATE",
-                    "TRUNK"
+                    "HUE",
+                    "SHADE",
+                    "TINGE",
+                    "TONE"
                 ]
             },
             {
                 "level": 1,
-                "group": "SCHNOZZ",
+                "group": "COMPONENTS OF A MYSTERY",
                 "members": [
-                    "BEAK",
-                    "HONKER",
-                    "SNOOT",
-                    "SNOUT"
+                    "ALIBI",
+                    "CLUE",
+                    "DETECTIVE",
+                    "SUSPECT"
                 ]
             },
             {
                 "level": 2,
-                "group": "ONES WITH DISCERNING TASTES",
+                "group": "TAKE ISSUE WITH",
                 "members": [
-                    "CONNOISSEUR",
-                    "CRITIC",
-                    "EXPERT",
-                    "SNOB"
+                    "CONTEST",
+                    "CHALLENGE",
+                    "DISPUTE",
+                    "QUESTION"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTS OF SWIMMING STROKES",
+                "group": "STRIKE A ___",
                 "members": [
-                    "BACK",
-                    "BREAST",
-                    "BUTTER",
-                    "FREE"
+                    "CHORD",
+                    "DEAL",
+                    "MATCH",
+                    "POSE"
                 ]
             }
         ]
