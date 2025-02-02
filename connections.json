@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-01",
+        "date": "2025-02-02",
         "answers": [
             {
                 "level": 0,
-                "group": "TINT",
+                "group": "DEJECTED",
                 "members": [
-                    "HUE",
-                    "SHADE",
-                    "TINGE",
-                    "TONE"
+                    "BLUE",
+                    "DOWN",
+                    "HANGDOG",
+                    "SORRY"
                 ]
             },
             {
                 "level": 1,
-                "group": "COMPONENTS OF A MYSTERY",
+                "group": "BIRDS THAT ARE VERBS",
                 "members": [
-                    "ALIBI",
-                    "CLUE",
-                    "DETECTIVE",
-                    "SUSPECT"
+                    "DUCK",
+                    "GROUSE",
+                    "HAWK",
+                    "SWALLOW"
                 ]
             },
             {
                 "level": 2,
-                "group": "TAKE ISSUE WITH",
+                "group": "TV COMEDY FAMILIES",
                 "members": [
-                    "CONTEST",
-                    "CHALLENGE",
-                    "DISPUTE",
-                    "QUESTION"
+                    "GRIFFIN",
+                    "MUNSTER",
+                    "PARTRIDGE",
+                    "PICKLES"
                 ]
             },
             {
                 "level": 3,
-                "group": "STRIKE A ___",
+                "group": "WORDS AFTER \u201cK\u201d",
                 "members": [
-                    "CHORD",
-                    "DEAL",
-                    "MATCH",
-                    "POSE"
+                    "MART",
+                    "POP",
+                    "STREET",
+                    "SWISS"
                 ]
             }
         ]
