@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-05",
+        "date": "2025-02-06",
         "answers": [
             {
                 "level": 0,
-                "group": "PARTS OF A COMPENSATION PACKAGE",
+                "group": "DELICATE",
                 "members": [
-                    "BONUS",
-                    "INSURANCE",
-                    "SALARY",
-                    "VACATION"
+                    "FAINT",
+                    "LIGHT",
+                    "MILD",
+                    "SOFT"
                 ]
             },
             {
                 "level": 1,
-                "group": "INDICATION",
+                "group": "MAGNANIMOUS",
                 "members": [
-                    "FLAG",
-                    "GIVEAWAY",
-                    "SIGN",
-                    "TELL"
+                    "GRAND",
+                    "GREAT",
+                    "LOFTY",
+                    "NOBLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS TO DO WITH A DECK OF CARDS",
+                "group": "THINGS WITH NECKS",
                 "members": [
-                    "CUT",
-                    "DEAL",
-                    "FAN",
-                    "SHUFFLE"
+                    "BOTTLE",
+                    "GIRAFFE",
+                    "GUITAR",
+                    "LAMP"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT \u201cBILL\u201d MIGHT REFER TO",
+                "group": "FIRST NAMES IN JAZZ",
                 "members": [
-                    "BANKNOTE",
-                    "BEAK",
-                    "INVOICE",
-                    "WILLIAM"
+                    "CAB",
+                    "COUNT",
+                    "DIZZY",
+                    "DUKE"
                 ]
             }
         ]
