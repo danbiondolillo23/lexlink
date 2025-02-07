@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-06",
+        "date": "2025-02-07",
         "answers": [
             {
                 "level": 0,
-                "group": "DELICATE",
+                "group": "BE IN CHARGE OF",
                 "members": [
-                    "FAINT",
-                    "LIGHT",
-                    "MILD",
-                    "SOFT"
+                    "DIRECT",
+                    "HEAD",
+                    "LEAD",
+                    "RUN"
                 ]
             },
             {
                 "level": 1,
-                "group": "MAGNANIMOUS",
+                "group": "THINGS MADE OF RUBBER",
                 "members": [
-                    "GRAND",
-                    "GREAT",
-                    "LOFTY",
-                    "NOBLE"
+                    "BALLOON",
+                    "ERASER",
+                    "GALOSH",
+                    "TIRE"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS WITH NECKS",
+                "group": "ASSOCIATED WITH THE GENIE IN \u201cALADDIN\u201d",
                 "members": [
-                    "BOTTLE",
-                    "GIRAFFE",
-                    "GUITAR",
-                    "LAMP"
+                    "BLUE",
+                    "EARRING",
+                    "LAMP",
+                    "WISHES"
                 ]
             },
             {
                 "level": 3,
-                "group": "FIRST NAMES IN JAZZ",
+                "group": "RED ___",
                 "members": [
-                    "CAB",
-                    "COUNT",
-                    "DIZZY",
-                    "DUKE"
+                    "BULL",
+                    "CROSS",
+                    "HERRING",
+                    "VELVET"
                 ]
             }
         ]
