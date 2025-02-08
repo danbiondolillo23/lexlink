@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-07",
+        "date": "2025-02-08",
         "answers": [
             {
                 "level": 0,
-                "group": "BE IN CHARGE OF",
+                "group": "INFO ON A BASEBALL CARD",
                 "members": [
-                    "DIRECT",
-                    "HEAD",
-                    "LEAD",
-                    "RUN"
+                    "BIO",
+                    "PLAYER",
+                    "STAT",
+                    "TEAM"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS MADE OF RUBBER",
+                "group": "SCRUNCH, AS FABRIC",
                 "members": [
-                    "BALLOON",
-                    "ERASER",
-                    "GALOSH",
-                    "TIRE"
+                    "BUNCH",
+                    "GATHER",
+                    "RUFFLE",
+                    "PUCKER"
                 ]
             },
             {
                 "level": 2,
-                "group": "ASSOCIATED WITH THE GENIE IN \u201cALADDIN\u201d",
+                "group": "TIME ADVERBS",
                 "members": [
-                    "BLUE",
-                    "EARRING",
-                    "LAMP",
-                    "WISHES"
+                    "LATER",
+                    "NOW",
+                    "SOON",
+                    "THEN"
                 ]
             },
             {
                 "level": 3,
-                "group": "RED ___",
+                "group": "___ FOOD",
                 "members": [
-                    "BULL",
-                    "CROSS",
-                    "HERRING",
-                    "VELVET"
+                    "FAST",
+                    "FINGER",
+                    "JUNK",
+                    "SOUL"
                 ]
             }
         ]
