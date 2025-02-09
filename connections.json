@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-08",
+        "date": "2025-02-09",
         "answers": [
             {
                 "level": 0,
-                "group": "INFO ON A BASEBALL CARD",
+                "group": "MASSIVE",
                 "members": [
-                    "BIO",
-                    "PLAYER",
-                    "STAT",
-                    "TEAM"
+                    "GIANT",
+                    "JUMBO",
+                    "MONSTER",
+                    "SUPER"
                 ]
             },
             {
                 "level": 1,
-                "group": "SCRUNCH, AS FABRIC",
+                "group": "USED WHEN SERVING SOUP",
                 "members": [
-                    "BUNCH",
-                    "GATHER",
-                    "RUFFLE",
-                    "PUCKER"
+                    "BOWL",
+                    "LADLE",
+                    "POT",
+                    "SPOON"
                 ]
             },
             {
                 "level": 2,
-                "group": "TIME ADVERBS",
+                "group": "SOMEBODY",
                 "members": [
-                    "LATER",
-                    "NOW",
-                    "SOON",
-                    "THEN"
+                    "CHARACTER",
+                    "INDIVIDUAL",
+                    "PARTY",
+                    "PERSON"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ FOOD",
+                "group": "SCI-FI FRANCHISES",
                 "members": [
-                    "FAST",
-                    "FINGER",
-                    "JUNK",
-                    "SOUL"
+                    "ALIEN",
+                    "AVATAR",
+                    "DUNE",
+                    "TRON"
                 ]
             }
         ]
