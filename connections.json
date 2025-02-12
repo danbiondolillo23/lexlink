@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-11",
+        "date": "2025-02-12",
         "answers": [
             {
                 "level": 0,
-                "group": "WREST",
+                "group": "DOCUMENTS OF OWNERSHIP",
                 "members": [
-                    "JERK",
-                    "TUG",
-                    "WRENCH",
-                    "YANK"
+                    "CERTIFICATE",
+                    "DEED",
+                    "RECEIPT",
+                    "TITLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "BUSTER",
+                "group": "BITS IN A VARIETY SHOW",
                 "members": [
-                    "BUB",
-                    "BUD",
-                    "JACK",
-                    "MAN"
+                    "DANCE",
+                    "MONOLOGUE",
+                    "SKETCH",
+                    "SONG"
                 ]
             },
             {
                 "level": 2,
-                "group": "YOGA ACCESSORIES",
+                "group": "PROPS FOR CHARACTERS ON \u201cTHE SIMPSONS\u201d",
                 "members": [
-                    "BLOCK",
-                    "BOLSTER",
-                    "MAT",
-                    "STRAP"
+                    "DONUT",
+                    "PACIFIER",
+                    "SAXOPHONE",
+                    "SKATEBOARD"
                 ]
             },
             {
                 "level": 3,
-                "group": "___CAP",
+                "group": "STARTING WITH \u201cSHAKE, RATTLE AND ROLL\u201d",
                 "members": [
-                    "HUB",
-                    "KNEE",
-                    "MAD",
-                    "NIGHT"
+                    "ANDROID",
+                    "RATTLESNAKE",
+                    "ROLLERBLADE",
+                    "SHAKESPEARE"
                 ]
             }
         ]
