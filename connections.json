@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-12",
+        "date": "2025-02-13",
         "answers": [
             {
                 "level": 0,
-                "group": "DOCUMENTS OF OWNERSHIP",
+                "group": "TEMPLATE",
                 "members": [
-                    "CERTIFICATE",
-                    "DEED",
-                    "RECEIPT",
-                    "TITLE"
+                    "BLUEPRINT",
+                    "GUIDE",
+                    "MODEL",
+                    "MOLD"
                 ]
             },
             {
                 "level": 1,
-                "group": "BITS IN A VARIETY SHOW",
+                "group": "DEMONSTRATION, AS OF APPRECIATION",
                 "members": [
-                    "DANCE",
-                    "MONOLOGUE",
-                    "SKETCH",
-                    "SONG"
+                    "EXPRESSION",
+                    "GESTURE",
+                    "SYMBOL",
+                    "TOKEN"
                 ]
             },
             {
                 "level": 2,
-                "group": "PROPS FOR CHARACTERS ON \u201cTHE SIMPSONS\u201d",
+                "group": "MODAL VERBS",
                 "members": [
-                    "DONUT",
-                    "PACIFIER",
-                    "SAXOPHONE",
-                    "SKATEBOARD"
+                    "CAN",
+                    "MIGHT",
+                    "MUST",
+                    "WILL"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH \u201cSHAKE, RATTLE AND ROLL\u201d",
+                "group": "___ TRIP",
                 "members": [
-                    "ANDROID",
-                    "RATTLESNAKE",
-                    "ROLLERBLADE",
-                    "SHAKESPEARE"
+                    "EGO",
+                    "GUILT",
+                    "HEAD",
+                    "POWER"
                 ]
             }
         ]
