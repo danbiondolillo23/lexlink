@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-13",
+        "date": "2025-02-14",
         "answers": [
             {
                 "level": 0,
-                "group": "TEMPLATE",
+                "group": "MOLLYCODDLE",
                 "members": [
-                    "BLUEPRINT",
-                    "GUIDE",
-                    "MODEL",
-                    "MOLD"
+                    "BABY",
+                    "HUMOR",
+                    "INDULGE",
+                    "PAMPER"
                 ]
             },
             {
                 "level": 1,
-                "group": "DEMONSTRATION, AS OF APPRECIATION",
+                "group": "THINGS A RATTLESNAKE DOES",
                 "members": [
-                    "EXPRESSION",
-                    "GESTURE",
-                    "SYMBOL",
-                    "TOKEN"
+                    "HISS",
+                    "RATTLE",
+                    "SHED",
+                    "SLITHER"
                 ]
             },
             {
                 "level": 2,
-                "group": "MODAL VERBS",
+                "group": "WORDS SAID TO AN UNSUSPECTING PERSON",
                 "members": [
-                    "CAN",
-                    "MIGHT",
-                    "MUST",
-                    "WILL"
+                    "BOO",
+                    "GOTCHA",
+                    "GUESS WHO",
+                    "SURPRISE"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ TRIP",
+                "group": "HOMOPHONES OF BODIES OF WATER",
                 "members": [
-                    "EGO",
-                    "GUILT",
-                    "HEAD",
-                    "POWER"
+                    "BAE",
+                    "CREAK",
+                    "SEE",
+                    "STRAIGHT"
                 ]
             }
         ]
