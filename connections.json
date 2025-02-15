@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-14",
+        "date": "2025-02-15",
         "answers": [
             {
                 "level": 0,
-                "group": "MOLLYCODDLE",
+                "group": "DIVULGE",
                 "members": [
-                    "BABY",
-                    "HUMOR",
-                    "INDULGE",
-                    "PAMPER"
+                    "BLAB",
+                    "DISH",
+                    "SPILL",
+                    "TELL"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS A RATTLESNAKE DOES",
+                "group": "WORDS ON A MAC KEYBOARD",
                 "members": [
-                    "HISS",
-                    "RATTLE",
-                    "SHED",
-                    "SLITHER"
+                    "COMMAND",
+                    "CONTROL",
+                    "OPTION",
+                    "RETURN"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS SAID TO AN UNSUSPECTING PERSON",
+                "group": "WORDS SHORTENED IN ROCK GENRES",
                 "members": [
-                    "BOO",
-                    "GOTCHA",
-                    "GUESS WHO",
-                    "SURPRISE"
+                    "ALTERNATIVE",
+                    "EMOTIONAL",
+                    "POPULAR",
+                    "PROGRESSIVE"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOMOPHONES OF BODIES OF WATER",
+                "group": "___CAKE",
                 "members": [
-                    "BAE",
-                    "CREAK",
-                    "SEE",
-                    "STRAIGHT"
+                    "CHEESE",
+                    "CUP",
+                    "PAN",
+                    "SHORT"
                 ]
             }
         ]
