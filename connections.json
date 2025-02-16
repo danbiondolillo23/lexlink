@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-15",
+        "date": "2025-02-16",
         "answers": [
             {
                 "level": 0,
-                "group": "DIVULGE",
+                "group": "GLIMMER",
                 "members": [
-                    "BLAB",
-                    "DISH",
-                    "SPILL",
-                    "TELL"
+                    "HINT",
+                    "SUGGESTION",
+                    "TOUCH",
+                    "TRACE"
                 ]
             },
             {
                 "level": 1,
-                "group": "WORDS ON A MAC KEYBOARD",
+                "group": "CORRESPOND WELL WITH",
                 "members": [
-                    "COMMAND",
-                    "CONTROL",
-                    "OPTION",
-                    "RETURN"
+                    "COMPLEMENT",
+                    "FIT",
+                    "MATCH",
+                    "SUIT"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS SHORTENED IN ROCK GENRES",
+                "group": "FAMOUS PUPPETS",
                 "members": [
-                    "ALTERNATIVE",
-                    "EMOTIONAL",
-                    "POPULAR",
-                    "PROGRESSIVE"
+                    "LAMB CHOP",
+                    "OSCAR",
+                    "PUNCH",
+                    "TRIUMPH"
                 ]
             },
             {
                 "level": 3,
-                "group": "___CAKE",
+                "group": "DOG BREEDS MINUS \u201cER\u201d SOUND",
                 "members": [
-                    "CHEESE",
-                    "CUP",
-                    "PAN",
-                    "SHORT"
+                    "BOX",
+                    "POINT",
+                    "RETRIEVE",
+                    "SET"
                 ]
             }
         ]
