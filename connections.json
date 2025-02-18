@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-17",
+        "date": "2025-02-18",
         "answers": [
             {
                 "level": 0,
-                "group": "TIME OFF",
+                "group": "CRATER",
                 "members": [
-                    "BREAK",
-                    "LEAVE",
-                    "REST",
-                    "VACATION"
+                    "CAVITY",
+                    "HOLE",
+                    "HOLLOW",
+                    "PIT"
                 ]
             },
             {
                 "level": 1,
-                "group": "FOLLOW A MEANDERING COURSE",
+                "group": "ACCESSIBLE",
                 "members": [
-                    "CURVE",
-                    "SNAKE",
-                    "WEAVE",
-                    "WIND"
+                    "AVAILABLE",
+                    "HANDY",
+                    "NEARBY",
+                    "READY"
                 ]
             },
             {
                 "level": 2,
-                "group": "BOWLING RESULTS",
+                "group": "SUBSTANTIAL, AS A MEAL",
                 "members": [
-                    "DOUBLE",
-                    "SPARE",
-                    "STRIKE",
-                    "TURKEY"
+                    "FILLING",
+                    "HEARTY",
+                    "SOLID",
+                    "SQUARE"
                 ]
             },
             {
                 "level": 3,
-                "group": "___FISH",
+                "group": "BRITISHISMS",
                 "members": [
-                    "BLOW",
-                    "CAT",
-                    "GOLD",
-                    "SWORD"
+                    "BUTTY",
+                    "CHIPPY",
+                    "FOOTY",
+                    "TELLY"
                 ]
             }
         ]
