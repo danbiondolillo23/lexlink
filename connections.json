@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-18",
+        "date": "2025-02-19",
         "answers": [
             {
                 "level": 0,
-                "group": "CRATER",
+                "group": "STRUCTURES BY THE SHORE",
                 "members": [
-                    "CAVITY",
-                    "HOLE",
-                    "HOLLOW",
-                    "PIT"
+                    "BOARDWALK",
+                    "DOCK",
+                    "LIGHTHOUSE",
+                    "WHARF"
                 ]
             },
             {
                 "level": 1,
-                "group": "ACCESSIBLE",
+                "group": "SMALL IMPERFECTION",
                 "members": [
-                    "AVAILABLE",
-                    "HANDY",
-                    "NEARBY",
-                    "READY"
+                    "DENT",
+                    "DING",
+                    "NICK",
+                    "SCRATCH"
                 ]
             },
             {
                 "level": 2,
-                "group": "SUBSTANTIAL, AS A MEAL",
+                "group": "SOUNDS A CUCKOO CLOCK MAKES",
                 "members": [
-                    "FILLING",
-                    "HEARTY",
-                    "SOLID",
-                    "SQUARE"
+                    "CHIME",
+                    "CUCKOO",
+                    "TICK",
+                    "TOCK"
                 ]
             },
             {
                 "level": 3,
-                "group": "BRITISHISMS",
+                "group": "___TAIL",
                 "members": [
-                    "BUTTY",
-                    "CHIPPY",
-                    "FOOTY",
-                    "TELLY"
+                    "COCK",
+                    "MOCK",
+                    "PIG",
+                    "PONY"
                 ]
             }
         ]
