@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-20",
+        "date": "2025-02-21",
         "answers": [
             {
                 "level": 0,
-                "group": "ALERT",
+                "group": "WAY OF SOLVING A PROBLEM",
                 "members": [
-                    "ALARM",
-                    "FLARE",
-                    "SIGNAL",
-                    "SOS"
+                    "ANSWER",
+                    "FIX",
+                    "REMEDY",
+                    "SOLUTION"
                 ]
             },
             {
                 "level": 1,
-                "group": "SPEND THE NIGHT (AT)",
+                "group": "COLLECT, AS FROM AN ORCHARD",
                 "members": [
-                    "BUNK",
-                    "CRASH",
-                    "SLEEP",
-                    "STAY"
+                    "GATHER",
+                    "HARVEST",
+                    "PICK",
+                    "REAP"
                 ]
             },
             {
                 "level": 2,
-                "group": "ASSOCIATED WITH EARLY MORNING",
+                "group": "PHOTOSHOP TOOLS",
                 "members": [
-                    "DEW",
-                    "ROOSTER",
-                    "SUNRISE",
-                    "WORM"
+                    "ERASER",
+                    "EYEDROPPER",
+                    "LASSO",
+                    "MAGIC WAND"
                 ]
             },
             {
                 "level": 3,
-                "group": "COOKIE CUTTER SHAPES IN \u201cSQUID GAME\u201d",
+                "group": "OBJECTS THAT MAY BE RIGHT- OR LEFT-HANDED",
                 "members": [
-                    "CIRCLE",
-                    "STAR",
-                    "TRIANGLE",
-                    "UMBRELLA"
+                    "BASEBALL GLOVE",
+                    "CAN OPENER",
+                    "GOLF CLUB",
+                    "GUITAR"
                 ]
             }
         ]
