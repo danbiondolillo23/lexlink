@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-21",
+        "date": "2025-02-22",
         "answers": [
             {
                 "level": 0,
-                "group": "WAY OF SOLVING A PROBLEM",
+                "group": "MEMBER OF A TEAM WITH THE MOST CHAMPIONSHIPS IN THEIR RESPECTIVE SPORTS",
                 "members": [
-                    "ANSWER",
-                    "FIX",
-                    "REMEDY",
-                    "SOLUTION"
+                    "CANADIEN",
+                    "CELTIC",
+                    "PACKER",
+                    "YANKEE"
                 ]
             },
             {
                 "level": 1,
-                "group": "COLLECT, AS FROM AN ORCHARD",
+                "group": "CREATE SOME VOLUME/TEXTURE IN HAIR",
                 "members": [
-                    "GATHER",
-                    "HARVEST",
-                    "PICK",
-                    "REAP"
+                    "CRIMP",
+                    "CURL",
+                    "FEATHER",
+                    "TEASE"
                 ]
             },
             {
                 "level": 2,
-                "group": "PHOTOSHOP TOOLS",
+                "group": "SUPPLIES FOR MACARONI ART",
                 "members": [
-                    "ERASER",
-                    "EYEDROPPER",
-                    "LASSO",
-                    "MAGIC WAND"
+                    "GLITTER",
+                    "GLUE",
+                    "MACARONI",
+                    "PAPER"
                 ]
             },
             {
                 "level": 3,
-                "group": "OBJECTS THAT MAY BE RIGHT- OR LEFT-HANDED",
+                "group": "WORDS AFTER \u201cGOLDEN\u201d",
                 "members": [
-                    "BASEBALL GLOVE",
-                    "CAN OPENER",
-                    "GOLF CLUB",
-                    "GUITAR"
+                    "DOODLE",
+                    "GOOSE",
+                    "PARACHUTE",
+                    "ROD"
                 ]
             }
         ]
