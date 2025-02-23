@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-22",
+        "date": "2025-02-23",
         "answers": [
             {
                 "level": 0,
-                "group": "MEMBER OF A TEAM WITH THE MOST CHAMPIONSHIPS IN THEIR RESPECTIVE SPORTS",
+                "group": "RUB TOGETHER",
                 "members": [
-                    "CANADIEN",
-                    "CELTIC",
-                    "PACKER",
-                    "YANKEE"
+                    "GNASH",
+                    "GRATE",
+                    "GRIND",
+                    "SCRAPE"
                 ]
             },
             {
                 "level": 1,
-                "group": "CREATE SOME VOLUME/TEXTURE IN HAIR",
+                "group": "WAYS TO PRESERVE FOOD",
                 "members": [
-                    "CRIMP",
-                    "CURL",
-                    "FEATHER",
-                    "TEASE"
+                    "CAN",
+                    "FERMENT",
+                    "FREEZE",
+                    "PICKLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "SUPPLIES FOR MACARONI ART",
+                "group": "BREAKFAST CONDIMENTS",
                 "members": [
-                    "GLITTER",
-                    "GLUE",
-                    "MACARONI",
-                    "PAPER"
+                    "BUTTER",
+                    "HOT SAUCE",
+                    "JAM",
+                    "SYRUP"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS AFTER \u201cGOLDEN\u201d",
+                "group": "PROVERBIAL THINGS THAT ARE SPILLED",
                 "members": [
-                    "DOODLE",
-                    "GOOSE",
-                    "PARACHUTE",
-                    "ROD"
+                    "BEANS",
+                    "GUTS",
+                    "MILK",
+                    "TEA"
                 ]
             }
         ]
