@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-26",
+        "date": "2025-02-27",
         "answers": [
             {
                 "level": 0,
-                "group": "EXPENDITURE",
+                "group": "CONTACT VIA TELEPHONE",
                 "members": [
-                    "CHARGE",
-                    "COST",
-                    "PRICE",
-                    "RATE"
+                    "CALL",
+                    "DIAL",
+                    "PHONE",
+                    "RING"
                 ]
             },
             {
                 "level": 1,
-                "group": "ONETIME",
+                "group": "PARTS OF A CAR",
                 "members": [
-                    "FORMER",
-                    "LATE",
-                    "PAST",
-                    "PRIOR"
+                    "BELT",
+                    "HORN",
+                    "MIRROR",
+                    "WHEEL"
                 ]
             },
             {
                 "level": 2,
-                "group": "MADE WITH HORIZONTAL LINES",
+                "group": "LEVELS OF BIOLOGICAL ORGANIZATION",
                 "members": [
-                    "DASH",
-                    "HYPHEN",
-                    "MINUS",
-                    "UNDERSCORE"
+                    "ATOM",
+                    "CELL",
+                    "ORGAN",
+                    "TISSUE"
                 ]
             },
             {
                 "level": 3,
-                "group": "SIMPSON FAMILY MEMBERS WITH FIRST LETTER CHANGED",
+                "group": "ENDING WITH UNITS OF MEASURE",
                 "members": [
-                    "BAGGIE",
-                    "BARGE",
-                    "COMER",
-                    "PISA"
+                    "BIGFOOT",
+                    "COMPOUND",
+                    "INSTAGRAM",
+                    "THERMOMETER"
                 ]
             }
         ]
