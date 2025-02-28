@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-02-27",
+        "date": "2025-02-28",
         "answers": [
             {
                 "level": 0,
-                "group": "CONTACT VIA TELEPHONE",
+                "group": "BE INDECISIVE",
                 "members": [
-                    "CALL",
-                    "DIAL",
-                    "PHONE",
-                    "RING"
+                    "HESITATE",
+                    "WAFFLE",
+                    "WAVER",
+                    "YO-YO"
                 ]
             },
             {
                 "level": 1,
-                "group": "PARTS OF A CAR",
+                "group": "LOVELY PERSON",
                 "members": [
-                    "BELT",
-                    "HORN",
-                    "MIRROR",
-                    "WHEEL"
+                    "ANGEL",
+                    "DEAR",
+                    "DOLL",
+                    "PEACH"
                 ]
             },
             {
                 "level": 2,
-                "group": "LEVELS OF BIOLOGICAL ORGANIZATION",
+                "group": "LUCIDITY",
                 "members": [
-                    "ATOM",
-                    "CELL",
-                    "ORGAN",
-                    "TISSUE"
+                    "MARBLES",
+                    "MIND",
+                    "SENSE",
+                    "WITS"
                 ]
             },
             {
                 "level": 3,
-                "group": "ENDING WITH UNITS OF MEASURE",
+                "group": "COMPONENTS OF METAPHORS FOR THINGS THAT CAN\u2019T BE UNDONE",
                 "members": [
-                    "BIGFOOT",
-                    "COMPOUND",
-                    "INSTAGRAM",
-                    "THERMOMETER"
+                    "BELL",
+                    "EGG",
+                    "GENIE",
+                    "TOOTHPASTE"
                 ]
             }
         ]
