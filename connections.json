@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-01",
+        "date": "2025-03-02",
         "answers": [
             {
                 "level": 0,
-                "group": "ASSOCIATED WITH GOOD LUCK",
+                "group": "CELLPHONE MODES",
                 "members": [
-                    "HORSESHOE",
-                    "LADYBUG",
-                    "PENNY",
-                    "SHAMROCK"
+                    "AIRPLANE",
+                    "DO NOT DISTURB",
+                    "RING",
+                    "VIBRATE"
                 ]
             },
             {
                 "level": 1,
-                "group": "TO-BO- COMPOUND WORDS",
+                "group": "EVADE",
                 "members": [
-                    "TOLLBOOTH",
-                    "TOMBOY",
-                    "TOOLBOX",
-                    "TOWBOAT"
+                    "DODGE",
+                    "ESCAPE",
+                    "LOSE",
+                    "SHAKE"
                 ]
             },
             {
                 "level": 2,
-                "group": "BROADWAY MUSICALS, FAMILIARLY",
+                "group": "WHAT \u201cW\u201d MIGHT STAND FOR",
                 "members": [
-                    "FIDDLER",
-                    "MERRILY",
-                    "PHANTOM",
-                    "SUNSET"
+                    "TUNGSTEN",
+                    "WATT",
+                    "WEST",
+                    "WIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS BEFORE \u201cCOWBOY\u201d IN FILM AND MUSIC",
+                "group": "___STRING",
                 "members": [
-                    "DRUGSTORE",
-                    "MIDNIGHT",
-                    "RHINESTONE",
-                    "SPACE"
+                    "DRAW",
+                    "HAM",
+                    "HEART",
+                    "SHOE"
                 ]
             }
         ]
