@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-02",
+        "date": "2025-03-03",
         "answers": [
             {
                 "level": 0,
-                "group": "CELLPHONE MODES",
+                "group": "BE AT LEISURE",
                 "members": [
-                    "AIRPLANE",
-                    "DO NOT DISTURB",
-                    "RING",
-                    "VIBRATE"
+                    "CHILL",
+                    "LOAF",
+                    "LOUNGE",
+                    "REST"
                 ]
             },
             {
                 "level": 1,
-                "group": "EVADE",
+                "group": "FORMATS OF GOLD",
                 "members": [
-                    "DODGE",
-                    "ESCAPE",
-                    "LOSE",
-                    "SHAKE"
+                    "BAR",
+                    "COIN",
+                    "LEAF",
+                    "NUGGET"
                 ]
             },
             {
                 "level": 2,
-                "group": "WHAT \u201cW\u201d MIGHT STAND FOR",
+                "group": "CYLINDER OF MATERIAL",
                 "members": [
-                    "TUNGSTEN",
-                    "WATT",
-                    "WEST",
-                    "WIN"
+                    "BOLT",
+                    "REEL",
+                    "ROLL",
+                    "SCROLL"
                 ]
             },
             {
                 "level": 3,
-                "group": "___STRING",
+                "group": "SEEN IN \u201cTHE FLINTSTONES\u201d",
                 "members": [
-                    "DRAW",
-                    "HAM",
-                    "HEART",
-                    "SHOE"
+                    "BONE",
+                    "CLUB",
+                    "DINOSAUR",
+                    "RUBBLE"
                 ]
             }
         ]
