@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-03",
+        "date": "2025-03-04",
         "answers": [
             {
                 "level": 0,
-                "group": "BE AT LEISURE",
+                "group": "ADJECTIVES FOR NICE SKIN",
                 "members": [
-                    "CHILL",
-                    "LOAF",
-                    "LOUNGE",
-                    "REST"
+                    "DEWY",
+                    "FRESH",
+                    "GLOWING",
+                    "SMOOTH"
                 ]
             },
             {
                 "level": 1,
-                "group": "FORMATS OF GOLD",
+                "group": "MESS OF HAIR",
                 "members": [
-                    "BAR",
-                    "COIN",
-                    "LEAF",
-                    "NUGGET"
+                    "MAT",
+                    "MOP",
+                    "TANGLE",
+                    "THATCH"
                 ]
             },
             {
                 "level": 2,
-                "group": "CYLINDER OF MATERIAL",
+                "group": "DICKENS CHARACTERS",
                 "members": [
-                    "BOLT",
-                    "REEL",
-                    "ROLL",
-                    "SCROLL"
+                    "BUCKET",
+                    "PIP",
+                    "SCROOGE",
+                    "TWIST"
                 ]
             },
             {
                 "level": 3,
-                "group": "SEEN IN \u201cTHE FLINTSTONES\u201d",
+                "group": "___ CHAIN",
                 "members": [
-                    "BONE",
-                    "CLUB",
-                    "DINOSAUR",
-                    "RUBBLE"
+                    "DAISY",
+                    "FOOD",
+                    "MOUNTAIN",
+                    "SUPPLY"
                 ]
             }
         ]
