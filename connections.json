@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-06",
+        "date": "2025-03-07",
         "answers": [
             {
                 "level": 0,
-                "group": "WANE",
+                "group": "EMBLEM",
                 "members": [
-                    "DWINDLE",
-                    "FADE",
-                    "PETER",
-                    "TAPER"
+                    "LABEL",
+                    "MARK",
+                    "SEAL",
+                    "STAMP"
                 ]
             },
             {
                 "level": 1,
-                "group": "DO SOME TASKS IN THE GARDEN",
+                "group": "SUBJECTS OF ACCLAIMED MUSICAL BIOPICS",
                 "members": [
-                    "PLANT",
-                    "PRUNE",
-                    "WATER",
-                    "WEED"
+                    "BROWN",
+                    "CASH",
+                    "DYLAN",
+                    "MERCURY"
                 ]
             },
             {
                 "level": 2,
-                "group": "SHOES",
+                "group": "U.S. CITIES",
                 "members": [
-                    "FLAT",
-                    "MARY JANE",
-                    "MULE",
-                    "SLIDE"
+                    "BUFFALO",
+                    "HELENA",
+                    "IRVING",
+                    "PHOENIX"
                 ]
             },
             {
                 "level": 3,
-                "group": "SAND___",
+                "group": "FRUITS WITH THEIR SECOND LETTERS CHANGED",
                 "members": [
-                    "CASTLE",
-                    "PAPER",
-                    "PIPER",
-                    "STONE"
+                    "AMPLE",
+                    "DOTE",
+                    "LUMON",
+                    "POACH"
                 ]
             }
         ]
