@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-07",
+        "date": "2025-03-08",
         "answers": [
             {
                 "level": 0,
-                "group": "EMBLEM",
+                "group": "FAUX",
                 "members": [
-                    "LABEL",
-                    "MARK",
-                    "SEAL",
-                    "STAMP"
+                    "ARTIFICIAL",
+                    "FAKE",
+                    "IMITATION",
+                    "MOCK"
                 ]
             },
             {
                 "level": 1,
-                "group": "SUBJECTS OF ACCLAIMED MUSICAL BIOPICS",
+                "group": "WASHING MACHINE CYCLES/SETTINGS",
                 "members": [
-                    "BROWN",
-                    "CASH",
-                    "DYLAN",
-                    "MERCURY"
+                    "BULKY",
+                    "COTTON",
+                    "DELICATE",
+                    "SPIN"
                 ]
             },
             {
                 "level": 2,
-                "group": "U.S. CITIES",
+                "group": "WORDS SAID FREQUENTLY IN THE \u201cBILL AND TED\u201d MOVIES",
                 "members": [
-                    "BUFFALO",
-                    "HELENA",
-                    "IRVING",
-                    "PHOENIX"
+                    "BOGUS",
+                    "DUDE",
+                    "EXCELLENT",
+                    "TOTALLY"
                 ]
             },
             {
                 "level": 3,
-                "group": "FRUITS WITH THEIR SECOND LETTERS CHANGED",
+                "group": "___BOX",
                 "members": [
-                    "AMPLE",
-                    "DOTE",
-                    "LUMON",
-                    "POACH"
+                    "CHATTER",
+                    "JUKE",
+                    "SHADOW",
+                    "SOAP"
                 ]
             }
         ]
