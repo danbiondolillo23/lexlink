@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-08",
+        "date": "2025-03-09",
         "answers": [
             {
                 "level": 0,
-                "group": "FAUX",
+                "group": "COMPUTER INPUT DEVICES",
                 "members": [
-                    "ARTIFICIAL",
-                    "FAKE",
-                    "IMITATION",
-                    "MOCK"
+                    "MICROPHONE",
+                    "MOUSE",
+                    "SCANNER",
+                    "TABLET"
                 ]
             },
             {
                 "level": 1,
-                "group": "WASHING MACHINE CYCLES/SETTINGS",
+                "group": "BUILDING MATERIALS",
                 "members": [
-                    "BULKY",
-                    "COTTON",
-                    "DELICATE",
-                    "SPIN"
+                    "BRICK",
+                    "CONCRETE",
+                    "METAL",
+                    "STONE"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS SAID FREQUENTLY IN THE \u201cBILL AND TED\u201d MOVIES",
+                "group": "HELPFUL DEED",
                 "members": [
-                    "BOGUS",
-                    "DUDE",
-                    "EXCELLENT",
-                    "TOTALLY"
+                    "FAVOR",
+                    "KINDNESS",
+                    "SERVICE",
+                    "SOLID"
                 ]
             },
             {
                 "level": 3,
-                "group": "___BOX",
+                "group": "#1 SONGS FROM 1982",
                 "members": [
-                    "CHATTER",
-                    "JUKE",
-                    "SHADOW",
-                    "SOAP"
+                    "ABRACADABRA",
+                    "CENTERFOLD",
+                    "MICKEY",
+                    "PHYSICAL"
                 ]
             }
         ]
