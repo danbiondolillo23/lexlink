@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-09",
+        "date": "2025-03-10",
         "answers": [
             {
                 "level": 0,
-                "group": "COMPUTER INPUT DEVICES",
+                "group": "CAT BREEDS",
                 "members": [
-                    "MICROPHONE",
-                    "MOUSE",
-                    "SCANNER",
-                    "TABLET"
+                    "RAGAMUFFIN",
+                    "RUSSIAN BLUE",
+                    "SPHYNX",
+                    "TURKISH ANGORA"
                 ]
             },
             {
                 "level": 1,
-                "group": "BUILDING MATERIALS",
+                "group": "FAMOUS SMILES",
                 "members": [
-                    "BRICK",
-                    "CONCRETE",
-                    "METAL",
-                    "STONE"
+                    "CHESHIRE CAT",
+                    "COMEDY MASK",
+                    "JOKER",
+                    "MONA LISA"
                 ]
             },
             {
                 "level": 2,
-                "group": "HELPFUL DEED",
+                "group": "ATTRACTIONS ICONICALLY DIFFERENT FROM THEIR ORIGINAL FORMS",
                 "members": [
-                    "FAVOR",
-                    "KINDNESS",
-                    "SERVICE",
-                    "SOLID"
+                    "LIBERTY BELL",
+                    "VENUS DE MILO",
+                    "STATUE OF LIBERTY",
+                    "TOWER OF PISA"
                 ]
             },
             {
                 "level": 3,
-                "group": "#1 SONGS FROM 1982",
+                "group": "ASSOCIATED WITH \u201cTHE DUDE\u201d LEBOWSKI",
                 "members": [
-                    "ABRACADABRA",
-                    "CENTERFOLD",
-                    "MICKEY",
-                    "PHYSICAL"
+                    "BATHROBE",
+                    "BOWLING",
+                    "RUG",
+                    "WHITE RUSSIAN"
                 ]
             }
         ]
