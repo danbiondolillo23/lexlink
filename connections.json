@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-10",
+        "date": "2025-03-11",
         "answers": [
             {
                 "level": 0,
-                "group": "CAT BREEDS",
+                "group": "VARIATION FROM THE NORM",
                 "members": [
-                    "RAGAMUFFIN",
-                    "RUSSIAN BLUE",
-                    "SPHYNX",
-                    "TURKISH ANGORA"
+                    "ALTERNATIVE",
+                    "BREAK",
+                    "CHANGE",
+                    "DEPARTURE"
                 ]
             },
             {
                 "level": 1,
-                "group": "FAMOUS SMILES",
+                "group": "THINGS THAT RING",
                 "members": [
-                    "CHESHIRE CAT",
-                    "COMEDY MASK",
-                    "JOKER",
-                    "MONA LISA"
+                    "ALARM",
+                    "BELL",
+                    "INTERCOM",
+                    "PHONE"
                 ]
             },
             {
                 "level": 2,
-                "group": "ATTRACTIONS ICONICALLY DIFFERENT FROM THEIR ORIGINAL FORMS",
+                "group": "THINGS TRADITIONALLY MADE OF LEATHER",
                 "members": [
-                    "LIBERTY BELL",
-                    "VENUS DE MILO",
-                    "STATUE OF LIBERTY",
-                    "TOWER OF PISA"
+                    "FOOTBALL",
+                    "MOCCASINS",
+                    "SADDLE",
+                    "WALLET"
                 ]
             },
             {
                 "level": 3,
-                "group": "ASSOCIATED WITH \u201cTHE DUDE\u201d LEBOWSKI",
+                "group": "SINGER-SONGWRITER PIANISTS",
                 "members": [
-                    "BATHROBE",
-                    "BOWLING",
-                    "RUG",
-                    "WHITE RUSSIAN"
+                    "KEYS",
+                    "KING",
+                    "LEGEND",
+                    "WONDER"
                 ]
             }
         ]
