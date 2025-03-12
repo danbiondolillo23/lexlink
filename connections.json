@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-11",
+        "date": "2025-03-12",
         "answers": [
             {
                 "level": 0,
-                "group": "VARIATION FROM THE NORM",
+                "group": "INGREDIENTS IN CLASSIC POUND CAKE",
                 "members": [
-                    "ALTERNATIVE",
-                    "BREAK",
-                    "CHANGE",
-                    "DEPARTURE"
+                    "BUTTER",
+                    "EGGS",
+                    "FLOUR",
+                    "SUGAR"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS THAT RING",
+                "group": "THINGS THAT ARE RED",
                 "members": [
-                    "ALARM",
-                    "BELL",
-                    "INTERCOM",
-                    "PHONE"
+                    "CARDINAL",
+                    "ELMO",
+                    "KETCHUP",
+                    "ROSE"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS TRADITIONALLY MADE OF LEATHER",
+                "group": "WORDS SAID TO HAVE NO EXACT RHYMES",
                 "members": [
-                    "FOOTBALL",
-                    "MOCCASINS",
-                    "SADDLE",
-                    "WALLET"
+                    "MONTH",
+                    "ORANGE",
+                    "PURPLE",
+                    "SILVER"
                 ]
             },
             {
                 "level": 3,
-                "group": "SINGER-SONGWRITER PIANISTS",
+                "group": "___ CANDY",
                 "members": [
-                    "KEYS",
-                    "KING",
-                    "LEGEND",
-                    "WONDER"
+                    "COTTON",
+                    "EYE",
+                    "JOHN",
+                    "ROCK"
                 ]
             }
         ]
