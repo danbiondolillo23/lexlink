@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-13",
+        "date": "2025-03-14",
         "answers": [
             {
                 "level": 0,
-                "group": "PARTIALITY",
+                "group": "IMPOSE, AS A PENALTY",
                 "members": [
-                    "ANGLE",
-                    "BIAS",
-                    "SLANT",
-                    "SPIN"
+                    "ASSESS",
+                    "CHARGE",
+                    "FINE",
+                    "LEVY"
                 ]
             },
             {
                 "level": 1,
-                "group": "SIGNAL DOWN, AS A TAXI",
+                "group": "CHECKOUT LINE IMPULSE BUYS",
                 "members": [
-                    "FLAG",
-                    "HAIL",
-                    "WAVE",
-                    "WHISTLE"
+                    "CANDY",
+                    "CHAPSTICK",
+                    "CHARGING CABLE",
+                    "MAGAZINE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CARDS IN TEXAS HOLD \u2019EM",
+                "group": "MOVIES OF VARIOUS LENGTHS",
                 "members": [
-                    "FLOP",
-                    "HOLE",
-                    "RIVER",
-                    "TURN"
+                    "EPIC",
+                    "FEATURE",
+                    "FILM SERIES",
+                    "SHORT"
                 ]
             },
             {
                 "level": 3,
-                "group": "SHAKESPEAREAN WORDS",
+                "group": "___ ROAD",
                 "members": [
-                    "ANON",
-                    "ART",
-                    "THOU",
-                    "WILT"
+                    "DIRT",
+                    "HIGH",
+                    "ROCKY",
+                    "SILK"
                 ]
             }
         ]
