@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-17",
+        "date": "2025-03-18",
         "answers": [
             {
                 "level": 0,
-                "group": "FILAMENT",
+                "group": "EXCEPTIONAL",
                 "members": [
-                    "FIBER",
-                    "STRAND",
-                    "STRING",
-                    "THREAD"
+                    "REMARKABLE",
+                    "SINGULAR",
+                    "SPECIAL",
+                    "UNIQUE"
                 ]
             },
             {
                 "level": 1,
-                "group": "UNINHIBITEDNESS",
+                "group": "GERMAN WORDS",
                 "members": [
-                    "ABANDON",
-                    "FREEDOM",
-                    "SPONTANEITY",
-                    "UNRESTRAINT"
+                    "ANGST",
+                    "DIE",
+                    "KINDER",
+                    "WURST"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF TRUCKS",
+                "group": "PLURAL ANIMALS IDENTICAL TO THEIR SINGULAR FORMS",
                 "members": [
-                    "DUMP",
-                    "GARBAGE",
-                    "MONSTER",
-                    "PICKUP"
+                    "DEER",
+                    "SHEEP",
+                    "SHRIMP",
+                    "SQUID"
                 ]
             },
             {
                 "level": 3,
-                "group": "BANDS MINUS THE NUMBER FIVE",
+                "group": "PLURAL WORDS THAT ARE VERY DIFFERENT FROM THEIR SINGULAR FORMS",
                 "members": [
-                    "BEN FOLDS",
-                    "JACKSON",
-                    "MAROON",
-                    "MC"
+                    "DICE",
+                    "LICE",
+                    "MICE",
+                    "OXEN"
                 ]
             }
         ]
