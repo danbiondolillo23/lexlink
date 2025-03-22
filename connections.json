@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-21",
+        "date": "2025-03-22",
         "answers": [
             {
                 "level": 0,
-                "group": "MILIEU",
+                "group": "MUSICAL INSTRUMENTS",
                 "members": [
-                    "CIRCLE",
-                    "SCENE",
-                    "SPHERE",
-                    "WORLD"
+                    "TAMBOURINE",
+                    "THEREMIN",
+                    "TIMPANI",
+                    "TROMBONE"
                 ]
             },
             {
                 "level": 1,
-                "group": "LUMINARY",
+                "group": "KNICKKNACK",
                 "members": [
-                    "GREAT",
-                    "ICON",
-                    "LEGEND",
-                    "LION"
+                    "TCHOTCHKE",
+                    "THINGAMAJIG",
+                    "TRIFLE",
+                    "TRINKET"
                 ]
             },
             {
                 "level": 2,
-                "group": "ARCHITECTURAL DRAWING TOOLS",
+                "group": "WORDS WITH THE PREFIX MEANING \u201cTHREE\u201d",
                 "members": [
-                    "COMPASS",
-                    "RULER",
-                    "STENCIL",
-                    "T-SQUARE"
+                    "TRIANGLE",
+                    "TRIDENT",
+                    "TRILLION",
+                    "TRILOBITE"
                 ]
             },
             {
                 "level": 3,
-                "group": "BAR ___",
+                "group": "WORDS ABBREVIATED WITH \u201cT\u201d + LETTER",
                 "members": [
-                    "CHART",
-                    "EXAM",
-                    "MITZVAH",
-                    "SOAP"
+                    "TELEVISION",
+                    "TOUCHDOWN",
+                    "TRADEMARK",
+                    "TUBERCULOSIS"
                 ]
             }
         ]
