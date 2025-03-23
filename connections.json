@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-22",
+        "date": "2025-03-23",
         "answers": [
             {
                 "level": 0,
-                "group": "MUSICAL INSTRUMENTS",
+                "group": "CAPTIVATE",
                 "members": [
-                    "TAMBOURINE",
-                    "THEREMIN",
-                    "TIMPANI",
-                    "TROMBONE"
+                    "ABSORB",
+                    "ENTRANCE",
+                    "GRAB",
+                    "RIVET"
                 ]
             },
             {
                 "level": 1,
-                "group": "KNICKKNACK",
+                "group": "THINGS WITH WINGS",
                 "members": [
-                    "TCHOTCHKE",
-                    "THINGAMAJIG",
-                    "TRIFLE",
-                    "TRINKET"
+                    "AIRPLANE",
+                    "FAIRY",
+                    "FLY",
+                    "HOSPITAL"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS WITH THE PREFIX MEANING \u201cTHREE\u201d",
+                "group": "WORDS THAT MODIFY \u201cWATCH\u201d",
                 "members": [
-                    "TRIANGLE",
-                    "TRIDENT",
-                    "TRILLION",
-                    "TRILOBITE"
+                    "POCKET",
+                    "SMART",
+                    "STOP",
+                    "WRIST"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS ABBREVIATED WITH \u201cT\u201d + LETTER",
+                "group": "WORDS REPEATED IN \u201cMISS MARY MACK\u201d",
                 "members": [
-                    "TELEVISION",
-                    "TOUCHDOWN",
-                    "TRADEMARK",
-                    "TUBERCULOSIS"
+                    "BACK",
+                    "BLACK",
+                    "BUTTONS",
+                    "MACK"
                 ]
             }
         ]
