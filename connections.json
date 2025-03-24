@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-23",
+        "date": "2025-03-24",
         "answers": [
             {
                 "level": 0,
-                "group": "CAPTIVATE",
+                "group": "BAD-SMELLING",
                 "members": [
-                    "ABSORB",
-                    "ENTRANCE",
-                    "GRAB",
-                    "RIVET"
+                    "FOUL",
+                    "RANK",
+                    "RIPE",
+                    "SOUR"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS WITH WINGS",
+                "group": "UNFLUCTUATING",
                 "members": [
-                    "AIRPLANE",
-                    "FAIRY",
-                    "FLY",
-                    "HOSPITAL"
+                    "CONSTANT",
+                    "LEVEL",
+                    "STABLE",
+                    "UNIFORM"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS THAT MODIFY \u201cWATCH\u201d",
+                "group": "WHO VIDEO GAMES ARE FOR, PER ESRB RATINGS",
                 "members": [
-                    "POCKET",
-                    "SMART",
-                    "STOP",
-                    "WRIST"
+                    "ADULTS ONLY",
+                    "EVERYONE",
+                    "TEEN",
+                    "MATURE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS REPEATED IN \u201cMISS MARY MACK\u201d",
+                "group": "THINGS WITH LAYERS",
                 "members": [
-                    "BACK",
-                    "BLACK",
-                    "BUTTONS",
-                    "MACK"
+                    "EARTH",
+                    "HENHOUSE",
+                    "ONION",
+                    "PHOTOSHOP"
                 ]
             }
         ]
