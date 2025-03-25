@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-24",
+        "date": "2025-03-25",
         "answers": [
             {
                 "level": 0,
-                "group": "BAD-SMELLING",
+                "group": "BLACK-AND-WHITE THINGS",
                 "members": [
-                    "FOUL",
-                    "RANK",
-                    "RIPE",
-                    "SOUR"
+                    "CROSSWORD",
+                    "OREO",
+                    "PANDA",
+                    "TUXEDO"
                 ]
             },
             {
                 "level": 1,
-                "group": "UNFLUCTUATING",
+                "group": "ANAGRAMS",
                 "members": [
-                    "CONSTANT",
-                    "LEVEL",
-                    "STABLE",
-                    "UNIFORM"
+                    "ABEL",
+                    "ABLE",
+                    "BALE",
+                    "BELA"
                 ]
             },
             {
                 "level": 2,
-                "group": "WHO VIDEO GAMES ARE FOR, PER ESRB RATINGS",
+                "group": "U.S. PRESIDENTIAL NICKNAMES",
                 "members": [
-                    "ADULTS ONLY",
-                    "EVERYONE",
-                    "TEEN",
-                    "MATURE"
+                    "ABE",
+                    "CAL",
+                    "DICK",
+                    "TEDDY"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS WITH LAYERS",
+                "group": "CLEAR AS ___",
                 "members": [
-                    "EARTH",
-                    "HENHOUSE",
-                    "ONION",
-                    "PHOTOSHOP"
+                    "A BELL",
+                    "CRYSTAL",
+                    "DAY",
+                    "MUD"
                 ]
             }
         ]
