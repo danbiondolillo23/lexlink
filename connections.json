@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-28",
+        "date": "2025-03-29",
         "answers": [
             {
                 "level": 0,
-                "group": "HURL",
+                "group": "MATERIALS ASSOCIATED WITH FANCY DINING",
                 "members": [
-                    "CHUCK",
-                    "PELT",
-                    "PITCH",
-                    "SLING"
+                    "CHINA",
+                    "CRYSTAL",
+                    "LINEN",
+                    "SILVER"
                 ]
             },
             {
                 "level": 1,
-                "group": "BE ON BOTH SIDES OF",
+                "group": "KINDS OF SHORTS",
                 "members": [
-                    "BOOKEND",
-                    "BRACKET",
-                    "FLANK",
-                    "SURROUND"
+                    "BERMUDA",
+                    "BIKE",
+                    "BOXER",
+                    "CARGO"
                 ]
             },
             {
                 "level": 2,
-                "group": "PARTS OF A CLASSIC GIRL SCOUT UNIFORM",
+                "group": "NOUNS IN A FAMOUS PALINDROME",
                 "members": [
-                    "BADGE",
-                    "BERET",
-                    "SASH",
-                    "SKIRT"
+                    "CANAL",
+                    "MAN",
+                    "PANAMA",
+                    "PLAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ HALL",
+                "group": "MOVIES FROM 1985",
                 "members": [
-                    "BINGO",
-                    "CITY",
-                    "MONTY",
-                    "STUDY"
+                    "BRAZIL",
+                    "CLUE",
+                    "COMMANDO",
+                    "WITNESS"
                 ]
             }
         ]
