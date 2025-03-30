@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-29",
+        "date": "2025-03-30",
         "answers": [
             {
                 "level": 0,
-                "group": "MATERIALS ASSOCIATED WITH FANCY DINING",
+                "group": "AVERAGE",
                 "members": [
-                    "CHINA",
-                    "CRYSTAL",
-                    "LINEN",
-                    "SILVER"
+                    "MEAN",
+                    "NORM",
+                    "PAR",
+                    "STANDARD"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF SHORTS",
+                "group": "PICTURED ON THE U.S. GREAT SEAL",
                 "members": [
-                    "BERMUDA",
-                    "BIKE",
-                    "BOXER",
-                    "CARGO"
+                    "ARROWS",
+                    "EAGLE",
+                    "OLIVE BRANCH",
+                    "SHIELD"
                 ]
             },
             {
                 "level": 2,
-                "group": "NOUNS IN A FAMOUS PALINDROME",
+                "group": "PROPER NOUNS IN BROADWAY MUSICAL TITLES THAT ARE SPOKEN PHRASES",
                 "members": [
-                    "CANAL",
-                    "MAN",
-                    "PANAMA",
-                    "PLAN"
+                    "BIRDIE",
+                    "DOLLY",
+                    "KATE",
+                    "YANKEES"
                 ]
             },
             {
                 "level": 3,
-                "group": "MOVIES FROM 1985",
+                "group": "___MAN",
                 "members": [
-                    "BRAZIL",
-                    "CLUE",
-                    "COMMANDO",
-                    "WITNESS"
+                    "BOGEY",
+                    "CRAFTS",
+                    "GENTLE",
+                    "SPOKES"
                 ]
             }
         ]
