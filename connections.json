@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-03-30",
+        "date": "2025-03-31",
         "answers": [
             {
                 "level": 0,
-                "group": "AVERAGE",
+                "group": "CONSUMED",
                 "members": [
-                    "MEAN",
-                    "NORM",
-                    "PAR",
-                    "STANDARD"
+                    "ATE",
+                    "HAD",
+                    "PUT AWAY",
+                    "TOOK IN"
                 ]
             },
             {
                 "level": 1,
-                "group": "PICTURED ON THE U.S. GREAT SEAL",
+                "group": "ALSO",
                 "members": [
-                    "ARROWS",
-                    "EAGLE",
-                    "OLIVE BRANCH",
-                    "SHIELD"
+                    "AS WELL",
+                    "BESIDES",
+                    "TO BOOT",
+                    "TOO"
                 ]
             },
             {
                 "level": 2,
-                "group": "PROPER NOUNS IN BROADWAY MUSICAL TITLES THAT ARE SPOKEN PHRASES",
+                "group": "ATM OPTIONS",
                 "members": [
-                    "BIRDIE",
-                    "DOLLY",
-                    "KATE",
-                    "YANKEES"
+                    "BALANCE",
+                    "DEPOSIT",
+                    "TRANSFER",
+                    "WITHDRAWAL"
                 ]
             },
             {
                 "level": 3,
-                "group": "___MAN",
+                "group": "___PLAY",
                 "members": [
-                    "BOGEY",
-                    "CRAFTS",
-                    "GENTLE",
-                    "SPOKES"
+                    "FORE",
+                    "HORSE",
+                    "SCREEN",
+                    "WORD"
                 ]
             }
         ]
