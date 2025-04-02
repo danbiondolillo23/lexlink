@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-01",
+        "date": "2025-04-02",
         "answers": [
             {
                 "level": 0,
-                "group": "CURRENCY SYMBOLS",
+                "group": "CAPRICE",
                 "members": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "FANCY",
+                    "IMPULSE",
+                    "LARK",
+                    "WHIM"
                 ]
             },
             {
                 "level": 1,
-                "group": "AND/TOGETHER WITH",
+                "group": "ILK",
                 "members": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "KIND",
+                    "LIKE",
+                    "SORT",
+                    "TYPE"
                 ]
             },
             {
                 "level": 2,
-                "group": "EMOTICON MOUTHS",
+                "group": "WILLIAMSES",
                 "members": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "HANK",
+                    "ROBIN",
+                    "TENNESSEE",
+                    "VENUS"
                 ]
             },
             {
                 "level": 3,
-                "group": "\"RIGHT\"",
+                "group": "WORDS PRONOUNCED DIFFERENTLY AS PROPER NOUNS",
                 "members": [
-                    "",
-                    "",
-                    "",
-                    ""
+                    "HERB",
+                    "JOB",
+                    "NICE",
+                    "READING"
                 ]
             }
         ]
