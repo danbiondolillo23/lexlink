@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-02",
+        "date": "2025-04-03",
         "answers": [
             {
                 "level": 0,
-                "group": "CAPRICE",
+                "group": "PRINTED NOTIFICATION",
                 "members": [
-                    "FANCY",
-                    "IMPULSE",
-                    "LARK",
-                    "WHIM"
+                    "ANNOUNCEMENT",
+                    "BULLETIN",
+                    "NOTICE",
+                    "POSTER"
                 ]
             },
             {
                 "level": 1,
-                "group": "ILK",
+                "group": "SEEN AT A GROCERY CHECKOUT COUNTER",
                 "members": [
-                    "KIND",
-                    "LIKE",
-                    "SORT",
-                    "TYPE"
+                    "CONVEYOR BELT",
+                    "REGISTER",
+                    "SCALE",
+                    "SCANNER"
                 ]
             },
             {
                 "level": 2,
-                "group": "WILLIAMSES",
+                "group": "THINGS WITH TABS",
                 "members": [
-                    "HANK",
-                    "ROBIN",
-                    "TENNESSEE",
-                    "VENUS"
+                    "BROWSER",
+                    "FOLDER",
+                    "KEYBOARD",
+                    "SODA CAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS PRONOUNCED DIFFERENTLY AS PROPER NOUNS",
+                "group": "PALM ___",
                 "members": [
-                    "HERB",
-                    "JOB",
-                    "NICE",
-                    "READING"
+                    "BEACH",
+                    "READER",
+                    "SUNDAY",
+                    "TREE"
                 ]
             }
         ]
