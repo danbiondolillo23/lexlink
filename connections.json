@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-04",
+        "date": "2025-04-05",
         "answers": [
             {
                 "level": 0,
-                "group": "WHAT\u2019S LEFTOVER",
+                "group": "EMPLOY",
                 "members": [
-                    "BALANCE",
-                    "DIFFERENCE",
-                    "REMAINDER",
-                    "REST"
+                    "CONTRACT",
+                    "ENGAGE",
+                    "RETAIN",
+                    "SIGN"
                 ]
             },
             {
                 "level": 1,
-                "group": "CAR TRIP",
+                "group": "PARTS OF A WEBSITE",
                 "members": [
-                    "CRUISE",
-                    "DRIVE",
-                    "RIDE",
-                    "SPIN"
+                    "BANNER",
+                    "HEADER",
+                    "MENU",
+                    "SIDEBAR"
                 ]
             },
             {
                 "level": 2,
-                "group": "BASEBALL VENUES",
+                "group": "MAGAZINES",
                 "members": [
-                    "DIAMOND",
-                    "FIELD",
-                    "PARK",
-                    "STADIUM"
+                    "BILLBOARD",
+                    "PEOPLE",
+                    "STAR",
+                    "TIME"
                 ]
             },
             {
                 "level": 3,
-                "group": "COMPANIES WITH \u201cE\u201d REMOVED",
+                "group": "ENDING WITH MEDIEVAL WEAPONS",
                 "members": [
-                    "BAY",
-                    "HARMONY",
-                    "INK",
-                    "TRADE"
+                    "CROSSWORD",
+                    "GRIMACE",
+                    "RAINBOW",
+                    "SEMBLANCE"
                 ]
             }
         ]
