@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-05",
+        "date": "2025-04-06",
         "answers": [
             {
                 "level": 0,
-                "group": "EMPLOY",
+                "group": "ALOOF",
                 "members": [
-                    "CONTRACT",
-                    "ENGAGE",
-                    "RETAIN",
-                    "SIGN"
+                    "COOL",
+                    "DISTANT",
+                    "REMOTE",
+                    "RESERVED"
                 ]
             },
             {
                 "level": 1,
-                "group": "PARTS OF A WEBSITE",
+                "group": "UTILITIES",
                 "members": [
-                    "BANNER",
-                    "HEADER",
-                    "MENU",
-                    "SIDEBAR"
+                    "CABLE",
+                    "GAS",
+                    "TRASH",
+                    "WATER"
                 ]
             },
             {
                 "level": 2,
-                "group": "MAGAZINES",
+                "group": "WHAT AN ELECTROMETER MEASURES",
                 "members": [
-                    "BILLBOARD",
-                    "PEOPLE",
-                    "STAR",
-                    "TIME"
+                    "CHARGE",
+                    "CURRENT",
+                    "RESISTANCE",
+                    "VOLTAGE"
                 ]
             },
             {
                 "level": 3,
-                "group": "ENDING WITH MEDIEVAL WEAPONS",
+                "group": "___ JOINT",
                 "members": [
-                    "CROSSWORD",
-                    "GRIMACE",
-                    "RAINBOW",
-                    "SEMBLANCE"
+                    "DOVETAIL",
+                    "HIP",
+                    "PIZZA",
+                    "SPIKE LEE"
                 ]
             }
         ]
