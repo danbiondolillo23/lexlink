@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-06",
+        "date": "2025-04-07",
         "answers": [
             {
                 "level": 0,
-                "group": "ALOOF",
+                "group": "THROB",
                 "members": [
-                    "COOL",
-                    "DISTANT",
-                    "REMOTE",
-                    "RESERVED"
+                    "BEAT",
+                    "POUND",
+                    "PULSE",
+                    "THUMP"
                 ]
             },
             {
                 "level": 1,
-                "group": "UTILITIES",
+                "group": "LANDFORMS",
                 "members": [
-                    "CABLE",
-                    "GAS",
-                    "TRASH",
-                    "WATER"
+                    "CAPE",
+                    "CRATER",
+                    "GORGE",
+                    "RIDGE"
                 ]
             },
             {
                 "level": 2,
-                "group": "WHAT AN ELECTROMETER MEASURES",
+                "group": "PICTURE HANGING NEEDS",
                 "members": [
-                    "CHARGE",
-                    "CURRENT",
-                    "RESISTANCE",
-                    "VOLTAGE"
+                    "HAMMER",
+                    "HANGER",
+                    "LEVEL",
+                    "NAIL"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ JOINT",
+                "group": "FOOT___",
                 "members": [
-                    "DOVETAIL",
-                    "HIP",
-                    "PIZZA",
-                    "SPIKE LEE"
+                    "BALL",
+                    "HILLS",
+                    "LOCKER",
+                    "PRINT"
                 ]
             }
         ]
