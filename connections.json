@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-07",
+        "date": "2025-04-08",
         "answers": [
             {
                 "level": 0,
-                "group": "THROB",
+                "group": "PRICK",
                 "members": [
-                    "BEAT",
-                    "POUND",
-                    "PULSE",
-                    "THUMP"
+                    "JAB",
+                    "PIERCE",
+                    "POKE",
+                    "STICK"
                 ]
             },
             {
                 "level": 1,
-                "group": "LANDFORMS",
+                "group": "RADIO LINGO",
                 "members": [
-                    "CAPE",
-                    "CRATER",
-                    "GORGE",
-                    "RIDGE"
+                    "COPY",
+                    "NEGATIVE",
+                    "OVER",
+                    "ROGER"
                 ]
             },
             {
                 "level": 2,
-                "group": "PICTURE HANGING NEEDS",
+                "group": "OLD TESTAMENT BOOKS",
                 "members": [
-                    "HAMMER",
-                    "HANGER",
-                    "LEVEL",
-                    "NAIL"
+                    "DANIEL",
+                    "JOB",
+                    "JUDGES",
+                    "NUMBERS"
                 ]
             },
             {
                 "level": 3,
-                "group": "FOOT___",
+                "group": "WORDS PRONOUNCED \u201cSH\u201d WITHOUT AN \u201cSH\u201d",
                 "members": [
-                    "BALL",
-                    "HILLS",
-                    "LOCKER",
-                    "PRINT"
+                    "SEAN",
+                    "SIOBHAN",
+                    "SUGAR",
+                    "SURE"
                 ]
             }
         ]
