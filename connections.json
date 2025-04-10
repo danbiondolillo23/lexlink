@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-09",
+        "date": "2025-04-10",
         "answers": [
             {
                 "level": 0,
-                "group": "ROUND THREE-DIMENSIONAL OBJECTS",
+                "group": "SHADES OF YELLOW",
                 "members": [
-                    "BALL",
-                    "GLOBE",
-                    "ORB",
-                    "SPHERE"
+                    "CANARY",
+                    "GOLD",
+                    "LEMON",
+                    "MUSTARD"
                 ]
             },
             {
                 "level": 1,
-                "group": "PUNCH",
+                "group": "SUPPLY",
                 "members": [
-                    "POP",
-                    "POUND",
-                    "SLUG",
-                    "SOCK"
+                    "MINE",
+                    "RESERVE",
+                    "STORE",
+                    "WELL"
                 ]
             },
             {
                 "level": 2,
-                "group": "ANIMALS IN THE WITCHES' BREW IN \u201cMACBETH\u201d",
+                "group": "ANTI-SPIRIT OF CHRISTMAS",
                 "members": [
-                    "BAT",
-                    "DOG",
-                    "FROG",
-                    "NEWT"
+                    "BAH",
+                    "COAL",
+                    "GRINCH",
+                    "NAUGHTY"
                 ]
             },
             {
                 "level": 3,
-                "group": "FOX___",
+                "group": "SPANISH WORDS",
                 "members": [
-                    "HOLE",
-                    "HOUND",
-                    "GLOVE",
-                    "TROT"
+                    "ELLA",
+                    "GUSTO",
+                    "MAYO",
+                    "SOY"
                 ]
             }
         ]
