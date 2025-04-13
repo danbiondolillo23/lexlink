@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-12",
+        "date": "2025-04-13",
         "answers": [
             {
                 "level": 0,
-                "group": "SHORT PERIOD OF TIME",
+                "group": "STEAL",
                 "members": [
-                    "BIT",
-                    "FLASH",
-                    "JIFF",
-                    "SEC"
+                    "NICK",
+                    "PINCH",
+                    "POCKET",
+                    "SWIPE"
                 ]
             },
             {
                 "level": 1,
-                "group": "DO WRONG",
+                "group": "ATTENDANCE STATUS",
                 "members": [
-                    "ERR",
-                    "FALL",
-                    "SIN",
-                    "STRAY"
+                    "ABSENT",
+                    "EXCUSED",
+                    "LATE",
+                    "PRESENT"
                 ]
             },
             {
                 "level": 2,
-                "group": "N.B.A. PLAYER",
+                "group": "FONT-MODIFYING WORDS",
                 "members": [
-                    "BUCK",
-                    "NET",
-                    "SPUR",
-                    "SUN"
+                    "GOTHIC",
+                    "ROMAN",
+                    "SANS",
+                    "TYPEWRITER"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTS OF AFRICAN COUNTRIES",
+                "group": "___BERRY",
                 "members": [
-                    "BOTS",
-                    "CAME",
-                    "KEN",
-                    "TAN"
+                    "CAPER",
+                    "ELDER",
+                    "GOOSE",
+                    "LOGAN"
                 ]
             }
         ]
