@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-13",
+        "date": "2025-04-14",
         "answers": [
             {
                 "level": 0,
-                "group": "STEAL",
+                "group": "RESTRICT",
                 "members": [
-                    "NICK",
-                    "PINCH",
-                    "POCKET",
-                    "SWIPE"
+                    "BLOCK",
+                    "CHECK",
+                    "DAM",
+                    "STOP"
                 ]
             },
             {
                 "level": 1,
-                "group": "ATTENDANCE STATUS",
+                "group": "TICKETED EVENTS",
                 "members": [
-                    "ABSENT",
-                    "EXCUSED",
-                    "LATE",
-                    "PRESENT"
+                    "CONCERT",
+                    "GAME",
+                    "MOVIE",
+                    "PLAY"
                 ]
             },
             {
                 "level": 2,
-                "group": "FONT-MODIFYING WORDS",
+                "group": "ASSOCIATED WITH THE GAME THE OREGON TRAIL",
                 "members": [
-                    "GOTHIC",
-                    "ROMAN",
-                    "SANS",
-                    "TYPEWRITER"
+                    "DYSENTERY",
+                    "FORD",
+                    "HUNT",
+                    "OXEN"
                 ]
             },
             {
                 "level": 3,
-                "group": "___BERRY",
+                "group": "WHAT \u201cFORD\u201d MIGHT REFER TO",
                 "members": [
-                    "CAPER",
-                    "ELDER",
-                    "GOOSE",
-                    "LOGAN"
+                    "ACTOR",
+                    "CAR",
+                    "DIRECTOR",
+                    "PRESIDENT"
                 ]
             }
         ]
