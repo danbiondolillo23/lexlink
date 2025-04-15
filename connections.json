@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-14",
+        "date": "2025-04-15",
         "answers": [
             {
                 "level": 0,
-                "group": "RESTRICT",
+                "group": "DESIST",
                 "members": [
-                    "BLOCK",
-                    "CHECK",
-                    "DAM",
-                    "STOP"
+                    "ABSTAIN",
+                    "AVOID",
+                    "CEASE",
+                    "REFRAIN"
                 ]
             },
             {
                 "level": 1,
-                "group": "TICKETED EVENTS",
+                "group": "CARD GAMES",
                 "members": [
-                    "CONCERT",
-                    "GAME",
-                    "MOVIE",
-                    "PLAY"
+                    "BRIDGE",
+                    "HEARTS",
+                    "SPEED",
+                    "SPOONS"
                 ]
             },
             {
                 "level": 2,
-                "group": "ASSOCIATED WITH THE GAME THE OREGON TRAIL",
+                "group": "ELEMENTS OF GREEK DRAMA",
                 "members": [
-                    "DYSENTERY",
-                    "FORD",
-                    "HUNT",
-                    "OXEN"
+                    "CHORUS",
+                    "HERO",
+                    "HUBRIS",
+                    "TRAGEDY"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT \u201cFORD\u201d MIGHT REFER TO",
+                "group": "SECOND WORDS OF \u201cPETER PAN\u201d CHARACTERS",
                 "members": [
-                    "ACTOR",
-                    "CAR",
-                    "DIRECTOR",
-                    "PRESIDENT"
+                    "BELL",
+                    "DARLING",
+                    "HOOK",
+                    "PAN"
                 ]
             }
         ]
