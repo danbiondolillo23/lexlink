@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-16",
+        "date": "2025-04-17",
         "answers": [
             {
                 "level": 0,
-                "group": "BURLESQUE WEAR",
+                "group": "CENTRAL SECTION OF THE BODY",
                 "members": [
-                    "BOA",
-                    "CORSET",
-                    "GARTER",
-                    "STOCKINGS"
+                    "CORE",
+                    "MIDRIFF",
+                    "TORSO",
+                    "TRUNK"
                 ]
             },
             {
                 "level": 1,
-                "group": "MESS UP THE SURFACE OF",
+                "group": "COMPONENTS OF A PIZZA",
                 "members": [
-                    "SCAR",
-                    "SCRAPE",
-                    "SCRATCH",
-                    "SCORE"
+                    "CHEESE",
+                    "CRUST",
+                    "SAUCE",
+                    "TOPPINGS"
                 ]
             },
             {
                 "level": 2,
-                "group": "THEY ROAR",
+                "group": "UNITS OF BEER",
                 "members": [
-                    "CROWD",
-                    "ENGINE",
-                    "KATY PERRY",
-                    "LION"
+                    "CASE",
+                    "FORTY",
+                    "GROWLER",
+                    "SIX-PACK"
                 ]
             },
             {
                 "level": 3,
-                "group": "LATIN DANCES WITH A VOWEL CHANGED",
+                "group": "BASEBALL GREATS",
                 "members": [
-                    "MAMBA",
-                    "MERINGUE",
-                    "SIMBA",
-                    "TANGY"
+                    "BONDS",
+                    "MANTLE",
+                    "TROUT",
+                    "YOUNG"
                 ]
             }
         ]
