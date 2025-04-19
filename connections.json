@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-18",
+        "date": "2025-04-19",
         "answers": [
             {
                 "level": 0,
-                "group": "INTERJECTIONS",
+                "group": "SPOKEN PRESENTATION",
                 "members": [
-                    "BOY",
-                    "GOODNESS",
-                    "MAN",
-                    "WOW"
+                    "ADDRESS",
+                    "LECTURE",
+                    "SPEECH",
+                    "TALK"
                 ]
             },
             {
                 "level": 1,
-                "group": "HORROR MOVIES, WITH \u201cTHE\u201d",
+                "group": "ADJECTIVES FOR A DESERT",
                 "members": [
-                    "BIRDS",
-                    "EXORCIST",
-                    "HAUNTING",
-                    "SHINING"
+                    "DRY",
+                    "HOT",
+                    "SANDY",
+                    "VAST"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS YOU CAN PICK",
+                "group": "DOG BREEDS, INFORMALLY",
                 "members": [
-                    "APPLE",
-                    "BANJO",
-                    "CARD",
-                    "NOSE"
+                    "BULLY",
+                    "CHOW",
+                    "GOLDEN",
+                    "LAB"
                 ]
             },
             {
                 "level": 3,
-                "group": "PERSONAL PROPERTY MINUS \u201cS\u201d",
+                "group": "REPRESENTED BY THREE-DIGIT NUMBERS",
                 "members": [
-                    "BELONGING",
-                    "EFFECT",
-                    "GOOD",
-                    "POSSESSION"
+                    "CANNABIS",
+                    "DEVIL",
+                    "INTRO CLASS",
+                    "JAMES BOND"
                 ]
             }
         ]
