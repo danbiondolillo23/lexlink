@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-19",
+        "date": "2025-04-20",
         "answers": [
             {
                 "level": 0,
-                "group": "SPOKEN PRESENTATION",
+                "group": "GLIMPSE",
                 "members": [
-                    "ADDRESS",
-                    "LECTURE",
-                    "SPEECH",
-                    "TALK"
+                    "GANDER",
+                    "GLANCE",
+                    "LOOK",
+                    "PEEP"
                 ]
             },
             {
                 "level": 1,
-                "group": "ADJECTIVES FOR A DESERT",
+                "group": "NEEDS FOR TIE-DYEING A SHIRT",
                 "members": [
-                    "DRY",
-                    "HOT",
-                    "SANDY",
-                    "VAST"
+                    "BASIN",
+                    "DYE",
+                    "RUBBER BANDS",
+                    "SHIRT"
                 ]
             },
             {
                 "level": 2,
-                "group": "DOG BREEDS, INFORMALLY",
+                "group": "THINGS YOU CAN CRACK",
                 "members": [
-                    "BULLY",
-                    "CHOW",
-                    "GOLDEN",
-                    "LAB"
+                    "CODE",
+                    "EGG",
+                    "JOKE",
+                    "WHIP"
                 ]
             },
             {
                 "level": 3,
-                "group": "REPRESENTED BY THREE-DIGIT NUMBERS",
+                "group": "WORDS BEFORE \u201cHOP\u201d",
                 "members": [
-                    "CANNABIS",
-                    "DEVIL",
-                    "INTRO CLASS",
-                    "JAMES BOND"
+                    "BAR",
+                    "BUNNY",
+                    "HIP",
+                    "SOCK"
                 ]
             }
         ]
