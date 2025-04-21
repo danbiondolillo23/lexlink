@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-20",
+        "date": "2025-04-21",
         "answers": [
             {
                 "level": 0,
-                "group": "GLIMPSE",
+                "group": "INFO ON A NUTRITION LABEL",
                 "members": [
-                    "GANDER",
-                    "GLANCE",
-                    "LOOK",
-                    "PEEP"
+                    "FAT",
+                    "IRON",
+                    "PROTEIN",
+                    "SODIUM"
                 ]
             },
             {
                 "level": 1,
-                "group": "NEEDS FOR TIE-DYEING A SHIRT",
+                "group": "METAPHOR FOR SOMETHING UNEXPECTED",
                 "members": [
-                    "BASIN",
-                    "DYE",
-                    "RUBBER BANDS",
-                    "SHIRT"
+                    "BOMBSHELL",
+                    "CURVEBALL",
+                    "TWIST",
+                    "WRENCH"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS YOU CAN CRACK",
+                "group": "THINGS YOU CAN INSERT INTO A SPREADSHEET",
                 "members": [
-                    "CODE",
-                    "EGG",
-                    "JOKE",
-                    "WHIP"
+                    "CELL",
+                    "COLUMN",
+                    "ROW",
+                    "SHEET"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS BEFORE \u201cHOP\u201d",
+                "group": "HELICAL THINGS",
                 "members": [
-                    "BAR",
-                    "BUNNY",
-                    "HIP",
-                    "SOCK"
+                    "CORKSCREW",
+                    "DNA",
+                    "FUSILLI",
+                    "SPRING"
                 ]
             }
         ]
