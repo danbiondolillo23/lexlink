@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-21",
+        "date": "2025-04-22",
         "answers": [
             {
                 "level": 0,
-                "group": "INFO ON A NUTRITION LABEL",
+                "group": "CANCEL, AS A PROJECT",
                 "members": [
-                    "FAT",
-                    "IRON",
-                    "PROTEIN",
-                    "SODIUM"
+                    "AXE",
+                    "CUT",
+                    "DROP",
+                    "SCRAP"
                 ]
             },
             {
                 "level": 1,
-                "group": "METAPHOR FOR SOMETHING UNEXPECTED",
+                "group": "SEEN IN A POTTERY STUDIO",
                 "members": [
-                    "BOMBSHELL",
-                    "CURVEBALL",
-                    "TWIST",
-                    "WRENCH"
+                    "CLAY",
+                    "GLAZE",
+                    "KILN",
+                    "WHEEL"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS YOU CAN INSERT INTO A SPREADSHEET",
+                "group": "THINGS THAT ARE SLIPPERY",
                 "members": [
-                    "CELL",
-                    "COLUMN",
-                    "ROW",
-                    "SHEET"
+                    "BANANA PEEL",
+                    "EEL",
+                    "GREASE",
+                    "ICE"
                 ]
             },
             {
                 "level": 3,
-                "group": "HELICAL THINGS",
+                "group": "NATURAL PRODUCERS OF HEAT",
                 "members": [
-                    "CORKSCREW",
-                    "DNA",
-                    "FUSILLI",
-                    "SPRING"
+                    "FIRE",
+                    "LIGHTNING",
+                    "SUN",
+                    "VOLCANO"
                 ]
             }
         ]
