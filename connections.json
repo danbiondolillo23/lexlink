@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-22",
+        "date": "2025-04-23",
         "answers": [
             {
                 "level": 0,
-                "group": "CANCEL, AS A PROJECT",
+                "group": "PARTS OF A TREE",
                 "members": [
-                    "AXE",
-                    "CUT",
-                    "DROP",
-                    "SCRAP"
+                    "BRANCH",
+                    "LEAF",
+                    "ROOT",
+                    "TRUNK"
                 ]
             },
             {
                 "level": 1,
-                "group": "SEEN IN A POTTERY STUDIO",
+                "group": "CANINE/FELINE FEATURES",
                 "members": [
-                    "CLAY",
-                    "GLAZE",
-                    "KILN",
-                    "WHEEL"
+                    "FUR",
+                    "MUZZLE",
+                    "PAW",
+                    "TAIL"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS THAT ARE SLIPPERY",
+                "group": "COMEDIC ROUTINE",
                 "members": [
-                    "BANANA PEEL",
-                    "EEL",
-                    "GREASE",
-                    "ICE"
+                    "ACT",
+                    "BIT",
+                    "GAG",
+                    "SKETCH"
                 ]
             },
             {
                 "level": 3,
-                "group": "NATURAL PRODUCERS OF HEAT",
+                "group": "___POLE",
                 "members": [
-                    "FIRE",
-                    "LIGHTNING",
-                    "SUN",
-                    "VOLCANO"
+                    "BEAN",
+                    "FLAG",
+                    "MAY",
+                    "TAD"
                 ]
             }
         ]
