@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-24",
+        "date": "2025-04-25",
         "answers": [
             {
                 "level": 0,
-                "group": "THINGS THAT ARE WHITE",
+                "group": "GUM FLAVORS",
                 "members": [
-                    "BABY POWDER",
-                    "MILK",
-                    "POLAR BEAR",
-                    "SNOW"
+                    "BUBBLEGUM",
+                    "CINNAMON",
+                    "MENTHOL",
+                    "WINTERGREEN"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF LETTUCE",
+                "group": "STARTING POINT",
                 "members": [
-                    "BUTTER",
-                    "ICEBERG",
-                    "LEAF",
-                    "ROMAINE"
+                    "CATALYST",
+                    "LAUNCHPAD",
+                    "SPARK",
+                    "SPRINGBOARD"
                 ]
             },
             {
                 "level": 2,
-                "group": "\u201cBATMAN\u201d VILLAINS",
+                "group": "GREAT AMERICAN SONGBOOK SONGS",
                 "members": [
-                    "BANE",
-                    "JOKER",
-                    "PENGUIN",
-                    "SCARECROW"
+                    "AUTUMN LEAVES",
+                    "SUMMERTIME",
+                    "UNFORGETTABLE",
+                    "WITCHCRAFT"
                 ]
             },
             {
                 "level": 3,
-                "group": "THEY HAVE LITERAL/IDIOMATIC EARS",
+                "group": "___ TUBE",
                 "members": [
-                    "CORNFIELD",
-                    "MUSICIANS",
-                    "PITCHERS",
-                    "WALLS"
+                    "FALLOPIAN",
+                    "INNER",
+                    "TEST",
+                    "VACUUM"
                 ]
             }
         ]
