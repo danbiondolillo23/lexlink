@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-25",
+        "date": "2025-04-26",
         "answers": [
             {
                 "level": 0,
-                "group": "GUM FLAVORS",
+                "group": "TINT",
                 "members": [
-                    "BUBBLEGUM",
-                    "CINNAMON",
-                    "MENTHOL",
-                    "WINTERGREEN"
+                    "COLOR",
+                    "HUE",
+                    "SHADE",
+                    "TONE"
                 ]
             },
             {
                 "level": 1,
-                "group": "STARTING POINT",
+                "group": "VALLEY",
                 "members": [
-                    "CATALYST",
-                    "LAUNCHPAD",
-                    "SPARK",
-                    "SPRINGBOARD"
+                    "DALE",
+                    "DELL",
+                    "GLEN",
+                    "HOLLOW"
                 ]
             },
             {
                 "level": 2,
-                "group": "GREAT AMERICAN SONGBOOK SONGS",
+                "group": "BOBS",
                 "members": [
-                    "AUTUMN LEAVES",
-                    "SUMMERTIME",
-                    "UNFORGETTABLE",
-                    "WITCHCRAFT"
+                    "DOLE",
+                    "HOPE",
+                    "MARLEY",
+                    "ROSS"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ TUBE",
+                "group": "COLOR ANAGRAMS",
                 "members": [
-                    "FALLOPIAN",
-                    "INNER",
-                    "TEST",
-                    "VACUUM"
+                    "DRE",
+                    "GARY",
+                    "GENRE",
+                    "LUBE"
                 ]
             }
         ]
