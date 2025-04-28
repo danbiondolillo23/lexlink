@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-27",
+        "date": "2025-04-28",
         "answers": [
             {
                 "level": 0,
-                "group": "CALCULATOR BUTTONS",
+                "group": "HAIR PRODUCTS",
                 "members": [
-                    "EQUALS",
-                    "MINUS",
-                    "PERCENT",
-                    "TIMES"
+                    "GEL",
+                    "MOUSSE",
+                    "SPRAY",
+                    "WAX"
                 ]
             },
             {
                 "level": 1,
-                "group": "AMOUNTS OF HAIR",
+                "group": "AUSTERE",
                 "members": [
-                    "LOCK",
-                    "SHOCK",
-                    "THATCH",
-                    "TUFT"
+                    "BARE",
+                    "PLAIN",
+                    "SIMPLE",
+                    "SPARE"
                 ]
             },
             {
                 "level": 2,
-                "group": "SALTY SNACK UNIT",
+                "group": "CLUES AT A CRIME SCENE",
                 "members": [
-                    "COMBO",
-                    "GOLDFISH",
-                    "RUFFLE",
-                    "TAKI"
+                    "FIBER",
+                    "FINGERPRINT",
+                    "HAIR",
+                    "TIRE MARK"
                 ]
             },
             {
                 "level": 3,
-                "group": "SWEDISH ___",
+                "group": "WEARY",
                 "members": [
-                    "CHEF",
-                    "FISH",
-                    "MASSAGE",
-                    "MEATBALL"
+                    "BORE",
+                    "DRAIN",
+                    "EXHAUST",
+                    "TIRE"
                 ]
             }
         ]
