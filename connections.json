@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-28",
+        "date": "2025-04-29",
         "answers": [
             {
                 "level": 0,
-                "group": "HAIR PRODUCTS",
+                "group": "COOKING CONCOCTIONS",
                 "members": [
-                    "GEL",
-                    "MOUSSE",
-                    "SPRAY",
-                    "WAX"
+                    "BATTER",
+                    "DOUGH",
+                    "MIXTURE",
+                    "PASTE"
                 ]
             },
             {
                 "level": 1,
-                "group": "AUSTERE",
+                "group": "SEEN ON A TABLE AT A DINNER PARTY",
                 "members": [
-                    "BARE",
-                    "PLAIN",
-                    "SIMPLE",
-                    "SPARE"
+                    "CANDLESTICK",
+                    "PITCHER",
+                    "PLACEMAT",
+                    "PLATE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CLUES AT A CRIME SCENE",
+                "group": "THINGS TO CLIMB",
                 "members": [
-                    "FIBER",
-                    "FINGERPRINT",
-                    "HAIR",
-                    "TIRE MARK"
+                    "LADDER",
+                    "MOUNTAIN",
+                    "ROPE",
+                    "TREE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WEARY",
+                "group": "WHAT \"DIAMOND\" CAN REFER TO",
                 "members": [
-                    "BORE",
-                    "DRAIN",
-                    "EXHAUST",
-                    "TIRE"
+                    "GEMSTONE",
+                    "INFIELD",
+                    "RHOMBUS",
+                    "SUIT"
                 ]
             }
         ]
