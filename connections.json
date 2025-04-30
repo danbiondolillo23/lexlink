@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-04-29",
+        "date": "2025-04-30",
         "answers": [
             {
                 "level": 0,
-                "group": "COOKING CONCOCTIONS",
+                "group": "PARTS OF A SHOE",
                 "members": [
-                    "BATTER",
-                    "DOUGH",
-                    "MIXTURE",
-                    "PASTE"
+                    "HEEL",
+                    "SOLE",
+                    "TONGUE",
+                    "UPPER"
                 ]
             },
             {
                 "level": 1,
-                "group": "SEEN ON A TABLE AT A DINNER PARTY",
+                "group": "ACCOMMODATION",
                 "members": [
-                    "CANDLESTICK",
-                    "PITCHER",
-                    "PLACEMAT",
-                    "PLATE"
+                    "CAPACITY",
+                    "CHAIRS",
+                    "ROOM",
+                    "SEATING"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS TO CLIMB",
+                "group": "REPUTATION",
                 "members": [
-                    "LADDER",
-                    "MOUNTAIN",
-                    "ROPE",
-                    "TREE"
+                    "FACE",
+                    "IMAGE",
+                    "REGARD",
+                    "STANDING"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT \"DIAMOND\" CAN REFER TO",
+                "group": "ENDING WITH SYNONYMS FOR \u201cYUCK\u201d",
                 "members": [
-                    "GEMSTONE",
-                    "INFIELD",
-                    "RHOMBUS",
-                    "SUIT"
+                    "DYNASTY",
+                    "ENGROSS",
+                    "GIMMICK",
+                    "MILDEW"
                 ]
             }
         ]
