@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-03",
+        "date": "2025-05-04",
         "answers": [
             {
                 "level": 0,
-                "group": "AWESOME",
+                "group": "QUALITIES OF OVERCOOKED MEAT",
                 "members": [
-                    "DOPE",
-                    "FIRE",
-                    "LIT",
-                    "SICK"
+                    "CHEWY",
+                    "DRY",
+                    "STRINGY",
+                    "TOUGH"
                 ]
             },
             {
                 "level": 1,
-                "group": "DEFEAT SOUNDLY",
+                "group": "PLAY SOME ELECTRIC GUITAR",
                 "members": [
-                    "CREAM",
-                    "LICK",
-                    "PASTE",
-                    "SMOKE"
+                    "JAM",
+                    "NOODLE",
+                    "SHRED",
+                    "SOLO"
                 ]
             },
             {
                 "level": 2,
-                "group": "\u201cWILL\u201d CONTRACTIONS WITHOUT THE APOSTROPHE",
+                "group": "INGREDIENTS IN BUBBLE TEA",
                 "members": [
-                    "HELL",
-                    "ILL",
-                    "SHELL",
-                    "WELL"
+                    "BOBA",
+                    "MILK",
+                    "SUGAR",
+                    "TEA"
                 ]
             },
             {
                 "level": 3,
-                "group": "URL ENDINGS PLUS A LETTER",
+                "group": "PLANETS/DWARF PLANET WITH FIRST LETTER CHANGED",
                 "members": [
-                    "COMP",
-                    "MILK",
-                    "NETI",
-                    "ORGO"
+                    "BLUTO",
+                    "CARS",
+                    "DARTH",
+                    "GENUS"
                 ]
             }
         ]
