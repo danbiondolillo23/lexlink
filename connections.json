@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-04",
+        "date": "2025-05-05",
         "answers": [
             {
                 "level": 0,
-                "group": "QUALITIES OF OVERCOOKED MEAT",
+                "group": "GLIDE",
                 "members": [
-                    "CHEWY",
-                    "DRY",
-                    "STRINGY",
-                    "TOUGH"
+                    "COAST",
+                    "CRUISE",
+                    "DRIFT",
+                    "FLOAT"
                 ]
             },
             {
                 "level": 1,
-                "group": "PLAY SOME ELECTRIC GUITAR",
+                "group": "ASSOCIATED WITH COUNT DRACULA",
                 "members": [
-                    "JAM",
-                    "NOODLE",
-                    "SHRED",
-                    "SOLO"
+                    "BAT",
+                    "CAPE",
+                    "CASTLE",
+                    "FANG"
                 ]
             },
             {
                 "level": 2,
-                "group": "INGREDIENTS IN BUBBLE TEA",
+                "group": "STOP CHANGING",
                 "members": [
-                    "BOBA",
-                    "MILK",
-                    "SUGAR",
-                    "TEA"
+                    "FLATTEN",
+                    "LEVEL",
+                    "PLATEAU",
+                    "SETTLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "PLANETS/DWARF PLANET WITH FIRST LETTER CHANGED",
+                "group": "THINGS THAT ARE LONG AND CYLINDRICAL",
                 "members": [
-                    "BLUTO",
-                    "CARS",
-                    "DARTH",
-                    "GENUS"
+                    "BATON",
+                    "CIGAR",
+                    "HOAGIE",
+                    "TORPEDO"
                 ]
             }
         ]
