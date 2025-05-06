@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-05",
+        "date": "2025-05-06",
         "answers": [
             {
                 "level": 0,
-                "group": "GLIDE",
+                "group": "SILENCE",
                 "members": [
-                    "COAST",
-                    "CRUISE",
-                    "DRIFT",
-                    "FLOAT"
+                    "CALM",
+                    "HUSH",
+                    "PEACE",
+                    "STILL"
                 ]
             },
             {
                 "level": 1,
-                "group": "ASSOCIATED WITH COUNT DRACULA",
+                "group": "TENNIS COMPETITION UNITS",
                 "members": [
-                    "BAT",
-                    "CAPE",
-                    "CASTLE",
-                    "FANG"
+                    "GAME",
+                    "MATCH",
+                    "SET",
+                    "TOURNAMENT"
                 ]
             },
             {
                 "level": 2,
-                "group": "STOP CHANGING",
+                "group": "COMPARATIVELY SMALL",
                 "members": [
-                    "FLATTEN",
-                    "LEVEL",
-                    "PLATEAU",
-                    "SETTLE"
+                    "BABY",
+                    "COMPACT",
+                    "MINUTE",
+                    "TOY"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS THAT ARE LONG AND CYLINDRICAL",
+                "group": "STARTING WITH SYNONYMS FOR \u201cTEASE\u201d",
                 "members": [
-                    "BATON",
-                    "CIGAR",
-                    "HOAGIE",
-                    "TORPEDO"
+                    "KIDNEY",
+                    "MOCKINGBIRD",
+                    "RAZZMATAZZ",
+                    "RIBBON"
                 ]
             }
         ]
