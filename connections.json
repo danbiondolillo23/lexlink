@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-09",
+        "date": "2025-05-10",
         "answers": [
             {
                 "level": 0,
-                "group": "TV DISPLAY SETTINGS",
+                "group": "LETTER SIGN-OFFS",
                 "members": [
-                    "BRIGHTNESS",
-                    "COLOR",
-                    "CONTRAST",
-                    "TINT"
+                    "BEST",
+                    "CHEERS",
+                    "LOVE",
+                    "SINCERELY"
                 ]
             },
             {
                 "level": 1,
-                "group": "FUZZY, AS A MEMORY",
+                "group": "WITHOUT",
                 "members": [
-                    "DIM",
-                    "FAINT",
-                    "REMOTE",
-                    "VAGUE"
+                    "ABSENT",
+                    "MINUS",
+                    "SANS",
+                    "WANTING"
                 ]
             },
             {
                 "level": 2,
-                "group": "RESULTS OF SOME ARITHMETIC",
+                "group": "VIGOR",
                 "members": [
-                    "DIFFERENCE",
-                    "PRODUCT",
-                    "QUOTIENT",
-                    "SUM"
+                    "BEANS",
+                    "ENERGY",
+                    "PEP",
+                    "ZIP"
                 ]
             },
             {
                 "level": 3,
-                "group": "WINDOW TREATMENTS IN THE SINGULAR",
+                "group": "___ STRIP",
                 "members": [
-                    "BLIND",
-                    "DRAPE",
-                    "SHADE",
-                    "SHUTTER"
+                    "BACON",
+                    "COMIC",
+                    "LANDING",
+                    "SUNSET"
                 ]
             }
         ]
