@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-10",
+        "date": "2025-05-11",
         "answers": [
             {
                 "level": 0,
-                "group": "LETTER SIGN-OFFS",
+                "group": "MAKE HAPPY",
                 "members": [
-                    "BEST",
-                    "CHEERS",
-                    "LOVE",
-                    "SINCERELY"
+                    "DELIGHT",
+                    "PLEASE",
+                    "SUIT",
+                    "TICKLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "WITHOUT",
+                "group": "EVADE",
                 "members": [
-                    "ABSENT",
-                    "MINUS",
-                    "SANS",
-                    "WANTING"
+                    "DODGE",
+                    "DUCK",
+                    "SHAKE",
+                    "SKIRT"
                 ]
             },
             {
                 "level": 2,
-                "group": "VIGOR",
+                "group": "COMMON VIDEO GAME FEATURES",
                 "members": [
-                    "BEANS",
-                    "ENERGY",
-                    "PEP",
-                    "ZIP"
+                    "BOSS",
+                    "LEVEL",
+                    "HEALTH",
+                    "POWER-UP"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ STRIP",
+                "group": "MOTHER ___",
                 "members": [
-                    "BACON",
-                    "COMIC",
-                    "LANDING",
-                    "SUNSET"
+                    "EARTH",
+                    "GOOSE",
+                    "MAY I",
+                    "SUPERIOR"
                 ]
             }
         ]
