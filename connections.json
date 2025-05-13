@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-12",
+        "date": "2025-05-13",
         "answers": [
             {
                 "level": 0,
-                "group": "PLACES TO FIND PAPER MONEY",
+                "group": "PLACES TO SHOP",
                 "members": [
-                    "ATM",
-                    "CASH REGISTER",
-                    "TIP JAR",
-                    "WALLET"
+                    "BAZAAR",
+                    "FAIR",
+                    "MARKET",
+                    "OUTLET"
                 ]
             },
             {
                 "level": 1,
-                "group": "REBOUND",
+                "group": "KINDS OF PIZZA",
                 "members": [
-                    "BANK",
-                    "BOUNCE",
-                    "CAROM",
-                    "RICOCHET"
+                    "HAWAIIAN",
+                    "PLAIN",
+                    "SUPREME",
+                    "VEGGIE"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS TRACKED BY WEB ANALYTICS",
+                "group": "ENDING WITH COLORS",
                 "members": [
-                    "CLICK",
-                    "HIT",
-                    "PAGE VIEW",
-                    "VISIT"
+                    "EVERGREEN",
+                    "INFRARED",
+                    "MARIGOLD",
+                    "QUICKSILVER"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS YOU CAN DO WITH YOUR LIPS",
+                "group": "___ CLEANER",
                 "members": [
-                    "CURL",
-                    "PUCKER",
-                    "PURSE",
-                    "SMACK"
+                    "BATHROOM",
+                    "DRY",
+                    "PIPE",
+                    "VACUUM"
                 ]
             }
         ]
