@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-13",
+        "date": "2025-05-14",
         "answers": [
             {
                 "level": 0,
-                "group": "PLACES TO SHOP",
+                "group": "ABSORB USING CAPILLARY ACTION",
                 "members": [
-                    "BAZAAR",
-                    "FAIR",
-                    "MARKET",
-                    "OUTLET"
+                    "DRAW",
+                    "PULL",
+                    "SUCK",
+                    "WICK"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF PIZZA",
+                "group": "GREEK PREFIXES",
                 "members": [
-                    "HAWAIIAN",
-                    "PLAIN",
-                    "SUPREME",
-                    "VEGGIE"
+                    "HYPER",
+                    "KILO",
+                    "META",
+                    "NEO"
                 ]
             },
             {
                 "level": 2,
-                "group": "ENDING WITH COLORS",
+                "group": "TITULAR TALKING ANIMALS OF FILM",
                 "members": [
-                    "EVERGREEN",
-                    "INFRARED",
-                    "MARIGOLD",
-                    "QUICKSILVER"
+                    "BABE",
+                    "BOLT",
+                    "DUMBO",
+                    "TED"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ CLEANER",
+                "group": "STARTING WITH SILENT LETTERS",
                 "members": [
-                    "BATHROOM",
-                    "DRY",
-                    "PIPE",
-                    "VACUUM"
+                    "GNOME",
+                    "KNEE",
+                    "MNEMONIC",
+                    "PSYCHE"
                 ]
             }
         ]
