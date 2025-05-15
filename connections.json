@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-14",
+        "date": "2025-05-15",
         "answers": [
             {
                 "level": 0,
-                "group": "ABSORB USING CAPILLARY ACTION",
+                "group": "RATIONALE",
                 "members": [
-                    "DRAW",
-                    "PULL",
-                    "SUCK",
-                    "WICK"
+                    "BASIS",
+                    "FOUNDATION",
+                    "GROUNDS",
+                    "REASON"
                 ]
             },
             {
                 "level": 1,
-                "group": "GREEK PREFIXES",
+                "group": "TYPES OF SNOW",
                 "members": [
-                    "HYPER",
-                    "KILO",
-                    "META",
-                    "NEO"
+                    "CRUST",
+                    "ICE",
+                    "POWDER",
+                    "SLUSH"
                 ]
             },
             {
                 "level": 2,
-                "group": "TITULAR TALKING ANIMALS OF FILM",
+                "group": "LAST WORDS OF FAMOUS OPERA TITLES",
                 "members": [
-                    "BABE",
-                    "BOLT",
-                    "DUMBO",
-                    "TED"
+                    "BESS",
+                    "BUTTERFLY",
+                    "FLUTE",
+                    "SEVILLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH SILENT LETTERS",
+                "group": "REAL ___",
                 "members": [
-                    "GNOME",
-                    "KNEE",
-                    "MNEMONIC",
-                    "PSYCHE"
+                    "DEAL",
+                    "ESTATE",
+                    "MADRID",
+                    "WORLD"
                 ]
             }
         ]
