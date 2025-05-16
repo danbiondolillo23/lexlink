@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-15",
+        "date": "2025-05-16",
         "answers": [
             {
                 "level": 0,
-                "group": "RATIONALE",
+                "group": "KINDS OF PLANTS",
                 "members": [
-                    "BASIS",
-                    "FOUNDATION",
-                    "GROUNDS",
-                    "REASON"
+                    "HERB",
+                    "SHRUB",
+                    "TREE",
+                    "VINE"
                 ]
             },
             {
                 "level": 1,
-                "group": "TYPES OF SNOW",
+                "group": "DISCONTINUE",
                 "members": [
-                    "CRUST",
-                    "ICE",
-                    "POWDER",
-                    "SLUSH"
+                    "DISSOLVE",
+                    "END",
+                    "SCRAP",
+                    "SUNSET"
                 ]
             },
             {
                 "level": 2,
-                "group": "LAST WORDS OF FAMOUS OPERA TITLES",
+                "group": "ASSOCIATED WITH BULLS",
                 "members": [
-                    "BESS",
-                    "BUTTERFLY",
-                    "FLUTE",
-                    "SEVILLE"
+                    "MICHAEL JORDAN",
+                    "RODEO",
+                    "TAURUS",
+                    "WALL STREET"
                 ]
             },
             {
                 "level": 3,
-                "group": "REAL ___",
+                "group": "ENDING WITH BUILDING MATERIALS",
                 "members": [
-                    "DEAL",
-                    "ESTATE",
-                    "MADRID",
-                    "WORLD"
+                    "HOLLYWOOD",
+                    "HOURGLASS",
+                    "KUBRICK",
+                    "NEUROPLASTIC"
                 ]
             }
         ]
