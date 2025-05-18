@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-17",
+        "date": "2025-05-18",
         "answers": [
             {
                 "level": 0,
-                "group": "MEMBER OF A KINGDOM IN TAXONOMY",
+                "group": "TASKS FOR A STUDENT",
                 "members": [
-                    "ANIMAL",
-                    "BACTERIA",
-                    "FUNGUS",
-                    "PLANT"
+                    "ASSIGNMENT",
+                    "DRILL",
+                    "EXERCISE",
+                    "LESSON"
                 ]
             },
             {
                 "level": 1,
-                "group": "GRADUATED INSTRUMENTS",
+                "group": "ENCOURAGING RESPONSES IN A GUESSING GAME",
                 "members": [
-                    "BEAKER",
-                    "PROTRACTOR",
-                    "RULER",
-                    "SYRINGE"
+                    "ALMOST",
+                    "CLOSE",
+                    "NOT QUITE",
+                    "WARM"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF PENGUINS",
+                "group": "UP FOR ANYTHING",
                 "members": [
-                    "CHINSTRAP",
-                    "EMPEROR",
-                    "KING",
-                    "MACARONI"
+                    "EASY",
+                    "FLEXIBLE",
+                    "GAME",
+                    "OPEN"
                 ]
             },
             {
                 "level": 3,
-                "group": "\u201cE\u201d THINGS",
+                "group": "WHAT \u201cA\u201d MIGHT MEAN",
                 "members": [
-                    "COMMERCE",
-                    "MAIL",
-                    "SCOOTER",
-                    "SIGNATURE"
+                    "AREA",
+                    "ATHLETIC",
+                    "EXCELLENT",
+                    "ONE"
                 ]
             }
         ]
