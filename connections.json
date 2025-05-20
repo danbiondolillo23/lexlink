@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-19",
+        "date": "2025-05-20",
         "answers": [
             {
                 "level": 0,
-                "group": "FUNDRAISING EVENT",
+                "group": "ACCOUNT BOOK",
                 "members": [
-                    "BALL",
-                    "BENEFIT",
-                    "GALA",
-                    "FUNCTION"
+                    "LEDGER",
+                    "LOG",
+                    "RECORD",
+                    "REGISTER"
                 ]
             },
             {
                 "level": 1,
-                "group": "SPACES ON A MONOPOLY BOARD",
+                "group": "SEEN IN A BARN",
                 "members": [
-                    "AVENUE",
-                    "CHANCE",
-                    "RAILROAD",
-                    "UTILITY"
+                    "BALE",
+                    "HORSE",
+                    "PITCHFORK",
+                    "TROUGH"
                 ]
             },
             {
                 "level": 2,
-                "group": "FEATURES OF A TOOTHED WHALE",
+                "group": "DETECTIVES OF KID-LIT",
                 "members": [
-                    "BLUBBER",
-                    "FLIPPER",
-                    "FLUKE",
-                    "MELON"
+                    "BROWN",
+                    "DREW",
+                    "HARDY",
+                    "HOLMES"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOMOPHONES OF PARTS OF THE FOOT",
+                "group": "WORDS BEFORE \u201cBED\u201d",
                 "members": [
-                    "BAWL",
-                    "HEAL",
-                    "SOUL",
-                    "TOW"
+                    "CANOPY",
+                    "DAY",
+                    "MURPHY",
+                    "WATER"
                 ]
             }
         ]
