@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-20",
+        "date": "2025-05-21",
         "answers": [
             {
                 "level": 0,
-                "group": "ACCOUNT BOOK",
+                "group": "PROHIBIT, AS ENTRY",
                 "members": [
-                    "LEDGER",
-                    "LOG",
-                    "RECORD",
-                    "REGISTER"
+                    "BAR",
+                    "BLOCK",
+                    "DENY",
+                    "REFUSE"
                 ]
             },
             {
                 "level": 1,
-                "group": "SEEN IN A BARN",
+                "group": "FOLDERS ON A MAC",
                 "members": [
-                    "BALE",
-                    "HORSE",
-                    "PITCHFORK",
-                    "TROUGH"
+                    "DESKTOP",
+                    "MUSIC",
+                    "PICTURES",
+                    "TRASH"
                 ]
             },
             {
                 "level": 2,
-                "group": "DETECTIVES OF KID-LIT",
+                "group": "MEDICINE FORMATS",
                 "members": [
-                    "BROWN",
-                    "DREW",
-                    "HARDY",
-                    "HOLMES"
+                    "CREAM",
+                    "PATCH",
+                    "SPRAY",
+                    "TABLET"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS BEFORE \u201cBED\u201d",
+                "group": "THINGS THAT OPEN LIKE A CLAM",
                 "members": [
-                    "CANOPY",
-                    "DAY",
-                    "MURPHY",
-                    "WATER"
+                    "CLAM",
+                    "COMPACT",
+                    "LAPTOP",
+                    "WAFFLE IRON"
                 ]
             }
         ]
