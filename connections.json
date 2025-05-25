@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-24",
+        "date": "2025-05-25",
         "answers": [
             {
                 "level": 0,
-                "group": "BABY GEAR",
+                "group": "PLAYING CARDS",
                 "members": [
-                    "BIB",
-                    "BOTTLE",
-                    "MONITOR",
-                    "STROLLER"
+                    "ACE",
+                    "JACK",
+                    "KING",
+                    "QUEEN"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF PANTS MINUS \"S\"",
+                "group": "DOPPELG\u00c4NGER",
                 "members": [
-                    "CAPRI",
-                    "JEAN",
-                    "JOGGER",
-                    "SLACK"
+                    "CLONE",
+                    "DOUBLE",
+                    "RINGER",
+                    "TWIN"
                 ]
             },
             {
                 "level": 2,
-                "group": "NEW YORK SPORTS TEAM MEMBERS",
+                "group": "EAR PIERCING SITES",
                 "members": [
-                    "JET",
-                    "MET",
-                    "NET",
-                    "RANGER"
+                    "CONCH",
+                    "HELIX",
+                    "LOBE",
+                    "ROOK"
                 ]
             },
             {
                 "level": 3,
-                "group": "BLACK WOMEN AUTHORS",
+                "group": "___ MAIL",
                 "members": [
-                    "BUTLER",
-                    "GAY",
-                    "HOOKS",
-                    "WALKER"
+                    "CHAIN",
+                    "ELECTRONIC",
+                    "JUNK",
+                    "SNAIL"
                 ]
             }
         ]
