@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-27",
+        "date": "2025-05-28",
         "answers": [
             {
                 "level": 0,
-                "group": "ROUND FLAT THINGS",
+                "group": "CONNECT",
                 "members": [
-                    "COASTER",
-                    "FRISBEE",
-                    "PANCAKE",
-                    "RECORD"
+                    "BRIDGE",
+                    "JOIN",
+                    "LINK",
+                    "UNITE"
                 ]
             },
             {
                 "level": 1,
-                "group": "AIRPORT FEATURES",
+                "group": "PARTS OF A BIKE",
                 "members": [
-                    "CAROUSEL",
-                    "FOOD COURT",
-                    "GATE",
-                    "LOUNGE"
+                    "CHAIN",
+                    "PEDAL",
+                    "SADDLE",
+                    "WHEEL"
                 ]
             },
             {
                 "level": 2,
-                "group": "GUITAR PLAYING TECHNIQUES",
+                "group": "BEST PICTURE WINNERS SINCE 2000",
                 "members": [
-                    "BEND",
-                    "PICK",
-                    "SLIDE",
-                    "STRUM"
+                    "CHICAGO",
+                    "CRASH",
+                    "GLADIATOR",
+                    "MOONLIGHT"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT CHARACTERS WERE TRANSFORMED INTO IN \u201cBEAUTY AND THE BEAST\u201d",
+                "group": "MUSIC GENRES PLUS A LETTER",
                 "members": [
-                    "BEAST",
-                    "CANDELABRA",
-                    "CLOCK",
-                    "TEACUP"
+                    "BLUEST",
+                    "POPE",
+                    "ROCKY",
+                    "SKAT"
                 ]
             }
         ]
