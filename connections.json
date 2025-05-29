@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-05-28",
+        "date": "2025-05-29",
         "answers": [
             {
                 "level": 0,
-                "group": "CONNECT",
+                "group": "SALUTE",
                 "members": [
-                    "BRIDGE",
-                    "JOIN",
-                    "LINK",
-                    "UNITE"
+                    "APPLAUD",
+                    "HAIL",
+                    "HONOR",
+                    "PRAISE"
                 ]
             },
             {
                 "level": 1,
-                "group": "PARTS OF A BIKE",
+                "group": "SUITABLE",
                 "members": [
-                    "CHAIN",
-                    "PEDAL",
-                    "SADDLE",
-                    "WHEEL"
+                    "APT",
+                    "FIT",
+                    "PROPER",
+                    "RIGHT"
                 ]
             },
             {
                 "level": 2,
-                "group": "BEST PICTURE WINNERS SINCE 2000",
+                "group": "VERBS FOR FINISHING DONUTS",
                 "members": [
-                    "CHICAGO",
-                    "CRASH",
-                    "GLADIATOR",
-                    "MOONLIGHT"
+                    "FROST",
+                    "GLAZE",
+                    "POWDER",
+                    "SPRINKLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "MUSIC GENRES PLUS A LETTER",
+                "group": "WHAT \u201cBUFF\u201d MIGHT MEAN",
                 "members": [
-                    "BLUEST",
-                    "POPE",
-                    "ROCKY",
-                    "SKAT"
+                    "ENTHUSIAST",
+                    "MUSCULAR",
+                    "NUDE",
+                    "POLISH"
                 ]
             }
         ]
