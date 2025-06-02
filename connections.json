@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-01",
+        "date": "2025-06-02",
         "answers": [
             {
                 "level": 0,
-                "group": "LOCAL WATERING HOLE",
+                "group": "EXPEDITION",
                 "members": [
-                    "DIVE",
-                    "ESTABLISHMENT",
-                    "HAUNT",
-                    "JOINT"
+                    "JOURNEY",
+                    "ODYSSEY",
+                    "QUEST",
+                    "VOYAGE"
                 ]
             },
             {
                 "level": 1,
-                "group": "COMPETE IN A MODERN PENTATHLON",
+                "group": "HOLD DEAR",
                 "members": [
-                    "FENCE",
-                    "RIDE",
-                    "SHOOT",
-                    "SWIM"
+                    "ESTEEM",
+                    "PRIZE",
+                    "TREASURE",
+                    "VALUE"
                 ]
             },
             {
                 "level": 2,
-                "group": "ENSURE, AS A VICTORY",
+                "group": "WORDS WHOSE ONLY VOWEL IS \u201cY\u201d",
                 "members": [
-                    "CINCH",
-                    "GUARANTEE",
-                    "ICE",
-                    "LOCK"
+                    "MYRRH",
+                    "NYMPH",
+                    "RHYTHM",
+                    "SPHYNX"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ FUND",
+                "group": "NAMES ENDING IN \u201cK\u201d PLUS WORD",
                 "members": [
-                    "HEDGE",
-                    "MUTUAL",
-                    "SLUSH",
-                    "TRUST"
+                    "FRANKINCENSE",
+                    "JACKPOT",
+                    "MARKDOWN",
+                    "NICKNAME"
                 ]
             }
         ]
