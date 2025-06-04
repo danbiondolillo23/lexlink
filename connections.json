@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-03",
+        "date": "2025-06-04",
         "answers": [
             {
                 "level": 0,
-                "group": "BE OSTENTATIOUS",
+                "group": "PARTS OF A SONG",
                 "members": [
-                    "GRANDSTAND",
-                    "POSTURE",
-                    "SHOWBOAT",
-                    "SWAGGER"
+                    "BRIDGE",
+                    "CHORUS",
+                    "HOOK",
+                    "REFRAIN"
                 ]
             },
             {
                 "level": 1,
-                "group": "COPACETIC",
+                "group": "SUPPORT AUDIBLY",
                 "members": [
-                    "FINE",
-                    "HUNKY-DORY",
-                    "OK",
-                    "SWELL"
+                    "CHEER",
+                    "CLAP",
+                    "ROOT",
+                    "WHISTLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF BRACELETS",
+                "group": "THINGS IN AN ENTRYWAY",
                 "members": [
-                    "CHARM",
-                    "FRIENDSHIP",
-                    "ID",
-                    "TENNIS"
+                    "BENCH",
+                    "COAT RACK",
+                    "CONSOLE",
+                    "RUNNER"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS YOU CAN PRACTICE",
+                "group": "IMAGERY IN MAGRITTE PAINTINGS",
                 "members": [
-                    "LAW",
-                    "MEDICINE",
-                    "SELF-CARE",
-                    "WITCHCRAFT"
+                    "APPLE",
+                    "BOWLER",
+                    "CLOUD",
+                    "PIPE"
                 ]
             }
         ]
