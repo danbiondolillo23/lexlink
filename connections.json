@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-05",
+        "date": "2025-06-06",
         "answers": [
             {
                 "level": 0,
-                "group": "PRECIPICE",
+                "group": "NEWSPAPER JOBS",
                 "members": [
-                    "BRINK",
-                    "CUSP",
-                    "EVE",
-                    "VERGE"
+                    "COLUMNIST",
+                    "EDITOR",
+                    "PHOTOGRAPHER",
+                    "REPORTER"
                 ]
             },
             {
                 "level": 1,
-                "group": "PLUMBING EQUIPMENT",
+                "group": "EVERYDAY",
                 "members": [
-                    "PIPE",
-                    "PLUNGER",
-                    "SNAKE",
-                    "WRENCH"
+                    "COMMON",
+                    "REGULAR",
+                    "ROUTINE",
+                    "STANDARD"
                 ]
             },
             {
                 "level": 2,
-                "group": "WAYS TO MODIFY A CAR'S EXTERIOR",
+                "group": "WHAT \u201cCON\u201d MIGHT MEAN",
                 "members": [
-                    "BUMPER",
-                    "GRILLE",
-                    "RIM",
-                    "SPOILER"
+                    "CONVENTION",
+                    "CRIMINAL",
+                    "DRAWBACK",
+                    "SWINDLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "BEST FEMALE ROCK PERFORMANCE GRAMMY WINNERS",
+                "group": "ENDING WITH KINDS OF DOGS",
                 "members": [
-                    "APPLE",
-                    "CROW",
-                    "SUMMER",
-                    "TURNER"
+                    "NEWSHOUND",
+                    "SHADOWBOXER",
+                    "SNICKERDOODLE",
+                    "TRENDSETTER"
                 ]
             }
         ]
