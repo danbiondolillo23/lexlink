@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-08",
+        "date": "2025-06-09",
         "answers": [
             {
                 "level": 0,
-                "group": "PERSIST",
+                "group": "KEYBOARD SHORTCUT COMMANDS",
                 "members": [
-                    "HOLD",
-                    "LAST",
-                    "STAND",
-                    "STAY"
+                    "PASTE",
+                    "PRINT",
+                    "QUIT",
+                    "SAVE"
                 ]
             },
             {
                 "level": 1,
-                "group": "ANIMAL METAPHORS IN ECONOMICS",
+                "group": "SECURE IN ADVANCE",
                 "members": [
-                    "BEAR",
-                    "BULL",
-                    "DOVE",
-                    "HAWK"
+                    "BOOK",
+                    "ORDER",
+                    "REQUEST",
+                    "RESERVE"
                 ]
             },
             {
                 "level": 2,
-                "group": "SIDEBAR INFO ON A PERSON\u2019S WIKIPEDIA PAGE",
+                "group": "CRIME ORGANIZATION",
                 "members": [
-                    "BORN",
-                    "EDUCATION",
-                    "OCCUPATION",
-                    "SPOUSE"
+                    "CREW",
+                    "FAMILY",
+                    "RING",
+                    "SYNDICATE"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOMOPHONES OF SLANG FOR MONEY",
+                "group": "SPELLING BEE RANKS MINUS A LETTER",
                 "members": [
-                    "BRED",
-                    "CACHE",
-                    "DOE",
-                    "LUTE"
+                    "GENUS",
+                    "GOO",
+                    "MAZING",
+                    "SLID"
                 ]
             }
         ]
