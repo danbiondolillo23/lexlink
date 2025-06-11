@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-10",
+        "date": "2025-06-11",
         "answers": [
             {
                 "level": 0,
-                "group": "ARBITRATE",
+                "group": "BOAST",
                 "members": [
-                    "CHAIR",
-                    "JUDGE",
-                    "MEDIATE",
-                    "MODERATE"
+                    "BLUSTER",
+                    "CROW",
+                    "SHOW OFF",
+                    "STRUT"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS YOU CAN INSERT IN A DOCUMENT",
+                "group": "ARC-SHAPED THINGS",
                 "members": [
-                    "CHART",
-                    "IMAGE",
-                    "TABLE",
-                    "TEXT BOX"
+                    "BANANA",
+                    "EYEBROW",
+                    "FLIGHT PATH",
+                    "RAINBOW"
                 ]
             },
             {
                 "level": 2,
-                "group": "'80S SLANG",
+                "group": "CEREAL MASCOTS",
                 "members": [
-                    "CHILL",
-                    "PSYCH",
-                    "RADICAL",
-                    "WORD"
+                    "COUNT",
+                    "ELVES",
+                    "LEPRECHAUN",
+                    "ROOSTER"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ DUTY",
+                "group": "WAYS TO DENOTE A CITATION",
                 "members": [
-                    "CIVIC",
-                    "CUSTOMS",
-                    "HEAVY",
-                    "JURY"
+                    "ASTERISK",
+                    "DAGGER",
+                    "NUMBER",
+                    "PARENS"
                 ]
             }
         ]
