@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-11",
+        "date": "2025-06-12",
         "answers": [
             {
                 "level": 0,
-                "group": "BOAST",
+                "group": "GETTING COZY",
                 "members": [
-                    "BLUSTER",
-                    "CROW",
-                    "SHOW OFF",
-                    "STRUT"
+                    "CUDDLING",
+                    "HUGGING",
+                    "SNUGGLING",
+                    "SPOONING"
                 ]
             },
             {
                 "level": 1,
-                "group": "ARC-SHAPED THINGS",
+                "group": "GOSSIPING",
                 "members": [
-                    "BANANA",
-                    "EYEBROW",
-                    "FLIGHT PATH",
-                    "RAINBOW"
+                    "BUZZING",
+                    "DISHING",
+                    "SPILLING",
+                    "WHISPERING"
                 ]
             },
             {
                 "level": 2,
-                "group": "CEREAL MASCOTS",
+                "group": "ENGAGING IN AN ACTIVITY WITH PINS OR NEEDLES",
                 "members": [
-                    "COUNT",
-                    "ELVES",
-                    "LEPRECHAUN",
-                    "ROOSTER"
+                    "ACUPUNCTURING",
+                    "BOWLING",
+                    "SEWING",
+                    "WRESTLING"
                 ]
             },
             {
                 "level": 3,
-                "group": "WAYS TO DENOTE A CITATION",
+                "group": "STARTING WITH TITLES",
                 "members": [
-                    "ASTERISK",
-                    "DAGGER",
-                    "NUMBER",
-                    "PARENS"
+                    "DOCTORING",
+                    "LORDING",
+                    "MISSING",
+                    "SIRING"
                 ]
             }
         ]
