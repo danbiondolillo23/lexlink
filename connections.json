@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-12",
+        "date": "2025-06-13",
         "answers": [
             {
                 "level": 0,
-                "group": "GETTING COZY",
+                "group": "PERSPECTIVE",
                 "members": [
-                    "CUDDLING",
-                    "HUGGING",
-                    "SNUGGLING",
-                    "SPOONING"
+                    "ANGLE",
+                    "BENT",
+                    "LENS",
+                    "POINT OF VIEW"
                 ]
             },
             {
                 "level": 1,
-                "group": "GOSSIPING",
+                "group": "SEEN AT AN ICE CREAM SHOP",
                 "members": [
-                    "BUZZING",
-                    "DISHING",
-                    "SPILLING",
-                    "WHISPERING"
+                    "CONE",
+                    "CUP",
+                    "LITTLE SPOON",
+                    "SCOOP"
                 ]
             },
             {
                 "level": 2,
-                "group": "ENGAGING IN AN ACTIVITY WITH PINS OR NEEDLES",
+                "group": "HIT SONGS OF 1998",
                 "members": [
-                    "ACUPUNCTURING",
-                    "BOWLING",
-                    "SEWING",
-                    "WRESTLING"
+                    "CLOSING TIME",
+                    "IRIS",
+                    "ONE WEEK",
+                    "TOO CLOSE"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH TITLES",
+                "group": "HOT ___",
                 "members": [
-                    "DOCTORING",
-                    "LORDING",
-                    "MISSING",
-                    "SIRING"
+                    "DOG",
+                    "POTATO",
+                    "ROD",
+                    "WATER BOTTLE"
                 ]
             }
         ]
