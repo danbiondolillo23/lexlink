@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-13",
+        "date": "2025-06-14",
         "answers": [
             {
                 "level": 0,
-                "group": "PERSPECTIVE",
+                "group": "GODDESS",
                 "members": [
-                    "ANGLE",
-                    "BENT",
-                    "LENS",
-                    "POINT OF VIEW"
+                    "DIVA",
+                    "ICON",
+                    "LEGEND",
+                    "QUEEN"
                 ]
             },
             {
                 "level": 1,
-                "group": "SEEN AT AN ICE CREAM SHOP",
+                "group": "ELEMENTS OF A CLASSIC \u201cMOM\u201d TATTOO",
                 "members": [
-                    "CONE",
-                    "CUP",
-                    "LITTLE SPOON",
-                    "SCOOP"
+                    "ARROW",
+                    "HEART",
+                    "MOM",
+                    "RIBBON"
                 ]
             },
             {
                 "level": 2,
-                "group": "HIT SONGS OF 1998",
+                "group": "DOGS OF THE SCREEN",
                 "members": [
-                    "CLOSING TIME",
-                    "IRIS",
-                    "ONE WEEK",
-                    "TOO CLOSE"
+                    "ASTRO",
+                    "BLUE",
+                    "HOOCH",
+                    "TOTO"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOT ___",
+                "group": "___ TERRIER",
                 "members": [
-                    "DOG",
-                    "POTATO",
-                    "ROD",
-                    "WATER BOTTLE"
+                    "BORDER",
+                    "BOSTON",
+                    "BULL",
+                    "RAT"
                 ]
             }
         ]
