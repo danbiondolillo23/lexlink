@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-14",
+        "date": "2025-06-15",
         "answers": [
             {
                 "level": 0,
-                "group": "GODDESS",
+                "group": "SLANG FOR COFFEE",
                 "members": [
-                    "DIVA",
-                    "ICON",
-                    "LEGEND",
-                    "QUEEN"
+                    "BREW",
+                    "JAVA",
+                    "MUD",
+                    "ROCKET FUEL"
                 ]
             },
             {
                 "level": 1,
-                "group": "ELEMENTS OF A CLASSIC \u201cMOM\u201d TATTOO",
+                "group": "\"AW, HECK!\"",
                 "members": [
-                    "ARROW",
-                    "HEART",
-                    "MOM",
-                    "RIBBON"
+                    "BLAST",
+                    "CRUD",
+                    "CURSES",
+                    "FUDGE"
                 ]
             },
             {
                 "level": 2,
-                "group": "DOGS OF THE SCREEN",
+                "group": "CONSIDERATIONS FOR MOVIE RATINGS",
                 "members": [
-                    "ASTRO",
-                    "BLUE",
-                    "HOOCH",
-                    "TOTO"
+                    "ACTION",
+                    "LANGUAGE",
+                    "NUDITY",
+                    "SMOKING"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ TERRIER",
+                "group": "WHAT \u201cPOP\u201d MIGHT MEAN",
                 "members": [
-                    "BORDER",
-                    "BOSTON",
-                    "BULL",
-                    "RAT"
+                    "BURST",
+                    "FATHER",
+                    "POPULAR",
+                    "SODA"
                 ]
             }
         ]
