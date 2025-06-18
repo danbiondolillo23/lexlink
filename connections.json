@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-17",
+        "date": "2025-06-18",
         "answers": [
             {
                 "level": 0,
-                "group": "THINGS TO BOOK FOR A VACATION",
+                "group": "QUALITIES OF A RAINY DAY",
                 "members": [
-                    "CAR",
-                    "FLIGHT",
-                    "HOTEL",
-                    "TOUR"
+                    "COLD",
+                    "GRAY",
+                    "WET",
+                    "WINDY"
                 ]
             },
             {
                 "level": 1,
-                "group": "METTLE",
+                "group": "SQUARELY",
                 "members": [
-                    "FIGHT",
-                    "GRIT",
-                    "RESOLVE",
-                    "SPIRIT"
+                    "DEAD",
+                    "EXACTLY",
+                    "RIGHT",
+                    "SMACK"
                 ]
             },
             {
                 "level": 2,
-                "group": "BAD THINGS FOR A WEBSITE TO DO",
+                "group": "CONTENTS OF A POD",
                 "members": [
-                    "FREEZE",
-                    "GLITCH",
-                    "TIMEOUT",
-                    "QUIT"
+                    "ASTRONAUT",
+                    "COFFEE",
+                    "PEA",
+                    "WHALE"
                 ]
             },
             {
                 "level": 3,
-                "group": "FIGURES IN CLASSIC DISNEY ANIMATED FILMS",
+                "group": "BODY PART PLUS A STARTING LETTER",
                 "members": [
-                    "ELEPHANT",
-                    "FAWN",
-                    "MARIONETTE",
-                    "MOUSE"
+                    "BARM",
+                    "LEAR",
+                    "RANKLE",
+                    "SHIP"
                 ]
             }
         ]
