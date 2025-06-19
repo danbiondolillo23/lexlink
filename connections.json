@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-18",
+        "date": "2025-06-19",
         "answers": [
             {
                 "level": 0,
-                "group": "QUALITIES OF A RAINY DAY",
+                "group": "COMPONENTS OF ONE\u2019S GRADE",
                 "members": [
-                    "COLD",
-                    "GRAY",
-                    "WET",
-                    "WINDY"
+                    "ATTENDANCE",
+                    "FINAL",
+                    "HOMEWORK",
+                    "PAPERS"
                 ]
             },
             {
                 "level": 1,
-                "group": "SQUARELY",
+                "group": "MAP APP OPTIONS",
                 "members": [
-                    "DEAD",
-                    "EXACTLY",
-                    "RIGHT",
-                    "SMACK"
+                    "DESTINATION",
+                    "ROUTE",
+                    "STARTING POINT",
+                    "STOPS"
                 ]
             },
             {
                 "level": 2,
-                "group": "CONTENTS OF A POD",
+                "group": "CLASSIC TOYS",
                 "members": [
-                    "ASTRONAUT",
-                    "COFFEE",
-                    "PEA",
-                    "WHALE"
+                    "BALL",
+                    "BLOCKS",
+                    "JACKS",
+                    "TRAIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "BODY PART PLUS A STARTING LETTER",
+                "group": "FENCING GEAR",
                 "members": [
-                    "BARM",
-                    "LEAR",
-                    "RANKLE",
-                    "SHIP"
+                    "FOILS",
+                    "GLOVES",
+                    "JACKETS",
+                    "MASKS"
                 ]
             }
         ]
