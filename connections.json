@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-19",
+        "date": "2025-06-20",
         "answers": [
             {
                 "level": 0,
-                "group": "COMPONENTS OF ONE\u2019S GRADE",
+                "group": "ITEMS IN A SEWING KIT",
                 "members": [
-                    "ATTENDANCE",
-                    "FINAL",
-                    "HOMEWORK",
-                    "PAPERS"
+                    "BUTTON",
+                    "NEEDLE",
+                    "SCISSORS",
+                    "THREAD"
                 ]
             },
             {
                 "level": 1,
-                "group": "MAP APP OPTIONS",
+                "group": "CAPTURE ON VIDEO",
                 "members": [
-                    "DESTINATION",
-                    "ROUTE",
-                    "STARTING POINT",
-                    "STOPS"
+                    "FILM",
+                    "RECORD",
+                    "SHOOT",
+                    "TAPE"
                 ]
             },
             {
                 "level": 2,
-                "group": "CLASSIC TOYS",
+                "group": "PRO WRESTLING ICONS, WITH \u201cTHE\u201d",
                 "members": [
-                    "BALL",
-                    "BLOCKS",
-                    "JACKS",
-                    "TRAIN"
+                    "HITMAN",
+                    "ROCK",
+                    "SNAKE",
+                    "UNDERTAKER"
                 ]
             },
             {
                 "level": 3,
-                "group": "FENCING GEAR",
+                "group": "WAX ___",
                 "members": [
-                    "FOILS",
-                    "GLOVES",
-                    "JACKETS",
-                    "MASKS"
+                    "MUSEUM",
+                    "PAPER",
+                    "POETIC",
+                    "SEAL"
                 ]
             }
         ]
