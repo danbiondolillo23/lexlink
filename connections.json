@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-20",
+        "date": "2025-06-21",
         "answers": [
             {
                 "level": 0,
-                "group": "ITEMS IN A SEWING KIT",
+                "group": "STOCKY",
                 "members": [
-                    "BUTTON",
-                    "NEEDLE",
-                    "SCISSORS",
-                    "THREAD"
+                    "SOLID",
+                    "SQUAT",
+                    "STOUT",
+                    "THICK"
                 ]
             },
             {
                 "level": 1,
-                "group": "CAPTURE ON VIDEO",
+                "group": "COMPANY",
                 "members": [
-                    "FILM",
-                    "RECORD",
-                    "SHOOT",
-                    "TAPE"
+                    "CONCERN",
+                    "FIRM",
+                    "HOUSE",
+                    "OUTFIT"
                 ]
             },
             {
                 "level": 2,
-                "group": "PRO WRESTLING ICONS, WITH \u201cTHE\u201d",
+                "group": "APPLE PRODUCTS",
                 "members": [
-                    "HITMAN",
-                    "ROCK",
-                    "SNAKE",
-                    "UNDERTAKER"
+                    "BRANDY",
+                    "BUTTER",
+                    "CIDER",
+                    "SAUCE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WAX ___",
+                "group": "STARTS OF EUROPEAN COUNTRIES",
                 "members": [
-                    "MUSEUM",
-                    "PAPER",
-                    "POETIC",
-                    "SEAL"
+                    "GERM",
+                    "LUXE",
+                    "MALT",
+                    "PORT"
                 ]
             }
         ]
