@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-23",
+        "date": "2025-06-24",
         "answers": [
             {
                 "level": 0,
-                "group": "KINDS OF JEANS",
+                "group": "STRICT",
                 "members": [
-                    "BOYFRIEND",
-                    "FLARE",
-                    "MOM",
-                    "SKINNY"
+                    "FIRM",
+                    "RIGID",
+                    "STERN",
+                    "TOUGH"
                 ]
             },
             {
                 "level": 1,
-                "group": "FICTION CATEGORIES",
+                "group": "BOTANICAL COVERINGS",
                 "members": [
-                    "HISTORICAL",
-                    "LITERARY",
-                    "SPECULATIVE",
-                    "YOUNG ADULT"
+                    "HULL",
+                    "HUSK",
+                    "POD",
+                    "SHELL"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS IN HEMINGWAY TITLES",
+                "group": "SEEN IN OPENING CREDITS",
                 "members": [
-                    "BELL",
-                    "FAREWELL",
-                    "OLD MAN",
-                    "SUN"
+                    "CAST",
+                    "DIRECTOR",
+                    "STUDIO",
+                    "TITLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ GLASS GLASSWARE",
+                "group": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
                 "members": [
-                    "COCKTAIL",
-                    "COLLINS",
-                    "OLD FASHIONED",
-                    "SHOT"
+                    "LINE",
+                    "PLANE",
+                    "POINT",
+                    "SOLID"
                 ]
             }
         ]
