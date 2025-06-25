@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-24",
+        "date": "2025-06-25",
         "answers": [
             {
                 "level": 0,
-                "group": "STRICT",
+                "group": "KINDS OF CHEESES",
                 "members": [
-                    "FIRM",
-                    "RIGID",
-                    "STERN",
-                    "TOUGH"
+                    "BLUE",
+                    "GOAT",
+                    "JACK",
+                    "SWISS"
                 ]
             },
             {
                 "level": 1,
-                "group": "BOTANICAL COVERINGS",
+                "group": "BEVERAGE SELF-SERVICE ITEMS",
                 "members": [
-                    "HULL",
-                    "HUSK",
-                    "POD",
-                    "SHELL"
+                    "CUP",
+                    "LID",
+                    "NAPKIN",
+                    "STRAW"
                 ]
             },
             {
                 "level": 2,
-                "group": "SEEN IN OPENING CREDITS",
+                "group": "WOODWORKING HAND TOOLS",
                 "members": [
-                    "CAST",
-                    "DIRECTOR",
-                    "STUDIO",
-                    "TITLE"
+                    "CHISEL",
+                    "PLANE",
+                    "RASP",
+                    "SAW"
                 ]
             },
             {
                 "level": 3,
-                "group": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+                "group": "BIRDS MINUS LAST LETTER",
                 "members": [
-                    "LINE",
-                    "PLANE",
-                    "POINT",
-                    "SOLID"
+                    "CRAN",
+                    "FLAMING",
+                    "HERO",
+                    "RAVE"
                 ]
             }
         ]
