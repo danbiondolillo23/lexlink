@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-25",
+        "date": "2025-06-26",
         "answers": [
             {
                 "level": 0,
-                "group": "KINDS OF CHEESES",
+                "group": "COMPONENTS OF A SALAD",
                 "members": [
-                    "BLUE",
-                    "GOAT",
-                    "JACK",
-                    "SWISS"
+                    "CHEESE",
+                    "DRESSING",
+                    "LETTUCE",
+                    "PROTEIN"
                 ]
             },
             {
                 "level": 1,
-                "group": "BEVERAGE SELF-SERVICE ITEMS",
+                "group": "KINDS OF MACHINES",
                 "members": [
-                    "CUP",
-                    "LID",
-                    "NAPKIN",
-                    "STRAW"
+                    "ENIGMA",
+                    "PINBALL",
+                    "SEWING",
+                    "VENDING"
                 ]
             },
             {
                 "level": 2,
-                "group": "WOODWORKING HAND TOOLS",
+                "group": "LEGAL DRAMAS",
                 "members": [
-                    "CHISEL",
-                    "PLANE",
-                    "RASP",
-                    "SAW"
+                    "DAMAGES",
+                    "GOLIATH",
+                    "MATLOCK",
+                    "SUITS"
                 ]
             },
             {
                 "level": 3,
-                "group": "BIRDS MINUS LAST LETTER",
+                "group": "ENDING WITH PLAYING CARDS",
                 "members": [
-                    "CRAN",
-                    "FLAMING",
-                    "HERO",
-                    "RAVE"
+                    "BOJACK",
+                    "HAWKING",
+                    "LOVELACE",
+                    "MCQUEEN"
                 ]
             }
         ]
