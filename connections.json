@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-26",
+        "date": "2025-06-27",
         "answers": [
             {
                 "level": 0,
-                "group": "COMPONENTS OF A SALAD",
+                "group": "IN FASHION",
                 "members": [
-                    "CHEESE",
-                    "DRESSING",
-                    "LETTUCE",
-                    "PROTEIN"
+                    "CHIC",
+                    "CURRENT",
+                    "FRESH",
+                    "HAPPENING"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF MACHINES",
+                "group": "PARTS OF AN ANGEL COSTUME",
                 "members": [
-                    "ENIGMA",
-                    "PINBALL",
-                    "SEWING",
-                    "VENDING"
+                    "HALO",
+                    "HARP",
+                    "ROBE",
+                    "WINGS"
                 ]
             },
             {
                 "level": 2,
-                "group": "LEGAL DRAMAS",
+                "group": "\u201cSESAME STREET\u201d FIGURES",
                 "members": [
-                    "DAMAGES",
-                    "GOLIATH",
-                    "MATLOCK",
-                    "SUITS"
+                    "BIRD",
+                    "COUNT",
+                    "GROUCH",
+                    "MONSTER"
                 ]
             },
             {
                 "level": 3,
-                "group": "ENDING WITH PLAYING CARDS",
+                "group": "___ BROTHERS",
                 "members": [
-                    "BOJACK",
-                    "HAWKING",
-                    "LOVELACE",
-                    "MCQUEEN"
+                    "BLOOD",
+                    "BLUES",
+                    "CHEMICAL",
+                    "MARX"
                 ]
             }
         ]
