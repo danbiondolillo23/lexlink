@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-27",
+        "date": "2025-06-28",
         "answers": [
             {
                 "level": 0,
-                "group": "IN FASHION",
+                "group": "THINGS A DOG CAN FETCH",
                 "members": [
-                    "CHIC",
-                    "CURRENT",
-                    "FRESH",
-                    "HAPPENING"
+                    "BALL",
+                    "BONE",
+                    "FRISBEE",
+                    "STICK"
                 ]
             },
             {
                 "level": 1,
-                "group": "PARTS OF AN ANGEL COSTUME",
+                "group": "GREAT MANY",
                 "members": [
-                    "HALO",
-                    "HARP",
-                    "ROBE",
-                    "WINGS"
+                    "DROVE",
+                    "HOST",
+                    "LOAD",
+                    "SCORE"
                 ]
             },
             {
                 "level": 2,
-                "group": "\u201cSESAME STREET\u201d FIGURES",
+                "group": "POSSIBLE RESULTS OF A TRAFFIC VIOLATION",
                 "members": [
-                    "BIRD",
-                    "COUNT",
-                    "GROUCH",
-                    "MONSTER"
+                    "BOOT",
+                    "POINTS",
+                    "TICKET",
+                    "TOW"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ BROTHERS",
+                "group": "INDUSTRIAL REVOLUTION INVENTORS",
                 "members": [
-                    "BLOOD",
-                    "BLUES",
-                    "CHEMICAL",
-                    "MARX"
+                    "BELL",
+                    "DIESEL",
+                    "SINGER",
+                    "WATT"
                 ]
             }
         ]
