@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-28",
+        "date": "2025-06-29",
         "answers": [
             {
                 "level": 0,
-                "group": "THINGS A DOG CAN FETCH",
+                "group": "ICE CREAM TREATS",
                 "members": [
-                    "BALL",
-                    "BONE",
-                    "FRISBEE",
-                    "STICK"
+                    "FLOAT",
+                    "SHAKE",
+                    "SPLIT",
+                    "SUNDAE"
                 ]
             },
             {
                 "level": 1,
-                "group": "GREAT MANY",
+                "group": "FLINCH",
                 "members": [
-                    "DROVE",
-                    "HOST",
-                    "LOAD",
-                    "SCORE"
+                    "BOLT",
+                    "JERK",
+                    "JUMP",
+                    "STARTLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "POSSIBLE RESULTS OF A TRAFFIC VIOLATION",
+                "group": "DANCE MOVES",
                 "members": [
-                    "BOOT",
-                    "POINTS",
-                    "TICKET",
-                    "TOW"
+                    "CABBAGE PATCH",
+                    "FLOSS",
+                    "MOONWALK",
+                    "ROBOT"
                 ]
             },
             {
                 "level": 3,
-                "group": "INDUSTRIAL REVOLUTION INVENTORS",
+                "group": "SEEN IN THE AFTERMATH OF A RAINSTORM",
                 "members": [
-                    "BELL",
-                    "DIESEL",
-                    "SINGER",
-                    "WATT"
+                    "EARTHWORM",
+                    "MUD",
+                    "MUSHROOM",
+                    "PUDDLE"
                 ]
             }
         ]
