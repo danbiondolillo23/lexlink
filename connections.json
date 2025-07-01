@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-06-30",
+        "date": "2025-07-01",
         "answers": [
             {
                 "level": 0,
-                "group": "DENTAL ADDITIONS",
+                "group": "STEAL",
                 "members": [
-                    "BRIDGE",
-                    "CROWN",
-                    "FILLING",
-                    "VENEER"
+                    "NICK",
+                    "PALM",
+                    "PINCH",
+                    "POCKET"
                 ]
             },
             {
                 "level": 1,
-                "group": "METAPHORS FOR A DRAMATIC AND CHAOTIC EVENT",
+                "group": "DO SOME GROOMING",
                 "members": [
-                    "CIRCUS",
-                    "ROLLER COASTER",
-                    "SOAP OPERA",
-                    "WHIRLWIND"
+                    "BRUSH",
+                    "DRESS",
+                    "SHAVE",
+                    "SHOWER"
                 ]
             },
             {
                 "level": 2,
-                "group": "SECOND WORDS IN DAVID LYNCH TITLES",
+                "group": "DAPPER",
                 "members": [
-                    "DRIVE",
-                    "HIGHWAY",
-                    "PEAKS",
-                    "VELVET"
+                    "NEAT",
+                    "SHARP",
+                    "SMART",
+                    "TIDY"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT \u201cJET\u201d MIGHT REFER TO",
+                "group": "___STONE",
                 "members": [
-                    "AIRPLANE",
-                    "BLACK",
-                    "HOT TUB NOZZLE",
-                    "NFL PLAYER"
+                    "BIRTH",
+                    "KEY",
+                    "MILE",
+                    "TOUCH"
                 ]
             }
         ]
