@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-01",
+        "date": "2025-07-02",
         "answers": [
             {
                 "level": 0,
-                "group": "STEAL",
+                "group": "KNOCKOFF",
                 "members": [
-                    "NICK",
-                    "PALM",
-                    "PINCH",
-                    "POCKET"
+                    "BOOTLEG",
+                    "COPY",
+                    "FAKE",
+                    "REPLICA"
                 ]
             },
             {
                 "level": 1,
-                "group": "DO SOME GROOMING",
+                "group": "ASSOCIATED WITH FREUD",
                 "members": [
-                    "BRUSH",
-                    "DRESS",
-                    "SHAVE",
-                    "SHOWER"
+                    "DREAMS",
+                    "ID",
+                    "OEDIPUS",
+                    "SLIP"
                 ]
             },
             {
                 "level": 2,
-                "group": "DAPPER",
+                "group": "WORDS AFTER \u201cT-\u201d",
                 "members": [
-                    "NEAT",
-                    "SHARP",
-                    "SMART",
-                    "TIDY"
+                    "MOBILE",
+                    "PAIN",
+                    "REX",
+                    "SHIRT"
                 ]
             },
             {
                 "level": 3,
-                "group": "___STONE",
+                "group": "STARTING WITH HIGH SCHOOL/COLLEGE ABBREVIATIONS",
                 "members": [
-                    "BIRTH",
-                    "KEY",
-                    "MILE",
-                    "TOUCH"
+                    "FRESHWATER",
+                    "JUNIPER",
+                    "SENECA",
+                    "SOPHOCLES"
                 ]
             }
         ]
