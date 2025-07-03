@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-02",
+        "date": "2025-07-03",
         "answers": [
             {
                 "level": 0,
-                "group": "KNOCKOFF",
+                "group": "CORRESPONDENCE",
                 "members": [
-                    "BOOTLEG",
-                    "COPY",
-                    "FAKE",
-                    "REPLICA"
+                    "CONTACT",
+                    "DEALINGS",
+                    "EXCHANGE",
+                    "INTERACTION"
                 ]
             },
             {
                 "level": 1,
-                "group": "ASSOCIATED WITH FREUD",
+                "group": "AIRPORT BOARD INFO",
                 "members": [
-                    "DREAMS",
-                    "ID",
-                    "OEDIPUS",
-                    "SLIP"
+                    "ARRIVAL",
+                    "DESTINATION",
+                    "FLIGHT",
+                    "GATE"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS AFTER \u201cT-\u201d",
+                "group": "PRO ATHLETE DATA",
                 "members": [
-                    "MOBILE",
-                    "PAIN",
-                    "REX",
-                    "SHIRT"
+                    "COLLEGE",
+                    "NUMBER",
+                    "POSITION",
+                    "TEAM"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH HIGH SCHOOL/COLLEGE ABBREVIATIONS",
+                "group": "FARMERS\u2019 THINGS",
                 "members": [
-                    "FRESHWATER",
-                    "JUNIPER",
-                    "SENECA",
-                    "SOPHOCLES"
+                    "ALMANAC",
+                    "INSURANCE",
+                    "MARKET",
+                    "TAN"
                 ]
             }
         ]
