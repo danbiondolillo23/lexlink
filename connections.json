@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-04",
+        "date": "2025-07-05",
         "answers": [
             {
                 "level": 0,
-                "group": "WHAT \u201cID\u201d MIGHT REFER TO",
+                "group": "CON GAME",
                 "members": [
-                    "FREUDIAN CONCEPT",
-                    "IDAHO",
-                    "DRIVER LICENSE",
-                    "RECOGNIZE"
+                    "HUSTLE",
+                    "RACKET",
+                    "SCHEME",
+                    "STING"
                 ]
             },
             {
                 "level": 1,
-                "group": "WHAT \u201cIN\u201d MIGHT REFER TO",
+                "group": "COMBINE, AS BAKING INGREDIENTS",
                 "members": [
-                    "INCH",
-                    "INDIANA",
-                    "INSIDE",
-                    "TRENDY"
+                    "BEAT",
+                    "BLEND",
+                    "FOLD",
+                    "STIR"
                 ]
             },
             {
                 "level": 2,
-                "group": "WHAT \u201cLA\u201d MIGHT REFER TO",
+                "group": "YEARN",
                 "members": [
-                    "LANTHANUM",
-                    "LOS ANGELES",
-                    "LOUISIANA",
-                    "MUSICAL NOTE"
+                    "BURN",
+                    "ITCH",
+                    "LONG",
+                    "PINE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT \u201cOK\u201d MIGHT REFER TO",
+                "group": "KINDS OF LISTS",
                 "members": [
-                    "BRITISH MAGAZINE",
-                    "GREENLIGHT",
-                    "MEDIOCRE",
-                    "OKLAHOMA"
+                    "BUCKET",
+                    "LAUNDRY",
+                    "SHORT",
+                    "TO-DO"
                 ]
             }
         ]
