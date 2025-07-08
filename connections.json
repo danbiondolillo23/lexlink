@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-07",
+        "date": "2025-07-08",
         "answers": [
             {
                 "level": 0,
-                "group": "INFORMANT",
+                "group": "LIAISON",
                 "members": [
-                    "CANARY",
-                    "LEAK",
-                    "RAT",
-                    "SOURCE"
+                    "AFFAIR",
+                    "FLING",
+                    "RELATIONS",
+                    "THING"
                 ]
             },
             {
                 "level": 1,
-                "group": "BIG IMPRESSION",
+                "group": "SEEN IN A LOCKER ROOM",
                 "members": [
-                    "FOOTPRINT",
-                    "IMPACT",
-                    "MARK",
-                    "SPLASH"
+                    "BENCH",
+                    "LOCKER",
+                    "MIRROR",
+                    "SCALE"
                 ]
             },
             {
                 "level": 2,
-                "group": "BASKETBALL MOVES",
+                "group": "SOMETHING ENTERED FOR ACCESS",
                 "members": [
-                    "BLOCK",
-                    "DRIBBLE",
-                    "PASS",
-                    "SHOOT"
+                    "CODE",
+                    "KEY",
+                    "PASSWORD",
+                    "PIN"
                 ]
             },
             {
                 "level": 3,
-                "group": "TOP ___",
+                "group": "JOHNS",
                 "members": [
-                    "BANANA",
-                    "DOG",
-                    "HAT",
-                    "SECRET"
+                    "CANDY",
+                    "CARPENTER",
+                    "LEGEND",
+                    "MAJOR"
                 ]
             }
         ]
