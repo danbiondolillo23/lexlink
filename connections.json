@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-08",
+        "date": "2025-07-09",
         "answers": [
             {
                 "level": 0,
-                "group": "LIAISON",
+                "group": "LOWEST PART",
                 "members": [
-                    "AFFAIR",
-                    "FLING",
-                    "RELATIONS",
-                    "THING"
+                    "BASE",
+                    "BOTTOM",
+                    "FOOT",
+                    "FOUNDATION"
                 ]
             },
             {
                 "level": 1,
-                "group": "SEEN IN A LOCKER ROOM",
+                "group": "KINDS OF SOCKS",
                 "members": [
-                    "BENCH",
-                    "LOCKER",
-                    "MIRROR",
-                    "SCALE"
+                    "ANKLE",
+                    "COMPRESSION",
+                    "CREW",
+                    "DRESS"
                 ]
             },
             {
                 "level": 2,
-                "group": "SOMETHING ENTERED FOR ACCESS",
+                "group": "THINGS YOU DO AT SOMEONE'S FRONT DOOR",
                 "members": [
-                    "CODE",
-                    "KEY",
-                    "PASSWORD",
-                    "PIN"
+                    "BUZZ",
+                    "KNOCK",
+                    "RING",
+                    "SHOUT"
                 ]
             },
             {
                 "level": 3,
-                "group": "JOHNS",
+                "group": "ENDING IN SYNONYMS FOR \"CLIP\"",
                 "members": [
-                    "CANDY",
-                    "CARPENTER",
-                    "LEGEND",
-                    "MAJOR"
+                    "COMPARE",
+                    "CONNECTICUT",
+                    "PARSNIP",
+                    "WALLOP"
                 ]
             }
         ]
