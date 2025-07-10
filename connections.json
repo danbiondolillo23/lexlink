@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-09",
+        "date": "2025-07-10",
         "answers": [
             {
                 "level": 0,
-                "group": "LOWEST PART",
+                "group": "PARTS OF A WHEEL",
                 "members": [
-                    "BASE",
-                    "BOTTOM",
-                    "FOOT",
-                    "FOUNDATION"
+                    "HUB",
+                    "RIM",
+                    "SPOKE",
+                    "TIRE"
                 ]
             },
             {
                 "level": 1,
-                "group": "KINDS OF SOCKS",
+                "group": "MILITARY CLOTHING DESCRIPTORS",
                 "members": [
-                    "ANKLE",
-                    "COMPRESSION",
-                    "CREW",
-                    "DRESS"
+                    "CAMO",
+                    "DRAB",
+                    "FATIGUE",
+                    "KHAKI"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS YOU DO AT SOMEONE'S FRONT DOOR",
+                "group": "USED IN VENTILATION",
                 "members": [
-                    "BUZZ",
-                    "KNOCK",
-                    "RING",
-                    "SHOUT"
+                    "DUCT",
+                    "EXHAUST",
+                    "HOSE",
+                    "PIPE"
                 ]
             },
             {
                 "level": 3,
-                "group": "ENDING IN SYNONYMS FOR \"CLIP\"",
+                "group": "FAIL TO TAKE ADVANTAGE OF, AS AN OPPORTUNITY",
                 "members": [
-                    "COMPARE",
-                    "CONNECTICUT",
-                    "PARSNIP",
-                    "WALLOP"
+                    "BLOW",
+                    "LOSE",
+                    "MISS",
+                    "WASTE"
                 ]
             }
         ]
