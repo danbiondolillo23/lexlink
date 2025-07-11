@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-10",
+        "date": "2025-07-11",
         "answers": [
             {
                 "level": 0,
-                "group": "PARTS OF A WHEEL",
+                "group": "COMPANIES THAT HAVE BECOME VERBS",
                 "members": [
-                    "HUB",
-                    "RIM",
-                    "SPOKE",
-                    "TIRE"
+                    "GOOGLE",
+                    "PHOTOSHOP",
+                    "UBER",
+                    "ZOOM"
                 ]
             },
             {
                 "level": 1,
-                "group": "MILITARY CLOTHING DESCRIPTORS",
+                "group": "SILLY PERSON",
                 "members": [
-                    "CAMO",
-                    "DRAB",
-                    "FATIGUE",
-                    "KHAKI"
+                    "DODO",
+                    "GOOF",
+                    "GOOSE",
+                    "YAHOO"
                 ]
             },
             {
                 "level": 2,
-                "group": "USED IN VENTILATION",
+                "group": "KINDS OF SONGS",
                 "members": [
-                    "DUCT",
-                    "EXHAUST",
-                    "HOSE",
-                    "PIPE"
+                    "FOLK",
+                    "LOVE",
+                    "SIREN",
+                    "SWAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "FAIL TO TAKE ADVANTAGE OF, AS AN OPPORTUNITY",
+                "group": "HOMOPHONES OF SYNONYMS FOR \u201cDESPICABLE\u201d",
                 "members": [
-                    "BLOW",
-                    "LOSE",
-                    "MISS",
-                    "WASTE"
+                    "FOWL",
+                    "MIEN",
+                    "OFFAL",
+                    "VIAL"
                 ]
             }
         ]
