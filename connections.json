@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-11",
+        "date": "2025-07-12",
         "answers": [
             {
                 "level": 0,
-                "group": "COMPANIES THAT HAVE BECOME VERBS",
+                "group": "ENDORSE",
                 "members": [
-                    "GOOGLE",
-                    "PHOTOSHOP",
-                    "UBER",
-                    "ZOOM"
+                    "BACK",
+                    "CHAMPION",
+                    "SECOND",
+                    "SUPPORT"
                 ]
             },
             {
                 "level": 1,
-                "group": "SILLY PERSON",
+                "group": "DETAILED",
                 "members": [
-                    "DODO",
-                    "GOOF",
-                    "GOOSE",
-                    "YAHOO"
+                    "ELABORATE",
+                    "MINUTE",
+                    "PARTICULAR",
+                    "THOROUGH"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF SONGS",
+                "group": "ERA",
                 "members": [
-                    "FOLK",
-                    "LOVE",
-                    "SIREN",
-                    "SWAN"
+                    "AGE",
+                    "DAY",
+                    "PERIOD",
+                    "TIME"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOMOPHONES OF SYNONYMS FOR \u201cDESPICABLE\u201d",
+                "group": "IN THE NATO ALPHABET",
                 "members": [
-                    "FOWL",
-                    "MIEN",
-                    "OFFAL",
-                    "VIAL"
+                    "ECHO",
+                    "KILO",
+                    "UNIFORM",
+                    "VICTOR"
                 ]
             }
         ]
