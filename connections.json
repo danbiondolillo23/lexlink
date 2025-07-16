@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-15",
+        "date": "2025-07-16",
         "answers": [
             {
                 "level": 0,
-                "group": "GYMNASTICS APPARATUS",
+                "group": "PARTS OF A COLLEGE CAMPUS",
                 "members": [
-                    "BARS",
-                    "BEAM",
-                    "RINGS",
-                    "VAULT"
+                    "CAFETERIA",
+                    "DORM",
+                    "LIBRARY",
+                    "QUAD"
                 ]
             },
             {
                 "level": 1,
-                "group": "FORCE TO LEAVE",
+                "group": "EXAGGERATED, AS A PERFORMANCE",
                 "members": [
-                    "BOOT",
-                    "BOUNCE",
-                    "EJECT",
-                    "REMOVE"
+                    "CAMP",
+                    "DRAMATIC",
+                    "HAMMY",
+                    "OVERDONE"
                 ]
             },
             {
                 "level": 2,
-                "group": "HORROR MOVIES FROM 2022",
+                "group": "CLOSE IN ON",
                 "members": [
-                    "NOPE",
-                    "PEARL",
-                    "SCREAM",
-                    "SMILE"
+                    "CORNER",
+                    "SURROUND",
+                    "TRAP",
+                    "TREE"
                 ]
             },
             {
                 "level": 3,
-                "group": "HORSE___",
+                "group": "STARTS OF GREEK LETTERS",
                 "members": [
-                    "FEATHERS",
-                    "PLAY",
-                    "POWER",
-                    "SHOE"
+                    "BET",
+                    "DELT",
+                    "LAMB",
+                    "THE"
                 ]
             }
         ]
