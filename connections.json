@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-18",
+        "date": "2025-07-19",
         "answers": [
             {
                 "level": 0,
-                "group": "SEQUENCE",
+                "group": "SOURCES OF DRINKING WATER",
                 "members": [
-                    "RUN",
-                    "SERIES",
-                    "STREAK",
-                    "STRING"
+                    "RAIN",
+                    "SPRING",
+                    "TAP",
+                    "WELL"
                 ]
             },
             {
                 "level": 1,
-                "group": "PICK UP ON",
+                "group": "THINGS YOU CAN DO WITH A FOOTBALL",
                 "members": [
-                    "CATCH",
-                    "NOTE",
-                    "SEE",
-                    "SPOT"
+                    "PASS",
+                    "PUNT",
+                    "SNAP",
+                    "SPIKE"
                 ]
             },
             {
                 "level": 2,
-                "group": "YOGA BACKBENDS",
+                "group": "SHARP FASTENERS",
                 "members": [
-                    "BRIDGE",
-                    "COBRA",
-                    "COW",
-                    "WHEEL"
+                    "BRAD",
+                    "NAIL",
+                    "PIN",
+                    "TACK"
                 ]
             },
             {
                 "level": 3,
-                "group": "ELECTRIC ___",
+                "group": "STARTS OF TEENAGE MUTANT NINJA TURTLES",
                 "members": [
-                    "BLANKET",
-                    "EEL",
-                    "GUITAR",
-                    "SLIDE"
+                    "DON",
+                    "LEO",
+                    "MIC",
+                    "RAP"
                 ]
             }
         ]
