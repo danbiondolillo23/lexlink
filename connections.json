@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-21",
+        "date": "2025-07-22",
         "answers": [
             {
                 "level": 0,
-                "group": "ADDITIONAL PERK",
+                "group": "SASSINESS",
                 "members": [
-                    "BONUS",
-                    "EXTRA",
-                    "GRAVY",
-                    "ICING"
+                    "ATTITUDE",
+                    "CHEEK",
+                    "LIP",
+                    "MOUTH"
                 ]
             },
             {
                 "level": 1,
-                "group": "PHASE TRANSITIONS FOR LIQUIDS",
+                "group": "MITIGATE",
                 "members": [
-                    "CONDENSATION",
-                    "FREEZING",
-                    "MELTING",
-                    "VAPORIZATION"
+                    "CUSHION",
+                    "DAMPEN",
+                    "SOFTEN",
+                    "TEMPER"
                 ]
             },
             {
                 "level": 2,
-                "group": "CONCEPTS FROM \u201cSEINFELD\u201d",
+                "group": "PATTERNS",
                 "members": [
-                    "FESTIVUS",
-                    "REGIFTING",
-                    "SHRINKAGE",
-                    "YADA YADA"
+                    "CAMO",
+                    "CHECKERS",
+                    "HONEYCOMB",
+                    "STRIPES"
                 ]
             },
             {
                 "level": 3,
-                "group": "WHAT ' CAN INDICATE",
+                "group": "___ PIE",
                 "members": [
-                    "CONTRACTION",
-                    "FOOT",
-                    "POSSESSIVE",
-                    "QUOTE"
+                    "CHESS",
+                    "CUTIE",
+                    "HUMBLE",
+                    "WHOOPIE"
                 ]
             }
         ]
