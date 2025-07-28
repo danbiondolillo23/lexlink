@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-27",
+        "date": "2025-07-28",
         "answers": [
             {
                 "level": 0,
-                "group": "\"NOTHING TO IT!\"",
+                "group": "FOREMOST",
                 "members": [
-                    "CHILD\u2019S PLAY",
-                    "EASY",
-                    "NO SWEAT",
-                    "PIECE OF CAKE"
-                ]
-            },
-            {
-                "level": 1,
-                "group": "OUTDOOR EVENTS",
-                "members": [
-                    "BLOCK PARTY",
-                    "FESTIVAL",
-                    "PICNIC",
-                    "TAILGATE"
-                ]
-            },
-            {
-                "level": 2,
-                "group": "WORDS BEFORE \"SCHOOL\"",
-                "members": [
-                    "ELEMENTARY",
-                    "GRADE",
-                    "GRAMMAR",
+                    "FIRST",
+                    "INITIAL",
+                    "ORIGINAL",
                     "PRIMARY"
                 ]
             },
             {
-                "level": 3,
-                "group": "ASSOCIATED WITH TRICKS",
+                "level": 1,
+                "group": "INDICATION",
                 "members": [
-                    "CON GAME",
-                    "HALLOWEEN",
-                    "HEARTS",
-                    "MAGIC SHOW"
+                    "EVIDENCE",
+                    "HINT",
+                    "SIGN",
+                    "TRACE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ITEM IN A COLLECTION",
+                "members": [
+                    "COIN",
+                    "COMIC",
+                    "RECORD",
+                    "STAMP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ MOVIE",
+                "members": [
+                    "BUDDY",
+                    "CULT",
+                    "DATE",
+                    "SILENT"
                 ]
             }
         ]
