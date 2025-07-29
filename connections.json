@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-28",
+        "date": "2025-07-29",
         "answers": [
             {
                 "level": 0,
-                "group": "FOREMOST",
+                "group": "DISCOUNT",
                 "members": [
-                    "FIRST",
-                    "INITIAL",
-                    "ORIGINAL",
-                    "PRIMARY"
+                    "DEAL",
+                    "PROMOTION",
+                    "SALE",
+                    "SPECIAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "INDICATION",
+                "group": "IRRITATE",
                 "members": [
-                    "EVIDENCE",
-                    "HINT",
-                    "SIGN",
-                    "TRACE"
+                    "BUG",
+                    "NETTLE",
+                    "RUFFLE",
+                    "STEAM"
                 ]
             },
             {
                 "level": 2,
-                "group": "ITEM IN A COLLECTION",
+                "group": "POKER ACTIONS",
                 "members": [
-                    "COIN",
-                    "COMIC",
-                    "RECORD",
-                    "STAMP"
+                    "CALL",
+                    "CHECK",
+                    "FOLD",
+                    "RAISE"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ MOVIE",
+                "group": "THINGS YOU CAN PUMP",
                 "members": [
-                    "BUDDY",
-                    "CULT",
-                    "DATE",
-                    "SILENT"
+                    "BRAKES",
+                    "FIST",
+                    "GAS",
+                    "IRON"
                 ]
             }
         ]
