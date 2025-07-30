@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-29",
+        "date": "2025-07-30",
         "answers": [
             {
                 "level": 0,
-                "group": "DISCOUNT",
+                "group": "INSTRUCT",
                 "members": [
-                    "DEAL",
-                    "PROMOTION",
-                    "SALE",
-                    "SPECIAL"
+                    "COACH",
+                    "DIRECT",
+                    "GUIDE",
+                    "TRAIN"
                 ]
             },
             {
                 "level": 1,
-                "group": "IRRITATE",
+                "group": "MEANS",
                 "members": [
-                    "BUG",
-                    "NETTLE",
-                    "RUFFLE",
-                    "STEAM"
+                    "INSTRUMENT",
+                    "MEDIUM",
+                    "ORGAN",
+                    "VEHICLE"
                 ]
             },
             {
                 "level": 2,
-                "group": "POKER ACTIONS",
+                "group": "STARTING WITH GREEK NUMERICAL PREFIXES",
                 "members": [
-                    "CALL",
-                    "CHECK",
-                    "FOLD",
-                    "RAISE"
+                    "DIOXIDE",
+                    "MONORAIL",
+                    "TETRACYCLINE",
+                    "TRIANGLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS YOU CAN PUMP",
+                "group": "ANAGRAMS OF MUSICAL INSTRUMENTS",
                 "members": [
-                    "BRAKES",
-                    "FIST",
-                    "GAS",
-                    "IRON"
+                    "ABUT",
+                    "BULGE",
+                    "GROAN",
+                    "VOILA"
                 ]
             }
         ]
