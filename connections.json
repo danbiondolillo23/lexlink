@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-30",
+        "date": "2025-07-31",
         "answers": [
             {
                 "level": 0,
-                "group": "INSTRUCT",
+                "group": "FIRST ___",
                 "members": [
-                    "COACH",
-                    "DIRECT",
-                    "GUIDE",
-                    "TRAIN"
+                    "AID",
+                    "LADY",
+                    "NATIONS",
+                    "RESPONDER"
                 ]
             },
             {
                 "level": 1,
-                "group": "MEANS",
+                "group": "SECOND ___",
                 "members": [
-                    "INSTRUMENT",
-                    "MEDIUM",
-                    "ORGAN",
-                    "VEHICLE"
+                    "COMING",
+                    "FIDDLE",
+                    "GUESS",
+                    "NATURE"
                 ]
             },
             {
                 "level": 2,
-                "group": "STARTING WITH GREEK NUMERICAL PREFIXES",
+                "group": "THIRD ___",
                 "members": [
-                    "DIOXIDE",
-                    "MONORAIL",
-                    "TETRACYCLINE",
-                    "TRIANGLE"
+                    "EYE",
+                    "PARTY",
+                    "RAIL",
+                    "ROCK"
                 ]
             },
             {
                 "level": 3,
-                "group": "ANAGRAMS OF MUSICAL INSTRUMENTS",
+                "group": "LAST ___",
                 "members": [
-                    "ABUT",
-                    "BULGE",
-                    "GROAN",
-                    "VOILA"
+                    "LAUGH",
+                    "RESORT",
+                    "STRAW",
+                    "SUPPER"
                 ]
             }
         ]
