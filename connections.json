@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-07-31",
+        "date": "2025-08-01",
         "answers": [
             {
                 "level": 0,
-                "group": "FIRST ___",
+                "group": "APTITUDE",
                 "members": [
-                    "AID",
-                    "LADY",
-                    "NATIONS",
-                    "RESPONDER"
+                    "BENT",
+                    "FACULTY",
+                    "FLAIR",
+                    "GIFT"
                 ]
             },
             {
                 "level": 1,
-                "group": "SECOND ___",
+                "group": "SILENT \u201cW\u201d",
                 "members": [
-                    "COMING",
-                    "FIDDLE",
-                    "GUESS",
-                    "NATURE"
+                    "PLAYWRIGHT",
+                    "SWORD",
+                    "WRAP",
+                    "WREATH"
                 ]
             },
             {
                 "level": 2,
-                "group": "THIRD ___",
+                "group": "LEGENDS OF CLASSIC HOLLYWOOD",
                 "members": [
-                    "EYE",
-                    "PARTY",
-                    "RAIL",
-                    "ROCK"
+                    "DEAN",
+                    "GABLE",
+                    "GARLAND",
+                    "TEMPLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "LAST ___",
+                "group": "HIT THE ___",
                 "members": [
-                    "LAUGH",
-                    "RESORT",
-                    "STRAW",
-                    "SUPPER"
+                    "HAY",
+                    "JACKPOT",
+                    "ROAD",
+                    "ROOF"
                 ]
             }
         ]
