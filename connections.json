@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-01",
+        "date": "2025-08-02",
         "answers": [
             {
                 "level": 0,
-                "group": "APTITUDE",
+                "group": "ATTACH WITH ADHESIVE",
                 "members": [
-                    "BENT",
-                    "FACULTY",
-                    "FLAIR",
-                    "GIFT"
+                    "ADHERE",
+                    "AFFIX",
+                    "GLUE",
+                    "STICK"
                 ]
             },
             {
                 "level": 1,
-                "group": "SILENT \u201cW\u201d",
+                "group": "POLITE TERMS FOR SEX",
                 "members": [
-                    "PLAYWRIGHT",
-                    "SWORD",
-                    "WRAP",
-                    "WREATH"
+                    "COMMERCE",
+                    "CONGRESS",
+                    "INTIMACY",
+                    "RELATIONS"
                 ]
             },
             {
                 "level": 2,
-                "group": "LEGENDS OF CLASSIC HOLLYWOOD",
+                "group": "BOWLING RESULTS",
                 "members": [
-                    "DEAN",
-                    "GABLE",
-                    "GARLAND",
-                    "TEMPLE"
+                    "FOUL",
+                    "SPARE",
+                    "SPLIT",
+                    "STRIKE"
                 ]
             },
             {
                 "level": 3,
-                "group": "HIT THE ___",
+                "group": "CONTRONYMS (WORDS THAT CAN MEAN OPPOSITE THINGS)",
                 "members": [
-                    "HAY",
-                    "JACKPOT",
-                    "ROAD",
-                    "ROOF"
+                    "CLEAVE",
+                    "GARNISH",
+                    "OVERSIGHT",
+                    "SANCTION"
                 ]
             }
         ]
