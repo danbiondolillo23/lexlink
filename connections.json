@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-02",
+        "date": "2025-08-03",
         "answers": [
             {
                 "level": 0,
-                "group": "ATTACH WITH ADHESIVE",
+                "group": "EMULATE",
                 "members": [
-                    "ADHERE",
-                    "AFFIX",
-                    "GLUE",
-                    "STICK"
+                    "COPY",
+                    "ECHO",
+                    "MIRROR",
+                    "PARROT"
                 ]
             },
             {
                 "level": 1,
-                "group": "POLITE TERMS FOR SEX",
+                "group": "SPORTS",
                 "members": [
-                    "COMMERCE",
-                    "CONGRESS",
-                    "INTIMACY",
-                    "RELATIONS"
+                    "CRICKET",
+                    "GOLF",
+                    "POLO",
+                    "SQUASH"
                 ]
             },
             {
                 "level": 2,
-                "group": "BOWLING RESULTS",
+                "group": "MANIA",
                 "members": [
-                    "FOUL",
-                    "SPARE",
-                    "SPLIT",
-                    "STRIKE"
+                    "BUG",
+                    "CRAZE",
+                    "FAD",
+                    "FEVER"
                 ]
             },
             {
                 "level": 3,
-                "group": "CONTRONYMS (WORDS THAT CAN MEAN OPPOSITE THINGS)",
+                "group": "SINGLE ANIMAL IN A CREATIVELY SPELLED BAND NAME",
                 "members": [
-                    "CLEAVE",
-                    "GARNISH",
-                    "OVERSIGHT",
-                    "SANCTION"
+                    "BEETLE",
+                    "BIRD",
+                    "GORILLA",
+                    "MONKEY"
                 ]
             }
         ]
