@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-04",
+        "date": "2025-08-05",
         "answers": [
             {
                 "level": 0,
-                "group": "ARTHROPODS",
+                "group": "SUBTERRANEAN TRANSIT",
                 "members": [
-                    "APHID",
-                    "BEETLE",
-                    "MITE",
-                    "TICK"
+                    "METRO",
+                    "SUBWAY",
+                    "TUBE",
+                    "UNDERGROUND"
                 ]
             },
             {
                 "level": 1,
-                "group": "TREES",
+                "group": "MAKE INTO SMALLER PIECES WHILE COOKING",
                 "members": [
-                    "BEECH",
-                    "CEDAR",
-                    "PINE",
-                    "YEW"
+                    "CUBE",
+                    "GRATE",
+                    "MINCE",
+                    "SLICE"
                 ]
             },
             {
                 "level": 2,
-                "group": "[LETTER] (IS) FOR ___",
+                "group": "USED TO DECORATE A SNOWMAN",
                 "members": [
-                    "APPLE",
-                    "COOKIE",
-                    "EFFORT",
-                    "VENDETTA"
+                    "CARROT",
+                    "COAL",
+                    "PIPE",
+                    "SCARF"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS THAT SOUNDS LIKE TWO LETTERS",
+                "group": "___ CODE",
                 "members": [
-                    "DECAY",
-                    "EASY",
-                    "GEO",
-                    "ZITI"
+                    "DRESS",
+                    "HEALTH",
+                    "SECRET",
+                    "ZIP"
                 ]
             }
         ]
