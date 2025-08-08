@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-07",
+        "date": "2025-08-08",
         "answers": [
             {
                 "level": 0,
-                "group": "MOUSE ACTIONS",
+                "group": "MAKE EQUAL, AS A SCORE",
                 "members": [
-                    "CLICK",
-                    "DRAG",
-                    "HOVER",
-                    "SCROLL"
+                    "DRAW",
+                    "EVEN",
+                    "SQUARE",
+                    "TIE"
                 ]
             },
             {
                 "level": 1,
-                "group": "PERFORATE",
+                "group": "BESTOW",
                 "members": [
-                    "BORE",
-                    "PIERCE",
-                    "POKE",
-                    "PUNCH"
+                    "CONFER",
+                    "GRANT",
+                    "PRESENT",
+                    "VEST"
                 ]
             },
             {
                 "level": 2,
-                "group": "ONES WITH POINTY EARS",
+                "group": "THINGS YOU MIGHT DO DURING A BORING CLASS/MEETING",
                 "members": [
-                    "BATMAN",
-                    "DEVIL",
-                    "ELF",
-                    "VULCAN"
+                    "DOODLE",
+                    "DOZE",
+                    "PASS NOTES",
+                    "SPACE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WIMBLEDON WINNERS",
+                "group": "WORDS AFTER THE LETTERS \u201cMS\u201d",
                 "members": [
-                    "BORG",
-                    "GRAF",
-                    "KING",
-                    "SINNER"
+                    "DEGREE",
+                    "MARVEL",
+                    "PAC-MAN",
+                    "PAINT"
                 ]
             }
         ]
