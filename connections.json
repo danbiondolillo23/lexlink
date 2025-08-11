@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-10",
+        "date": "2025-08-11",
         "answers": [
             {
                 "level": 0,
-                "group": "INFLUENCE",
+                "group": "ORDINARY",
                 "members": [
-                    "JUICE",
-                    "PULL",
-                    "SWAY",
-                    "WEIGHT"
+                    "NORMAL",
+                    "PLAIN",
+                    "STANDARD",
+                    "VANILLA"
                 ]
             },
             {
                 "level": 1,
-                "group": "AMASS",
+                "group": "ABANDON",
                 "members": [
-                    "CLUSTER",
-                    "COLLECT",
-                    "CONCENTRATE",
-                    "GROUP"
+                    "DESERT",
+                    "DUMP",
+                    "MAROON",
+                    "STRAND"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF FICTION",
+                "group": "SPECS ON CONSUMER PACKAGING",
                 "members": [
-                    "FAN",
-                    "HISTORICAL",
-                    "PULP",
-                    "SCIENCE"
+                    "COUNT",
+                    "MEASURE",
+                    "WEIGHT",
+                    "VOLUME"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH MATH AND SCIENCE CLASSES, FOR SHORT",
+                "group": "DARK ___",
                 "members": [
-                    "BIOPIC",
-                    "CALCIUM",
-                    "CHEMISE",
-                    "TRIGLYCERIDE"
+                    "AGES",
+                    "CHOCOLATE",
+                    "HORSE",
+                    "MATTER"
                 ]
             }
         ]
