@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-11",
+        "date": "2025-08-12",
         "answers": [
             {
                 "level": 0,
-                "group": "ORDINARY",
+                "group": "GROUPS OF TEN",
                 "members": [
-                    "NORMAL",
-                    "PLAIN",
-                    "STANDARD",
-                    "VANILLA"
+                    "BOWLING PINS",
+                    "COMMANDMENTS",
+                    "DECADE",
+                    "FINGERS"
                 ]
             },
             {
                 "level": 1,
-                "group": "ABANDON",
+                "group": "PLACES WITH LANES",
                 "members": [
-                    "DESERT",
-                    "DUMP",
-                    "MAROON",
-                    "STRAND"
+                    "BOWLING ALLEY",
+                    "HIGHWAY",
+                    "SUPERMARKET",
+                    "SWIMMING POOL"
                 ]
             },
             {
                 "level": 2,
-                "group": "SPECS ON CONSUMER PACKAGING",
+                "group": "LANDMARKS IN DOWNTOWN NYC",
                 "members": [
-                    "COUNT",
-                    "MEASURE",
-                    "WEIGHT",
-                    "VOLUME"
+                    "BOWLING GREEN",
+                    "BROOKLYN BRIDGE",
+                    "CITY HALL",
+                    "WALL STREET"
                 ]
             },
             {
                 "level": 3,
-                "group": "DARK ___",
+                "group": "THINGS WITH HOLES",
                 "members": [
-                    "AGES",
-                    "CHOCOLATE",
-                    "HORSE",
-                    "MATTER"
+                    "BOWLING BALL",
+                    "COLANDER",
+                    "GOLF COURSE",
+                    "SPONGE"
                 ]
             }
         ]
