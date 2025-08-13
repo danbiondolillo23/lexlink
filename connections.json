@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-12",
+        "date": "2025-08-13",
         "answers": [
             {
                 "level": 0,
-                "group": "GROUPS OF TEN",
+                "group": "CAPTIVATE",
                 "members": [
-                    "BOWLING PINS",
-                    "COMMANDMENTS",
-                    "DECADE",
-                    "FINGERS"
+                    "CHARM",
+                    "ENTRANCE",
+                    "RIVET",
+                    "THRILL"
                 ]
             },
             {
                 "level": 1,
-                "group": "PLACES WITH LANES",
+                "group": "EXCERPT",
                 "members": [
-                    "BOWLING ALLEY",
-                    "HIGHWAY",
-                    "SUPERMARKET",
-                    "SWIMMING POOL"
+                    "CLIP",
+                    "EXTRACT",
+                    "PASSAGE",
+                    "QUOTE"
                 ]
             },
             {
                 "level": 2,
-                "group": "LANDMARKS IN DOWNTOWN NYC",
+                "group": "MEMBER OF A GIRL GROUP",
                 "members": [
-                    "BOWLING GREEN",
-                    "BROOKLYN BRIDGE",
-                    "CITY HALL",
-                    "WALL STREET"
+                    "BANGLE",
+                    "CHICK",
+                    "GO-GO",
+                    "SUPREME"
                 ]
             },
             {
                 "level": 3,
-                "group": "THINGS WITH HOLES",
+                "group": "STAR___",
                 "members": [
-                    "BOWLING BALL",
-                    "COLANDER",
-                    "GOLF COURSE",
-                    "SPONGE"
+                    "BOARD",
+                    "FISH",
+                    "GATE",
+                    "STRUCK"
                 ]
             }
         ]
