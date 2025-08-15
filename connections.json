@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-14",
+        "date": "2025-08-15",
         "answers": [
             {
                 "level": 0,
-                "group": "DERRIERE",
+                "group": "POULTRY CUTS",
                 "members": [
-                    "BACKSIDE",
-                    "CABOOSE",
-                    "SEAT",
-                    "TAIL"
+                    "BREAST",
+                    "TENDER",
+                    "THIGH",
+                    "WING"
                 ]
             },
             {
                 "level": 1,
-                "group": "USED TO HIT A BALL IN SPORTS",
+                "group": "HANDLE, AS A BILL",
                 "members": [
-                    "BAT",
-                    "MALLET",
-                    "RACKET",
-                    "STICK"
+                    "FOOT",
+                    "PAY",
+                    "SETTLE",
+                    "TAKE CARE OF"
                 ]
             },
             {
                 "level": 2,
-                "group": "COMPONENTS OF A BRIDE\u2019S ENSEMBLE",
+                "group": "SPLENDID",
                 "members": [
-                    "BOUQUET",
-                    "BUSTLE",
-                    "TRAIN",
-                    "VEIL"
+                    "BRILLIANT",
+                    "CAPITAL",
+                    "FINE",
+                    "GRAND"
                 ]
             },
             {
                 "level": 3,
-                "group": "RHYMING COMPOUND WORDS",
+                "group": "STARTS OF CULINARY NUTS",
                 "members": [
-                    "BACKPACK",
-                    "COOKBOOK",
-                    "HUBBUB",
-                    "NITWIT"
+                    "CASH",
+                    "HAZE",
+                    "MAC",
+                    "PEC"
                 ]
             }
         ]
