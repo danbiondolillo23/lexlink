@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-15",
+        "date": "2025-08-16",
         "answers": [
             {
                 "level": 0,
-                "group": "POULTRY CUTS",
+                "group": "INTREPIDITY",
                 "members": [
-                    "BREAST",
-                    "TENDER",
-                    "THIGH",
-                    "WING"
+                    "FORTITUDE",
+                    "GRIT",
+                    "PLUCK",
+                    "RESOLVE"
                 ]
             },
             {
                 "level": 1,
-                "group": "HANDLE, AS A BILL",
+                "group": "RENOVATIONS",
                 "members": [
-                    "FOOT",
-                    "PAY",
-                    "SETTLE",
-                    "TAKE CARE OF"
+                    "CONSTRUCTION",
+                    "REPAIRS",
+                    "UPGRADES",
+                    "WORK"
                 ]
             },
             {
                 "level": 2,
-                "group": "SPLENDID",
+                "group": "TROUNCE",
                 "members": [
-                    "BRILLIANT",
-                    "CAPITAL",
-                    "FINE",
-                    "GRAND"
+                    "CREAM",
+                    "CRUSH",
+                    "ROUT",
+                    "SHELLAC"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTS OF CULINARY NUTS",
+                "group": "KINDS OF SOFT/LIGHTWEIGHT PAPER",
                 "members": [
-                    "CASH",
-                    "HAZE",
-                    "MAC",
-                    "PEC"
+                    "CREPE",
+                    "ROLLING",
+                    "TISSUE",
+                    "TOILET"
                 ]
             }
         ]
