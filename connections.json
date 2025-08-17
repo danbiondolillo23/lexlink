@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-16",
+        "date": "2025-08-17",
         "answers": [
             {
                 "level": 0,
-                "group": "INTREPIDITY",
+                "group": "CONVENIENTLY LOCATED",
                 "members": [
-                    "FORTITUDE",
-                    "GRIT",
-                    "PLUCK",
-                    "RESOLVE"
+                    "ACCESSIBLE",
+                    "CLOSE",
+                    "HANDY",
+                    "NEARBY"
                 ]
             },
             {
                 "level": 1,
-                "group": "RENOVATIONS",
+                "group": "NEEDS FOR SENDING A LETTER",
                 "members": [
-                    "CONSTRUCTION",
-                    "REPAIRS",
-                    "UPGRADES",
-                    "WORK"
+                    "ADDRESS",
+                    "ENVELOPE",
+                    "NAME",
+                    "STAMP"
                 ]
             },
             {
                 "level": 2,
-                "group": "TROUNCE",
+                "group": "WORDS ON A DOOR",
                 "members": [
-                    "CREAM",
-                    "CRUSH",
-                    "ROUT",
-                    "SHELLAC"
+                    "EXIT",
+                    "OPEN",
+                    "PUSH",
+                    "WELCOME"
                 ]
             },
             {
                 "level": 3,
-                "group": "KINDS OF SOFT/LIGHTWEIGHT PAPER",
+                "group": "FIRST AMENDMENT FREEDOMS",
                 "members": [
-                    "CREPE",
-                    "ROLLING",
-                    "TISSUE",
-                    "TOILET"
+                    "ASSEMBLY",
+                    "PETITION",
+                    "PRESS",
+                    "SPEECH"
                 ]
             }
         ]
