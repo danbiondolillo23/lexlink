@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-17",
+        "date": "2025-08-18",
         "answers": [
             {
                 "level": 0,
-                "group": "CONVENIENTLY LOCATED",
+                "group": "INDICATION",
                 "members": [
-                    "ACCESSIBLE",
-                    "CLOSE",
-                    "HANDY",
-                    "NEARBY"
+                    "CUE",
+                    "NOD",
+                    "PROMPT",
+                    "SIGNAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "NEEDS FOR SENDING A LETTER",
+                "group": "OPPORTUNITY",
                 "members": [
-                    "ADDRESS",
-                    "ENVELOPE",
-                    "NAME",
-                    "STAMP"
+                    "BREAK",
+                    "CHANCE",
+                    "OPENING",
+                    "SHOT"
                 ]
             },
             {
                 "level": 2,
-                "group": "WORDS ON A DOOR",
+                "group": "HOTEL AMENITIES",
                 "members": [
-                    "EXIT",
-                    "OPEN",
-                    "PUSH",
-                    "WELCOME"
+                    "BREAKFAST",
+                    "PARKING",
+                    "POOL",
+                    "WI-FI"
                 ]
             },
             {
                 "level": 3,
-                "group": "FIRST AMENDMENT FREEDOMS",
+                "group": "WORDS BEFORE \"WATCH\"",
                 "members": [
-                    "ASSEMBLY",
-                    "PETITION",
-                    "PRESS",
-                    "SPEECH"
+                    "DIGITAL",
+                    "POCKET",
+                    "STOP",
+                    "WRIST"
                 ]
             }
         ]
