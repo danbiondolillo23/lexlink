@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-18",
+        "date": "2025-08-19",
         "answers": [
             {
                 "level": 0,
-                "group": "INDICATION",
+                "group": "QUITE THE TALKER",
                 "members": [
-                    "CUE",
-                    "NOD",
-                    "PROMPT",
-                    "SIGNAL"
+                    "BLABBERMOUTH",
+                    "CHATTERBOX",
+                    "PRATTLER",
+                    "WINDBAG"
                 ]
             },
             {
                 "level": 1,
-                "group": "OPPORTUNITY",
+                "group": "FORTIFIED WINES",
                 "members": [
-                    "BREAK",
-                    "CHANCE",
-                    "OPENING",
-                    "SHOT"
+                    "MARSALA",
+                    "PORT",
+                    "SHERRY",
+                    "VERMOUTH"
                 ]
             },
             {
                 "level": 2,
-                "group": "HOTEL AMENITIES",
+                "group": "___ ROCK",
                 "members": [
-                    "BREAKFAST",
-                    "PARKING",
-                    "POOL",
-                    "WI-FI"
+                    "CLASSIC",
+                    "LITTLE",
+                    "PLYMOUTH",
+                    "THE"
                 ]
             },
             {
                 "level": 3,
-                "group": "WORDS BEFORE \"WATCH\"",
+                "group": "STARTING WITH WAYS TO MOVE QUICKLY",
                 "members": [
-                    "DIGITAL",
-                    "POCKET",
-                    "STOP",
-                    "WRIST"
+                    "DARTMOUTH",
+                    "DASHBOARD",
+                    "FLYWHEEL",
+                    "RUSHMORE"
                 ]
             }
         ]
