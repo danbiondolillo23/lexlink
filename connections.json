@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-19",
+        "date": "2025-08-20",
         "answers": [
             {
                 "level": 0,
-                "group": "QUITE THE TALKER",
+                "group": "BLACK-AND-WHITE THINGS",
                 "members": [
-                    "BLABBERMOUTH",
-                    "CHATTERBOX",
-                    "PRATTLER",
-                    "WINDBAG"
+                    "DOMINO",
+                    "PIANO KEYS",
+                    "YIN-YANG SYMBOL",
+                    "ZEBRA"
                 ]
             },
             {
                 "level": 1,
-                "group": "FORTIFIED WINES",
+                "group": "PAIRS OF RODS",
                 "members": [
-                    "MARSALA",
-                    "PORT",
-                    "SHERRY",
-                    "VERMOUTH"
+                    "CHOPSTICKS",
+                    "CLAVES",
+                    "KNITTING NEEDLES",
+                    "SKI POLES"
                 ]
             },
             {
                 "level": 2,
-                "group": "___ ROCK",
+                "group": "THINGS THAT ROTATE ABOUT A VERTICAL AXIS",
                 "members": [
-                    "CLASSIC",
-                    "LITTLE",
-                    "PLYMOUTH",
-                    "THE"
+                    "BARBER POLE",
+                    "CAROUSEL",
+                    "CEILING FAN",
+                    "LAZY SUSAN"
                 ]
             },
             {
                 "level": 3,
-                "group": "STARTING WITH WAYS TO MOVE QUICKLY",
+                "group": "RODS THAT CURVE AT ONE END",
                 "members": [
-                    "DARTMOUTH",
-                    "DASHBOARD",
-                    "FLYWHEEL",
-                    "RUSHMORE"
+                    "CANDY CANE",
+                    "CROCHET HOOK",
+                    "CROOK",
+                    "CROWBAR"
                 ]
             }
         ]
