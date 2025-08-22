@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-21",
+        "date": "2025-08-22",
         "answers": [
             {
                 "level": 0,
-                "group": "BLUNDER",
+                "group": "U.S. PRESIDENTS",
                 "members": [
-                    "BOO-BOO",
-                    "FLUB",
-                    "GAFFE",
-                    "NO-NO"
+                    "ADAMS",
+                    "FORD",
+                    "GRANT",
+                    "WASHINGTON"
                 ]
             },
             {
                 "level": 1,
-                "group": "LANDS OF THE IMAGINATION",
+                "group": "ACTORS WHOSE LAST NAMES ARE ALSO VERBS",
                 "members": [
-                    "DREAM",
-                    "FANTASY",
-                    "LA-LA",
-                    "NEVER NEVER"
+                    "CHEVY CHASE",
+                    "CHRISTOPH WALTZ",
+                    "GEOFFREY RUSH",
+                    "TOM CRUISE"
                 ]
             },
             {
                 "level": 2,
-                "group": "THINGS WITH ANTENNA/E",
+                "group": "KINDS OF POKER",
                 "members": [
-                    "INSECT",
-                    "RADIO TOWER",
-                    "SATELLITE DISH",
-                    "TELETUBBY"
+                    "DRAW",
+                    "OMAHA",
+                    "STRIP",
+                    "STUD"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ DOODLE",
+                "group": "PROPER NOUNS AFTER GERUNDS IN '90S MOVIE TITLES",
                 "members": [
-                    "CHEESE",
-                    "DIPSY",
-                    "GOOGLE",
-                    "YANKEE"
+                    "AMY",
+                    "JOHN MALKOVICH",
+                    "LAS VEGAS",
+                    "PRIVATE RYAN"
                 ]
             }
         ]
