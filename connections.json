@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-22",
+        "date": "2025-08-23",
         "answers": [
             {
                 "level": 0,
-                "group": "U.S. PRESIDENTS",
+                "group": "LIQUIDS YOU PUT INTO CARS",
                 "members": [
-                    "ADAMS",
-                    "FORD",
-                    "GRANT",
-                    "WASHINGTON"
+                    "BRAKE FLUID",
+                    "COOLANT",
+                    "FUEL",
+                    "OIL"
                 ]
             },
             {
                 "level": 1,
-                "group": "ACTORS WHOSE LAST NAMES ARE ALSO VERBS",
+                "group": "ARENA",
                 "members": [
-                    "CHEVY CHASE",
-                    "CHRISTOPH WALTZ",
-                    "GEOFFREY RUSH",
-                    "TOM CRUISE"
+                    "BOWL",
+                    "COLISEUM",
+                    "HIPPODROME",
+                    "STADIUM"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF POKER",
+                "group": "SKULDUGGERY",
                 "members": [
-                    "DRAW",
-                    "OMAHA",
-                    "STRIP",
-                    "STUD"
+                    "CHICANERY",
+                    "DECEIT",
+                    "LEGERDEMAIN",
+                    "SUBTERFUGE"
                 ]
             },
             {
                 "level": 3,
-                "group": "PROPER NOUNS AFTER GERUNDS IN '90S MOVIE TITLES",
+                "group": "MODERN INVENTIONS",
                 "members": [
-                    "AMY",
-                    "JOHN MALKOVICH",
-                    "LAS VEGAS",
-                    "PRIVATE RYAN"
+                    "CRYPTO",
+                    "PODCAST",
+                    "SMARTWATCH",
+                    "VAPE"
                 ]
             }
         ]
