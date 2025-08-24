@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-23",
+        "date": "2025-08-24",
         "answers": [
             {
                 "level": 0,
-                "group": "LIQUIDS YOU PUT INTO CARS",
+                "group": "WINE VESSELS",
                 "members": [
-                    "BRAKE FLUID",
-                    "COOLANT",
-                    "FUEL",
-                    "OIL"
+                    "BOTTLE",
+                    "CARAFE",
+                    "DECANTER",
+                    "GLASS"
                 ]
             },
             {
                 "level": 1,
-                "group": "ARENA",
+                "group": "RIPPED",
                 "members": [
-                    "BOWL",
-                    "COLISEUM",
-                    "HIPPODROME",
-                    "STADIUM"
+                    "CLEFT",
+                    "RENT",
+                    "SPLIT",
+                    "TORN"
                 ]
             },
             {
                 "level": 2,
-                "group": "SKULDUGGERY",
+                "group": "KINDS OF SNAKES",
                 "members": [
-                    "CHICANERY",
-                    "DECEIT",
-                    "LEGERDEMAIN",
-                    "SUBTERFUGE"
+                    "CORAL",
+                    "GARTER",
+                    "KING",
+                    "RATTLE"
                 ]
             },
             {
                 "level": 3,
-                "group": "MODERN INVENTIONS",
+                "group": "___ CALL",
                 "members": [
-                    "CRYPTO",
-                    "PODCAST",
-                    "SMARTWATCH",
-                    "VAPE"
+                    "BOOTY",
+                    "CLOSE",
+                    "COLD",
+                    "CURTAIN"
                 ]
             }
         ]
