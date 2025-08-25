@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-24",
+        "date": "2025-08-25",
         "answers": [
             {
                 "level": 0,
-                "group": "WINE VESSELS",
+                "group": "PREDICAMENT",
                 "members": [
-                    "BOTTLE",
-                    "CARAFE",
-                    "DECANTER",
-                    "GLASS"
+                    "FIX",
+                    "JAM",
+                    "MESS",
+                    "PICKLE"
                 ]
             },
             {
                 "level": 1,
-                "group": "RIPPED",
+                "group": "SMALL SPHERICAL THINGS",
                 "members": [
-                    "CLEFT",
-                    "RENT",
-                    "SPLIT",
-                    "TORN"
+                    "MOTHBALL",
+                    "PEA",
+                    "PEARL",
+                    "POM-POM"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF SNAKES",
+                "group": "PIPE-SMOKING ACCESSORIES",
                 "members": [
-                    "CORAL",
-                    "GARTER",
-                    "KING",
-                    "RATTLE"
+                    "FILTER",
+                    "LIGHTER",
+                    "PIPE CLEANER",
+                    "TAMPER"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ CALL",
+                "group": "WHAT \"DOWN\" MIGHT MEAN",
                 "members": [
-                    "BOOTY",
-                    "CLOSE",
-                    "COLD",
-                    "CURTAIN"
+                    "FEATHERS",
+                    "GUZZLE",
+                    "SAD",
+                    "WILLING"
                 ]
             }
         ]
