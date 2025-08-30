@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-29",
+        "date": "2025-08-30",
         "answers": [
             {
                 "level": 0,
-                "group": "FAMOUS PERSON",
+                "group": "MUSIC GENRES",
                 "members": [
-                    "FIGURE",
-                    "NAME",
-                    "PERSONALITY",
-                    "STAR"
+                    "EMO",
+                    "FUNK",
+                    "METAL",
+                    "POP"
                 ]
             },
             {
                 "level": 1,
-                "group": "INCREASE",
+                "group": "NOT BE GOOD",
                 "members": [
-                    "BALLOON",
-                    "MOUNT",
-                    "MUSHROOM",
-                    "WAX"
+                    "BITE",
+                    "BLOW",
+                    "STINK",
+                    "SUCK"
                 ]
             },
             {
                 "level": 2,
-                "group": "PLACES THAT SELL GAS",
+                "group": "DO EXCEPTIONALLY WELL",
                 "members": [
-                    "7-ELEVEN",
-                    "CHEVRON",
-                    "GULF",
-                    "SHELL"
+                    "EAT",
+                    "ROCK",
+                    "RULE",
+                    "SLAY"
                 ]
             },
             {
                 "level": 3,
-                "group": "___ SPLIT",
+                "group": "CONTEMPORARY COMPOSERS",
                 "members": [
-                    "7-10",
-                    "BANANA",
-                    "LICKETY",
-                    "STOCK"
+                    "CAGE",
+                    "ENO",
+                    "GLASS",
+                    "REICH"
                 ]
             }
         ]
