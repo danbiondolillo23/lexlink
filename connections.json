@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-08-31",
+        "date": "2025-09-01",
         "answers": [
             {
                 "level": 0,
-                "group": "CRITICIZE HARSHLY",
+                "group": "FIRST APPEARANCE",
                 "members": [
-                    "BASH",
-                    "BLAST",
-                    "FLAME",
-                    "ROAST"
+                    "DEBUT",
+                    "INTRODUCTION",
+                    "LAUNCH",
+                    "PREMIERE"
                 ]
             },
             {
                 "level": 1,
-                "group": "COMMON COMPONENTS OF BOARD GAMES",
+                "group": "ONES CELEBRATED WITH HOLIDAYS",
                 "members": [
-                    "BOARD",
-                    "CARDS",
-                    "DICE",
-                    "PIECES"
+                    "MOTHER",
+                    "PRESIDENT",
+                    "SAINT PATRICK",
+                    "SAINT VALENTINE"
                 ]
             },
             {
                 "level": 2,
-                "group": "HETERONYMS",
+                "group": "FAMOUS POETS",
                 "members": [
-                    "AXES",
-                    "BASS",
-                    "COORDINATE",
-                    "DOES"
+                    "BISHOP",
+                    "BURNS",
+                    "LORDE",
+                    "POPE"
                 ]
             },
             {
                 "level": 3,
-                "group": "___STICKS",
+                "group": "WHAT \"CARDINAL\" MIGHT REFER TO",
                 "members": [
-                    "CHOP",
-                    "DRUM",
-                    "FIDDLE",
-                    "FISH"
+                    "BIRD",
+                    "CLERGY MEMBER",
+                    "M.L.B. PLAYER",
+                    "N.F.L. PLAYER"
                 ]
             }
         ]
