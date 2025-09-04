@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-03",
+        "date": "2025-09-04",
         "answers": [
             {
                 "level": 0,
-                "group": "BEGINNING",
+                "group": "WHAT YOU MIGHT SEE ON A CHRISTMAS TREE",
                 "members": [
-                    "BIRTH",
-                    "DAWN",
-                    "GENESIS",
-                    "START"
+                    "ANGEL",
+                    "CANDY CANE",
+                    "STRING LIGHTS",
+                    "TINSEL"
                 ]
             },
             {
                 "level": 1,
-                "group": "JOIN",
+                "group": "CLEAN UP, AS A PHOTOGRAPH",
                 "members": [
-                    "BOND",
-                    "COMBINE",
-                    "FUSE",
-                    "WED"
+                    "AIRBRUSH",
+                    "FIX",
+                    "PHOTOSHOP",
+                    "TOUCH UP"
                 ]
             },
             {
                 "level": 2,
-                "group": "TV-RELATED ABBREVIATIONS IN THE '80S",
+                "group": "FRENCH FOOD WORDS",
                 "members": [
-                    "ALF",
-                    "MTV",
-                    "NES",
-                    "VHS"
+                    "CORNICHON",
+                    "PAIN",
+                    "PAMPLEMOUSSE",
+                    "VINAIGRETTE"
                 ]
             },
             {
                 "level": 3,
-                "group": "MAY___",
+                "group": "THINGS WITH CELLS",
                 "members": [
-                    "DAY",
-                    "FLOWER",
-                    "FLY",
-                    "POLE"
+                    "HONEYCOMB",
+                    "ORGANISM",
+                    "SOLAR PANEL",
+                    "SPREADSHEET"
                 ]
             }
         ]
