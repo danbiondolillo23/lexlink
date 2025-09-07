@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-06",
+        "date": "2025-09-07",
         "answers": [
             {
                 "level": 0,
-                "group": "RUPTURED",
+                "group": "GYMNASTICS MOVES",
                 "members": [
-                    "BLEW",
-                    "BROKE",
-                    "BURST",
+                    "AERIAL",
+                    "ARABESQUE",
+                    "ROUNDOFF",
                     "SPLIT"
                 ]
             },
             {
                 "level": 1,
-                "group": "APPARITION",
+                "group": "DISNEY PRINCESSES",
                 "members": [
-                    "SHADE",
-                    "SPECTER",
-                    "SPIRIT",
-                    "WIGHT"
+                    "ARIEL",
+                    "AURORA",
+                    "MERIDA",
+                    "TIANA"
                 ]
             },
             {
                 "level": 2,
-                "group": "PREDICT",
+                "group": "FONTS",
                 "members": [
-                    "CALL",
-                    "DIVINE",
-                    "FORECAST",
-                    "READ"
+                    "ARIAL",
+                    "GEORGIA",
+                    "IMPACT",
+                    "VERDANA"
                 ]
             },
             {
                 "level": 3,
-                "group": "\"BEST ___ PERFORMANCE\" GRAMMY AWARD",
+                "group": "GEOMETRY ADJECTIVES",
                 "members": [
-                    "AMERICANA",
-                    "CHORAL",
-                    "JAZZ",
-                    "RAP"
+                    "ANGULAR",
+                    "AREAL",
+                    "LINEAR",
+                    "VOLUMETRIC"
                 ]
             }
         ]
