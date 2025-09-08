@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-07",
+        "date": "2025-09-08",
         "answers": [
             {
                 "level": 0,
-                "group": "GYMNASTICS MOVES",
+                "group": "NONSENSE",
                 "members": [
-                    "AERIAL",
-                    "ARABESQUE",
-                    "ROUNDOFF",
-                    "SPLIT"
+                    "BALONEY",
+                    "BULL",
+                    "BUNK",
+                    "RUBBISH"
                 ]
             },
             {
                 "level": 1,
-                "group": "DISNEY PRINCESSES",
+                "group": "INCREASE, WITH \"UP\"",
                 "members": [
-                    "ARIEL",
-                    "AURORA",
-                    "MERIDA",
-                    "TIANA"
+                    "CRANK",
+                    "HIKE",
+                    "JACK",
+                    "RAISE"
                 ]
             },
             {
                 "level": 2,
-                "group": "FONTS",
+                "group": "FICTIONAL SPIES",
                 "members": [
-                    "ARIAL",
-                    "GEORGIA",
-                    "IMPACT",
-                    "VERDANA"
+                    "ARCHER",
+                    "HUNT",
+                    "PEEL",
+                    "POWERS"
                 ]
             },
             {
                 "level": 3,
-                "group": "GEOMETRY ADJECTIVES",
+                "group": "CAT___",
                 "members": [
-                    "ANGULAR",
-                    "AREAL",
-                    "LINEAR",
-                    "VOLUMETRIC"
+                    "FISH",
+                    "NAP",
+                    "TAIL",
+                    "WALK"
                 ]
             }
         ]
