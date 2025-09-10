@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-09",
+        "date": "2025-09-10",
         "answers": [
             {
                 "level": 0,
-                "group": "FINISHED",
+                "group": "\"YOU SHOULD KNOW BETTER!\"",
                 "members": [
-                    "COMPLETE",
-                    "DONE",
-                    "OVER",
-                    "THROUGH"
+                    "BAD",
+                    "SHAME",
+                    "TSK",
+                    "TUT TUT"
                 ]
             },
             {
                 "level": 1,
-                "group": "THINGS WITH SHELLS",
+                "group": "MOVE QUICKLY",
                 "members": [
-                    "EGG",
-                    "HARD TACO",
-                    "M&M",
-                    "SNAIL"
+                    "BARREL",
+                    "FLY",
+                    "RACE",
+                    "ZIP"
                 ]
             },
             {
                 "level": 2,
-                "group": "SWIG",
+                "group": "EDDIE MURPHY ROLES",
                 "members": [
-                    "BELT",
-                    "GULP",
-                    "SHOT",
-                    "SLUG"
+                    "AKEEM",
+                    "DOLITTLE",
+                    "DONKEY",
+                    "FOLEY"
                 ]
             },
             {
                 "level": 3,
-                "group": "___DOG",
+                "group": "KING ___",
                 "members": [
-                    "BULL",
-                    "LAP",
-                    "UNDER",
-                    "WATCH"
+                    "CAKE",
+                    "COBRA",
+                    "KONG",
+                    "TUT"
                 ]
             }
         ]
