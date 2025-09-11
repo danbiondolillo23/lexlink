@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-10",
+        "date": "2025-09-11",
         "answers": [
             {
                 "level": 0,
-                "group": "\"YOU SHOULD KNOW BETTER!\"",
+                "group": "BLEMISH",
                 "members": [
-                    "BAD",
-                    "SHAME",
-                    "TSK",
-                    "TUT TUT"
+                    "DENT",
+                    "DING",
+                    "MAR",
+                    "SCRATCH"
                 ]
             },
             {
                 "level": 1,
-                "group": "MOVE QUICKLY",
+                "group": "BEHEMOTH",
                 "members": [
-                    "BARREL",
-                    "FLY",
-                    "RACE",
-                    "ZIP"
+                    "COLOSSUS",
+                    "MAMMOTH",
+                    "WHALE",
+                    "WHOPPER"
                 ]
             },
             {
                 "level": 2,
-                "group": "EDDIE MURPHY ROLES",
+                "group": "RUDE THINGS TO DO",
                 "members": [
-                    "AKEEM",
-                    "DOLITTLE",
-                    "DONKEY",
-                    "FOLEY"
+                    "POINT",
+                    "SNICKER",
+                    "STARE",
+                    "WHISPER"
                 ]
             },
             {
                 "level": 3,
-                "group": "KING ___",
+                "group": "ON A BASEBALL FIELD",
                 "members": [
-                    "CAKE",
-                    "COBRA",
-                    "KONG",
-                    "TUT"
+                    "BASE",
+                    "BOX",
+                    "MOUND",
+                    "PLATE"
                 ]
             }
         ]
