@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-12",
+        "date": "2025-09-13",
         "answers": [
             {
                 "level": 0,
-                "group": "ENTREATY",
+                "group": "IMPORTANT",
                 "members": [
-                    "APPEAL",
-                    "BID",
-                    "CALL",
-                    "PETITION"
+                    "CRITICAL",
+                    "KEY",
+                    "MAJOR",
+                    "PRINCIPAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "CONTACT INFO",
+                "group": "INTIMATE AND UNDISCLOSED",
                 "members": [
-                    "ADDRESS",
-                    "EMAIL",
-                    "NAME",
-                    "NUMBER"
+                    "INNER",
+                    "PERSONAL",
+                    "PRIVATE",
+                    "SECRET"
                 ]
             },
             {
                 "level": 2,
-                "group": "KINDS OF CAMERA LENSES",
+                "group": "GLOBAL CURRENCIES",
                 "members": [
-                    "FISHEYE",
-                    "MACRO",
-                    "TELEPHOTO",
-                    "ZOOM"
+                    "DOLLAR",
+                    "POUND",
+                    "STERLING",
+                    "WON"
                 ]
             },
             {
                 "level": 3,
-                "group": "BODIES OF WATER PLUS STARTING LETTER",
+                "group": "BUFFALO ___",
                 "members": [
-                    "DRIVER",
-                    "EBAY",
-                    "FINLET",
-                    "FLAKE"
+                    "BILL",
+                    "NICKEL",
+                    "SOLDIER",
+                    "WING"
                 ]
             }
         ]
