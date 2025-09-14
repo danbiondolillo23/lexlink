@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-13",
+        "date": "2025-09-14",
         "answers": [
             {
                 "level": 0,
-                "group": "IMPORTANT",
+                "group": "ENTRYWAY",
                 "members": [
-                    "CRITICAL",
-                    "KEY",
-                    "MAJOR",
-                    "PRINCIPAL"
+                    "DOOR",
+                    "GATE",
+                    "HATCH",
+                    "PORTAL"
                 ]
             },
             {
                 "level": 1,
-                "group": "INTIMATE AND UNDISCLOSED",
+                "group": "MAP FEATURES",
                 "members": [
-                    "INNER",
-                    "PERSONAL",
-                    "PRIVATE",
-                    "SECRET"
+                    "COMPASS",
+                    "INSET",
+                    "KEY",
+                    "SCALE"
                 ]
             },
             {
                 "level": 2,
-                "group": "GLOBAL CURRENCIES",
+                "group": "SURPASS",
                 "members": [
-                    "DOLLAR",
-                    "POUND",
-                    "STERLING",
-                    "WON"
+                    "BEAT",
+                    "BEST",
+                    "BETTER",
+                    "TOP"
                 ]
             },
             {
                 "level": 3,
-                "group": "BUFFALO ___",
+                "group": "STREETS WITH SYMBOLIC IMPORTANCE",
                 "members": [
-                    "BILL",
-                    "NICKEL",
-                    "SOLDIER",
-                    "WING"
+                    "DOWNING",
+                    "FLEET",
+                    "MAIN",
+                    "WALL"
                 ]
             }
         ]
