@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-14",
+        "date": "2025-09-15",
         "answers": [
             {
                 "level": 0,
-                "group": "ENTRYWAY",
+                "group": "FLOORING OPTIONS",
                 "members": [
-                    "DOOR",
-                    "GATE",
-                    "HATCH",
-                    "PORTAL"
+                    "CARPET",
+                    "LAMINATE",
+                    "TILE",
+                    "WOOD"
                 ]
             },
             {
                 "level": 1,
-                "group": "MAP FEATURES",
+                "group": "BEACHY AREA",
                 "members": [
-                    "COMPASS",
-                    "INSET",
-                    "KEY",
-                    "SCALE"
+                    "BANK",
+                    "COAST",
+                    "SHORE",
+                    "STRAND"
                 ]
             },
             {
                 "level": 2,
-                "group": "SURPASS",
+                "group": "ROMANTIC VIBE",
                 "members": [
-                    "BEAT",
-                    "BEST",
-                    "BETTER",
-                    "TOP"
+                    "CHEMISTRY",
+                    "CONNECTION",
+                    "FIREWORKS",
+                    "SPARK"
                 ]
             },
             {
                 "level": 3,
-                "group": "STREETS WITH SYMBOLIC IMPORTANCE",
+                "group": "MEMBER OF A CLASSIC BACKING BAND",
                 "members": [
-                    "DOWNING",
-                    "FLEET",
-                    "MAIN",
-                    "WALL"
+                    "BANSHEE",
+                    "HEARTBREAKER",
+                    "PIP",
+                    "WAILER"
                 ]
             }
         ]
