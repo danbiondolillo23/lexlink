@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-17",
+        "date": "2025-09-18",
         "answers": [
             {
                 "level": 0,
-                "group": "THEY'RE BLOWIN' IN THE WIND",
+                "group": "INTO IT",
                 "members": [
-                    "FLAG",
-                    "PINWHEEL",
-                    "VANE",
-                    "WIND CHIME"
+                    "DOWN",
+                    "EAGER",
+                    "GAME",
+                    "WILLING"
                 ]
             },
             {
                 "level": 1,
-                "group": "CHANGE ONE\u2019S TUNE",
+                "group": "FURNISH",
                 "members": [
-                    "ABOUT-FACE",
-                    "BACKPEDAL",
-                    "FLIP-FLOP",
-                    "RENEGE"
+                    "EQUIP",
+                    "OUTFIT",
+                    "PREPARE",
+                    "READY"
                 ]
             },
             {
                 "level": 2,
-                "group": "CRAM",
+                "group": "ORGS WITH STARS IN THEIR LOGOS",
                 "members": [
-                    "JAM",
-                    "SHOEHORN",
-                    "STUFF",
-                    "WEDGE"
+                    "NASA",
+                    "N.F.L.",
+                    "PARAMOUNT",
+                    "SUBARU"
                 ]
             },
             {
                 "level": 3,
-                "group": "LAST WORDS IN LONG-RUNNING CHILDREN\u2019S SHOW TITLES",
+                "group": "HOMOPHONES OF GENESIS FIGURES",
                 "members": [
-                    "KANGAROO",
-                    "NEIGHBORHOOD",
-                    "RAINBOW",
-                    "STREET"
+                    "ABLE",
+                    "CANE",
+                    "EAVE",
+                    "NOAA"
                 ]
             }
         ]
