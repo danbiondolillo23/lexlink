@@ -14215,46 +14215,46 @@
     },
     {
         "id": 310,
-        "date": "2025-09-18",
+        "date": "2025-09-19",
         "answers": [
             {
                 "level": 0,
-                "group": "INTO IT",
+                "group": "EVALUATE",
                 "members": [
-                    "DOWN",
-                    "EAGER",
-                    "GAME",
-                    "WILLING"
+                    "GRADE",
+                    "RANK",
+                    "RATE",
+                    "SCORE"
                 ]
             },
             {
                 "level": 1,
-                "group": "FURNISH",
+                "group": "EXHIBIT NERVOUSNESS",
                 "members": [
-                    "EQUIP",
-                    "OUTFIT",
-                    "PREPARE",
-                    "READY"
+                    "BLUSH",
+                    "FIDGET",
+                    "PACE",
+                    "SWEAT"
                 ]
             },
             {
                 "level": 2,
-                "group": "ORGS WITH STARS IN THEIR LOGOS",
+                "group": "THINGS THAT CAN RUN, ANNOYINGLY",
                 "members": [
-                    "NASA",
-                    "N.F.L.",
-                    "PARAMOUNT",
-                    "SUBARU"
+                    "DYE",
+                    "MASCARA",
+                    "NOSE",
+                    "STOCKINGS"
                 ]
             },
             {
                 "level": 3,
-                "group": "HOMOPHONES OF GENESIS FIGURES",
+                "group": "PAPER ___",
                 "members": [
-                    "ABLE",
-                    "CANE",
-                    "EAVE",
-                    "NOAA"
+                    "CLIP",
+                    "TIGER",
+                    "TOWEL",
+                    "TRAIL"
                 ]
             }
         ]
